@@ -24,14 +24,15 @@ People use old/popular tech choices for some reason: as required by jobs, workpl
    
 
 ## [More Details]  
-Recommendations:  
+Framework Recommendations:  
 ▪ Native development: Mobile,... ▪ Flutter / Dart, the most cross-platform native SDK, covers all: native Devices, web,...  
-▪ Frontend: 1. Svelte, best in total, great for new start or update migration strategy.  
-▪ Frontend: 2. Sinuous: fast minimal framework. 3. Mikado: Max speed in virtual-dom frameworks.  
+▪ Frontend: 1.(Best) ▪ Svelte, best in total, great for new start or update migration strategy.  
+▪ Frontend: 2.(Minimal) ▪ Sinuous: fast minimal framework. ▪ Mikado: (Minimal/Max speed) in virtual-dom frameworks.  
+▪ Frontend: 3.(Job Offers): ▪ Vue, cool founder, developer/ecosystem. ▪ React/.net(Working at FB/MS company/platform)
 
 ▪ Backend : 1. Deno, a runtime built by the creator of node.js, to be greater, secure default, lighter, faster, Wasm, latest tech.  
 ▪ Backend : 2. Sapper if you are using svelte. ...... 3. Node.js: in case you want most features, support, compatiblity,...  
-
+  
 ▪ Svelte framework offers:  
 
 1. Developer Experience: less coding concentrate on your goal/concept instead of development complexity.  
@@ -54,4 +55,4 @@ Recommendations:
 The web development eco-system was confusing in last 7 years with many tools, frame works, stacks, versions...due to different standards, browsers, platforms, new mobile devices,...  3rd party tools/libs..made to solve/patch these issues, or add features that didn't exist.
 Good thing is the new web standards are available now, the most wanted features adopted in time, new HTML/ES/CSS features, solved issues, and add capabilities. matured frameworks... therefore old prefixes, 3rd party libs,... are not neccessary anymore, be up to date and follow the best practices.  
 
-Todo:  Cloud platform, Data base, Web API’s, AI/ML / TensorFlow.
+Todo:  Cloud platform, remote work, Data base, Web API’s, AI/ML / TensorFlow.
