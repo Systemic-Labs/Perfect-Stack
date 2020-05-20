@@ -6,7 +6,7 @@ Stating the best development stack in 2020 onward for a new software / web devel
 ## [Quick list]
 New web standards: ES6/next, new HTML, new CSS (Grid,Houdini,...), web components, Web Assembly.  
  
-Web Frameworks >> 
+**Frameworks >>**
 - Mobile Framework: Flutter.  
 - Front-end: Svelte(best), Vue(older, popularity, jobs)  
 - Back-end frameworks: 1.Deno. 2.Spapper. 3.Node (KOA, Nest, Express).  
@@ -19,7 +19,7 @@ Content Management System:... Strapi, Ghost, Apostrophe.
 Dev collaboration Platforms: Github, Gitlab,...Discord for chat and group discussions.  
 Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...  
 
-∎ Web Development what abouts...  
+∎ **Web Development, what abouts**  
 ▪ Front-end: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
 ▪ Back-end: SSR(Server Side Rendering) development, Processing on server/cload, network. Admin, DevOps, tools, framework.  
 ▪ Svelte Framework: : performance+, DX+, compiles to JS (no FW runtime dependencies, less overhead).  
@@ -34,7 +34,7 @@ Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...
 People use old/popular tech choices for some reason: as required by jobs, workplace old platforms, learned long ago, using different platforms/hard to update,... but if you're new to dev/web, need a refresh or doing a startup, pick the best tech useful to you at the time being.  
 ▪ If your main goal is making mobile Apps for Android and IOS, then start with Flutter/dart, is the most cross-platform native SDK, covers all: mobile, web, desktop...  
 
-▪ For Web design and development follow this tips:
+▪ **Web design and development tips:**
  1. Learn the base web standards-> (HTML, CSS, Javascript) follow/practice tutorials. Make few apps.(ex: Todo)
  2. New web standards -> ES6/next, new HTML, new CSS (grid,...)  practice/try what you learn.  
  3. Update the previous apps you made, using new things you learned. make a game and a blog site.
@@ -59,8 +59,7 @@ Framework Recommendations:
 ▪ Backend : 1. Deno, a runtime built by the creator of node.js, to be greater, secure default, lighter, faster, Wasm, latest tech.  
 ▪ Backend : 2. Sapper if you are using svelte. ...... 3. Node.js: in case you want most features, support, compatiblity,...  
   
-▪ Svelte framework offers:  
-
+▪ **Svelte framework offers**:  
 1. Developer Experience: less coding concentrate on your goal/concept instead of development complexity.  
 2. Standard: the code is compiled to standard JS. Fast/optimised, can be used anywhere, without FW dependencies.  
 3. Less complexity: code is pre-compiled, no runtime framework issue/dependency, no online build process.  
@@ -69,7 +68,7 @@ Framework Recommendations:
 4. Less Cost: more human understandable code, any employee can continue the work. + less bugs + less testing + faster development.  
 ***  
  
-## [The Web - status summary]  
+## **[The Web - status summary]**  
 The web eco-system was originally made to communicate information like simple text or data, it evolved to simple graphical presentation but later hardware and systems evolved with better specifications, and smartphones appeared, therefore the web technology situation became more complex and confusing in last 7 years due to workarounds and fixes to support more new features by vendor prefixes, many 3rd party libs, tools and frameworks to achieve functional demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatiblity of existing sites and old systems while native mobile and desktop platforms had all breaking changes required once a while. By the mean time all these 3rd party libraries, vendor prefixes and frameworks were made to solve/patch the issue and provide features that didn't exist in web standards yet.
 Good news is the new web standards are available now, evolved and solved issues and adopted the most wanted features in time and add ne posibilities, furthermore Frameworks evolvedand new Web APIs provide functionality and access to new technologies. Therefore with much flexiblity and compatiblity Web can now compete with native desktop and mobile platforms.  
 In summary you see that old prefixes, 3rd party libs,... are not neccessary anymore, If you are starting development be up to date and follow new trends and best practices of time being, unless required or there be no replacements. The recommended trends mentioned here were handpicked by review, testing and analysis over many criterias.  
