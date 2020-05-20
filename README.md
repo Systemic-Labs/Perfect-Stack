@@ -24,8 +24,8 @@ Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...
 ▪ Back-end: SSR(Server Side Rendering) development, Processing on server/cload, network. Admin, DevOps, tools, framework.  
 ▪ Svelte Framework: : performance+, DX+, compiles to JS (no FW runtime dependencies, less overhead).  
 ▪ Correct development method ⇒ simple, secure, reusable, no overhead, less external dependencies.  
-▪ Software Engineering: means using engineering principles and process-methods to approach the issue/task.
-▪ Solution Architect: a senior lead/engineer that evalutes an issue/goal/idea, then design, document and execute a complete structured plan while making many considerations.  A Solution Architect has some business insight/strategy and much technical knowledge/experience, use engineering principles, or at least good in design-pattern-process-methodology better with some research experience.
+▪ Software Engineering: means using engineering principles and process-methods to approach the issue/task.  
+▪ Solution Architect: a senior lead/engineer that evalutes an issue/goal/idea, then design, document and execute a complete structured plan while making many considerations. A Solution Architect has some business insight/strategy and much technical knowledge/experience, use engineering principles, or at least good in design-pattern-process-methodology better with some research experience.  
 ▪ Solution Architect VS Software Engineer: ToDo...
 ***
 
@@ -68,7 +68,7 @@ Framework Recommendations:
 4. Less Cost: more human understandable code, any employee can continue the work. + less bugs + less testing + faster development.  
 ***  
  
-## **[The Web - status summary]**  
+## [The Web - status summary]  
 The web eco-system was originally made to communicate information like simple text or data, it evolved to simple graphical presentation but later hardware and systems evolved with better specifications, and smartphones appeared, therefore the web technology situation became more complex and confusing in last 7 years due to workarounds and fixes to support more new features by vendor prefixes, many 3rd party libs, tools and frameworks to achieve functional demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatiblity of existing sites and old systems while native mobile and desktop platforms had all breaking changes required once a while. By the mean time all these 3rd party libraries, vendor prefixes and frameworks were made to solve/patch the issue and provide features that didn't exist in web standards yet.
 Good news is the new web standards are available now, evolved and solved issues and adopted the most wanted features in time and add ne posibilities, furthermore Frameworks evolvedand new Web APIs provide functionality and access to new technologies. Therefore with much flexiblity and compatiblity Web can now compete with native desktop and mobile platforms.  
 In summary you see that old prefixes, 3rd party libs,... are not neccessary anymore, If you are starting development be up to date and follow new trends and best practices of time being, unless required or there be no replacements. The recommended trends mentioned here were handpicked by review, testing and analysis over many criterias.  
