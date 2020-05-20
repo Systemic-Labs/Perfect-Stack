@@ -1,7 +1,31 @@
 # Perfect-Stack
 Stating the best development stack in 2020 onward for a new software / web development team. 🛠
 
-#### A guide to inform a new software development team about best tips, tools and information for Web Developers, Designers and Project Managers.  
+#### A guide about best tech stack, tips, tools and informationton for a new software developer  Useful for Web Developers, Designers and Project Managers.  
+
+## [Quick list]
+New web standards: ES6/next, new HTML, new CSS (Grid,Houdini,...), web components, Web Assembly.  
+Mobile Framework: Flutter.
+Web Frameworks >> Front-end: Svelte(best), Vue(older, popularity, jobs)
+..................Back-end frameworks: 1.Deno. 2.Spapper. 3.Node (KOA, Nest, Express).  
+
+UI:......CSS Grid and Houdini.  Tailwind UI library.
+WebGL 3D: Babylone, Whitestorm.js, Unity Tiny, Svelte gl.
+Cload platform: Amazon AWS, GCP (Google cload platform)
+Static Site Generator:....... Hexo, Hugo.
+Content Management System:... Strapi, Ghost, Apostrophe.
+Dev collaboration Platforms: Github, Gitlab,...Discord for chat and group discussions.
+Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...  
+
+∎ Web Development what abouts...  
+▪ Front-end: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
+▪ Back-end: SSR(Server Side Rendering) development, Processing on server/cload, network. Admin, DevOps, tools, framework.  
+▪ Svelte Framework: : performance+, DX+, compiles to JS (no FW runtime dependencies, less overhead).  
+▪ Correct development method ⇒ simple, secure, reusable, no overhead, less external dependencies.  
+▪ Software Engineering: means using engineering principles and process-methods to approach the issue/task.
+▪ Solution Architect: a senior lead/engineer that evalutes an issue/goal/idea, then design, document and execute a complete structured plan while making many considerations.  A Solution Architect has some business insight/strategy and much technical knowledge/experience, use engineering principles, or at least good in design-pattern-process-methodology better with some research experience.
+▪ Solution Architect VS /Software Engineer
+***
 
 ## [Advice for new developers in 2020]
 
@@ -21,7 +45,7 @@ People use old/popular tech choices for some reason: as required by jobs, workpl
  10. Summary: Be an expert on one or few fields, pro on few more, know the rest. Fullstack: Frontend+Backend ecosystem.  
  11. Personal Experience: Make a portfolio site (products show case). Make profile: CV, Linkedin, twitter.
  12. Final step: Work: Learn/do remote work/freelancing, or choose a skill relevant internship, get experience. Learn/Use collaboration platforms like GitHub/Lab. find a job or startup a new team.  Wish you the best.  
-   
+*** 
 
 ## [More Details]  
 Framework Recommendations:  
@@ -39,20 +63,13 @@ Framework Recommendations:
 2. Standard: the code is compiled to standard JS. Fast/optimised, can be used anywhere, without FW dependencies.  
 3. Less complexity: code is pre-compiled, no runtime framework issue/dependency, no online build process.  
 3.1. Less Testing-Dependency issues: less unexpected reactions, glitches, slowdowns...happens at runtime.  
-3.2. Less Testing/Errors: due to not having runtime dependancies on framework or external factors except your own code.  
+3.2. Less Testing/Errors: due to not having runtime dependancies, or external factors except your own code.  
 4. Less Cost: more human understandable code, any employee can continue the work. + less bugs + less testing + faster development.  
   
-  
-∎ Web Development what abouts...  
-▪ Front-end: Web app/site, Develop/Design of client side. HTML5.x, PWA, TWA, JavaScript, frameworks, Web assembly...  
-▪ Back-end: SSR(Server Side Rendering) development, Processing on server/distributed network. Admin, DevOps, tools, framework.  
-▪ Back-end frameworks: 1.Deno. 2.Spapper. 3.Node (KOA, Nest, Express).  
-▪ New web standards: ES6/next, new HTML, new CSS (Grid,Houdini,...), web components, Web Assembly.  
-▪ Svelte Framework: : performance+, DX+, compiles to JS (no FW runtime dependencies, less overhead).  
-▪ Developer Tools: Git Hub/Lab, other collaboration/open source platforms, Dev tools: CDT, CLI, npm...  
-▪ Correct development method ⇒ simple, secure, reusable, no overhead, less external dependencies.  
-
-The web development eco-system was confusing in last 7 years with many tools, frame works, stacks, versions...due to different standards, browsers, platforms, new mobile devices,...  3rd party tools/libs..made to solve/patch these issues, or add features that didn't exist.
-Good thing is the new web standards are available now, the most wanted features adopted in time, new HTML/ES/CSS features, solved issues, and add capabilities. matured frameworks... therefore old prefixes, 3rd party libs,... are not neccessary anymore, be up to date and follow the best practices.  
+ 
+## [The Web - status summary]  
+The web eco-system was originally made to communicate information like simple text or data, it evolved to simple graphical presentation but later hardware and systems evolved with better specifications, and smartphones appeared, therefore the web technology situation became more complex and confusing in last 7 years due to workarounds and fixes to support more new features by vendor prefixes, many 3rd party libs, tools and frameworks to achieve functional demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatiblity of existing sites and old systems while native mobile and desktop platforms had all breaking changes required once a while. By the mean time all these 3rd party libraries, vendor prefixes and frameworks were made to solve/patch the issue and provide features that didn't exist in web standards yet.
+Good news is the new web standards are available now, evolved and solved issues and adopted the most wanted features in time and add ne posibilities, furthermore Frameworks evolvedand new Web APIs provide functionality and access to new technologies. Therefore with much flexiblity and compatiblity Web can now compete with native desktop and mobile platforms.  
+In summary you see that old prefixes, 3rd party libs,... are not neccessary anymore, If you are starting development be up to date and follow new trends and best practices of time being, unless required or there be no replacements. The recommended trends mentioned here were handpicked by review, testing and analysis over many criterias.  
 
 Todo:  Cloud platform, remote work, Data base, Web API’s, AI/ML / TensorFlow.
