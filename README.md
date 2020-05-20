@@ -5,16 +5,18 @@ Stating the best development stack in 2020 onward for a new software / web devel
 
 ## [Quick list]
 New web standards: ES6/next, new HTML, new CSS (Grid,Houdini,...), web components, Web Assembly.  
-Mobile Framework: Flutter.
-Web Frameworks >> Front-end: Svelte(best), Vue(older, popularity, jobs)
-..................Back-end frameworks: 1.Deno. 2.Spapper. 3.Node (KOA, Nest, Express).  
+ 
+Web Frameworks >> 
+- Mobile Framework: Flutter.  
+- Front-end: Svelte(best), Vue(older, popularity, jobs)  
+- Back-end frameworks: 1.Deno. 2.Spapper. 3.Node (KOA, Nest, Express).  
 
-UI:......CSS Grid and Houdini.  Tailwind UI library.
-WebGL 3D: Babylone, Whitestorm.js, Unity Tiny, Svelte gl.
-Cload platform: Amazon AWS, GCP (Google cload platform)
-Static Site Generator:....... Hexo, Hugo.
-Content Management System:... Strapi, Ghost, Apostrophe.
-Dev collaboration Platforms: Github, Gitlab,...Discord for chat and group discussions.
+UI:......CSS Grid and Houdini.  Tailwind UI library.  
+WebGL 3D: Babylone, Whitestorm.js, Unity Tiny, Svelte gl.  
+Cload platform: Amazon AWS, GCP (Google cload platform)  
+Static Site Generator:....... Hexo, Hugo.  
+Content Management System:... Strapi, Ghost, Apostrophe.  
+Dev collaboration Platforms: Github, Gitlab,...Discord for chat and group discussions.  
 Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...  
 
 ∎ Web Development what abouts...  
@@ -24,7 +26,7 @@ Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...
 ▪ Correct development method ⇒ simple, secure, reusable, no overhead, less external dependencies.  
 ▪ Software Engineering: means using engineering principles and process-methods to approach the issue/task.
 ▪ Solution Architect: a senior lead/engineer that evalutes an issue/goal/idea, then design, document and execute a complete structured plan while making many considerations.  A Solution Architect has some business insight/strategy and much technical knowledge/experience, use engineering principles, or at least good in design-pattern-process-methodology better with some research experience.
-▪ Solution Architect VS /Software Engineer
+▪ Solution Architect VS Software Engineer: ToDo...
 ***
 
 ## [Advice for new developers in 2020]
@@ -65,7 +67,7 @@ Framework Recommendations:
 3.1. Less Testing-Dependency issues: less unexpected reactions, glitches, slowdowns...happens at runtime.  
 3.2. Less Testing/Errors: due to not having runtime dependancies, or external factors except your own code.  
 4. Less Cost: more human understandable code, any employee can continue the work. + less bugs + less testing + faster development.  
-  
+***  
  
 ## [The Web - status summary]  
 The web eco-system was originally made to communicate information like simple text or data, it evolved to simple graphical presentation but later hardware and systems evolved with better specifications, and smartphones appeared, therefore the web technology situation became more complex and confusing in last 7 years due to workarounds and fixes to support more new features by vendor prefixes, many 3rd party libs, tools and frameworks to achieve functional demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatiblity of existing sites and old systems while native mobile and desktop platforms had all breaking changes required once a while. By the mean time all these 3rd party libraries, vendor prefixes and frameworks were made to solve/patch the issue and provide features that didn't exist in web standards yet.
