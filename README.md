@@ -3,21 +3,22 @@ Stating the best development stack in 2020 onward for a new software / web devel
 
 #### A guide about best tech stack, tips, tools and informationton for a new software developer  Useful for Web Developers, Designers and Project Managers.  
 
-## [Quick list]
-New web standards: ES6/next, new HTML, new CSS (Grid,Houdini,...), web components, Web Assembly.  
- 
-**Frameworks >>**
-- Mobile Framework: Flutter.  
-- Front-end: Svelte(best), Vue(older, popularity, jobs)  
-- Back-end frameworks: 1.Deno. 2.Spapper. 3.Node (KOA, Nest, Express).  
+## [Quick list]  
 
-UI:......CSS Grid and Houdini.  Tailwind UI library.  
-WebGL 3D: Babylone, Whitestorm.js, Unity Tiny, Svelte gl.  
-Cload platform: Amazon AWS, GCP (Google cload platform)  
-Static Site Generator:....... Hexo, Hugo.  
-Content Management System:... Strapi, Ghost, Apostrophe.  
-Dev collaboration Platforms: Github, Gitlab,...Discord for chat and group discussions.  
-Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...  
+- New web standards: ES6/next, new HTML, new CSS (Grid,Houdini,...), web components, Web Assembly.  
+
+- **Frameworks >>**
+ - Mobile Framework: Flutter.  
+ - Front-end: Svelte(best), Vue(older, popularity, jobs)  
+ - Back-end frameworks: 1.Deno. 2.Spapper. 3.Node (KOA, Nest, Express).  
+  
+- UI:......CSS Grid and Houdini.  Tailwind UI library.  
+- WebGL 3D: Babylone, Whitestorm.js, Unity Tiny, Svelte gl.  
+- Cload platform: Amazon AWS, GCP (Google cload platform)  
+- Static Site Generator:....... Hexo, Hugo.  
+- Content Management System:... Strapi, Ghost, Apostrophe.  
+- Dev collaboration Platforms: Github, Gitlab,...Discord for chat and group discussions.  
+- Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...  
 
 ∎ **Web Development, what abouts**  
 ▪ Front-end: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
