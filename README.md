@@ -19,6 +19,7 @@ Stating the best development stack in 2020 onward for a new software / web devel
 - Content Management System:... Strapi, Ghost, Apostrophe.  
 - Dev collaboration Platforms: Github, Gitlab,...Discord for chat and group discussions.  
 - Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...  
+***
 
 ∎ **Web Development, what abouts**  
 ▪ Front-end: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
@@ -50,7 +51,7 @@ People use old/popular tech choices for some reason: as required by jobs, workpl
  12. Final step: Work: Learn/do remote work/freelancing, or choose a skill relevant internship, get experience. Learn/Use collaboration platforms like GitHub/Lab. find a job or startup a new team.  Wish you the best.  
 *** 
 
-## [More Details]  
+## [Framework Details]  
 Framework Recommendations:  
 ▪ Native development: Mobile,... ▪ Flutter / Dart, the most cross-platform native SDK, covers all: native Devices, web,...  
 ▪ Frontend: 1.(Best) ▪ Svelte, best in total, great for new start or update migration strategy.  
