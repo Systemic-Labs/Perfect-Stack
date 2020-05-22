@@ -15,8 +15,8 @@ Stating the best development stack in 2020 onward for a new software / web devel
 - UI:......CSS Grid and Houdini.  Tailwind UI library.  
 - WebGL 3D: Babylone, Whitestorm.js, Unity Tiny, Svelte gl.  
 - Cload platform: Amazon AWS, GCP (Google cload platform)  
-- Static Site Generator:....... Hexo, Hugo.  
-- Content Management System:... Strapi, Ghost, Apostrophe.  
+- Static Site Generator: Swyx(Svelte), Hexo(JS), Hugo(Go), Eleventy(js), Nikola(py), Svbtle.  
+- Content Management System:... Strapi, Ghost, Netlify CMS, Apostrophe.  
 - Dev collaboration Platforms: Github, Gitlab,...Discord for chat and group discussions.  
 - Dev tools: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup...  
 ***
