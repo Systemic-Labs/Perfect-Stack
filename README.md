@@ -37,18 +37,18 @@ People use old/popular tech choices for some reason: as required by jobs, workpl
 ▪ If your main goal is making mobile Apps for Android and IOS, then start with Flutter/dart, is the most cross-platform native SDK, covers all: mobile, web, desktop...  
 
 ## **Web design and development tips:**
- **1. Learn the base web standards** -> (HTML, CSS, Javascript) follow/practice tutorials. Make few apps.(ex: Todo)
+ **1. Learn the base web standards** -> (HTML, CSS, Javascript) follow/practice tutorials. Make few apps.(ex: Todo)  
  **2. New web standards** -> ES6/next, new HTML, new CSS (grid,...)  practice/try what you learn.  
- **3. Update the previous apps you made**, using new things you learned. make a game and a blog site.
- **4. Deploy**: learn how to host/deploy your site. make a simple page, host on Netlify, github/gitlab pages, zeit, surge...
+ **3. Update the previous apps you made**, using new things you learned. make a game and a blog site.  
+ **4. Deploy**: learn how to host/deploy your site. make a simple page, host on Netlify, github/gitlab pages, zeit, surge...  
  **5. Learn a Framework**s: Svelte. current best rxperience. Light, simple, fast, code compiles to standard JS (not limited).  
  **6. Learn things if required** learn other tools/libs/platforms afterwards, when needed.(ex: DB, AI, backend, cloud, tools...)  
  **7. Learn Design**: Patterns, tools, UI/UX(user interface/experience). Concepts: visual clarity, visual effects, utility 1st.  
- **8. Responsive design**: native looks, any device, clear focus, usability/accessibility. CSS flex, grid...
+ **8. Responsive design**: native looks, any device, clear focus, usability/accessibility. CSS flex, grid...  
  **9. Backend**: either 1. Sapper(if using svelte) or 2. Deno: new js-runtime replacement for Node.js by its creator.  
- **10.Personal** Experience: Make a portfolio site (products show case). Make profile: CV, Linkedin, twitter.
- **11.Work**: Learn/do remote work/freelancing, or choose a skill relevant internship, get experience. Learn/Use collaboration platforms like GitHub/Lab. find a job or startup a new team.  Wish you the best.   
- **12.Summary**: Be an expert on one or few fields, pro on few more, know the rest. Fullstack: Frontend+Backend ecosystem.  
+ **10.Personal** Experience: Make a portfolio site (products show case). Make profile: CV, Linkedin, twitter.  
+ **11.Summary**: Be an expert on one or few fields, pro on few more, know the rest. Fullstack: Frontend+Backend ecosystem.  
+**12.Work**: Learn/do remote work/freelancing, or best go for a relevant internship, get experience. Learn/Use collaboration platforms like GitHub/Lab. find a job or startup a new team.  Wish you the best.  
 
 *** 
 
