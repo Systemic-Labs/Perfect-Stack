@@ -1,24 +1,27 @@
 # Perfect-Stack
-Stating the best development trends, stack and best practices in 2020 onward for a new developer, software/web development team. 🛠
+Best in development stack, trends and best practices for a new developer, software/web development team. 🛠  
+In this document we state better choices rather than just what's popular.  
 
-#### A guide about best tech stack, tips, tools and informationton for a new software developer  Useful for Web Developers, Designers and Project Managers.  
+#### A guide about best tech stack, tips, tools and informationton for a new software developer  The information is useful for Web Developers, Designers and Project Managers, startups,...  
 
 ## [Quick list]  
 
-- New web standards: ES6/next, new HTML, new CSS (Grid,Houdini,...), web components, Web Assembly.  
+- Use new web standards: ES6/next, new HTML, new CSS (Grid, Houdini,...), web components, Web Assembly.  
 
 - **Frameworks >>**
  - **Mobile**: Flutter.  
- - **Front-end**: Svelte(best), Vue(older, popularity, jobs)  
- - **Back-end**: 1.Deno. 2.Spapper(svelte). 3.Node (KOA, Nest, Express).  
+ - **Front-end**: Svelte(best),  Vue(older, popularity, more jobs)  
+ - **Back-end**: 1.Deno.  2.Svelte-kit.  3.Node (KOA, Polka).  
   
-- **UI**: ... standard CSS new Grid and Houdini.  Tailwind UI library.  
-- **WebGL 3D**: Babylone, Whitestorm.js, Unity Tiny, three.js, Svelte gl.  
-- **Cload platform**: Amazon AWS, GCP (Google cload platform).  
-- **Static Site Generator**:  Hexo(js), Hugo(go), Eleventy(js), Nikola(py), Svbtle, Swyx(svelte).  
+- **UI**: ... Mater standard CSS, new Grid and Houdini.  still need it? Tailwind v2.  
+- **WebGL 3D**:  Spline,  Babylone.js,  Unity Tiny.
+- **Cload platform**:  S: SupaBase    L: Cloadflare  or  Firebase    XL: Amazon AWS  or GCP (Google cload platform).  
+- **Host**:  Deno Deploy,  Begin,  Netlify,  vercel,  Firebase.  
+- **Static Site Generator**:  Hexo(js), Hugo(go), Eleventy(js), Nikola(py), Svbtle.  
 - **Content Management System**:... Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
-- **Dev collaboration Platforms**: Github, Gitlab,...Discord for chat and group discussions.  
-- **Dev tools**: CDT, CLI tools, npm, vs-code, emmet, Bundler: parcel, rollup, Electron for desktop apps, few online tools...  
+- **Dev collaboration Platforms**: Github, Gitpod, Gitlab, notion(paid).  
+- **Dev tools**:  CDT, CLI tools, skypack, npm, vs-code, emmet,... search for useful online tools.  
+- **Other stuff**:  Bundler: vite, snowpack.  Deno or Tauri for desktop apps.  
 ***
 
 ### **Web Development - about definitions**  
@@ -57,11 +60,12 @@ People use old/popular tech choices for some reason: as required by jobs, workpl
 ### Frontend: 
  - **1.(Best) ▪ Svelte**: best in total, great for new start or update migration strategy.  
  - **2.(Minimal) ▪ Sinuous**: fast minimal framework. ▪ Mikado: (Minimal/Max speed) virtual-dom framework.  
- - **3.(Job offers, by force/work/ecosystem)**:  **Vue** (popular). ... **Angular / React / .net** (G/FB/MS company/platforms)
+ - **3.(Job offers, by force/work/ecosystem)**:  **Vue** (popular). ... **Angular / React / .net** (G/FB/MS company-platforms)
 
 ### Backend :
-**1. Deno**: a runtime built by the creator of node.js, to be greater, secure default, lighter, faster, Wasm, latest tech.  
-**2. Sapper**: if you are using svelte. ... **3. Node.js**: in case you want most available libs, support, compatiblity.  
+**1. Deno**: a runtime built by the creator of node.js, it is great, secure by default, lighter, faster, Wasm, latest tech.  
+**2. Sveltekit**: if you are using svelte.  **Snel**: Svelte project built and compiled on deno eco-system.  
+**3. Node.js**: in case you want most available libs, support, compatiblity.  Koa is a good node.js framework.  
   
 ### Svelte framework offers:  
 **1. Developer Experience**: less coding concentrate on your goal/concept instead of development complexity.  
