@@ -1,18 +1,27 @@
-# Perfect-Stack
-Best in development stack, trends and best practices for a new software developer or team. 🛠  
+# Perfect-Stack  🛠i
+Best options, trends, tools, tips and best practices for a software developer or team.   
 In this document we state better choices rather than just what's popular.  
 
 #### A guide to best tech stack, tips, tools and informationton for a new software developer.  
 The information is useful for Web Developers, Designers and Project Managers, startups,...  
 Feel welcome to participate in this article, mostly when there is a clear improvement, a mistake or outdated topic.
 
-### New Dev?
-- Learn new tech. Ex: in web standards>> ES6/next, new HTML, new CSS (Grid, Houdini,...), web components, Web Assembly.  
+### New developer or learning new stuff?
+- Learn new tech. Ex: in web standards>> ES6/next, new HTML, new CSS (Grid, Houdini,...) , Web Assembly.  
 - Learn from best tutorials/courses: recent material of last 1~2 year(or months...) from a sharp experienced tutor, Ex: Fireship.io
-- Avoid 10~20+ year old tech (unless is rebuilt from scratch) 
- old tech was made for past era HW/SW/problems... today works by many patches and extra layers to satisfy needs, yet keep things compatible with past.  
- also old devs retire, and new ones might add new layers instead of fixing the original code, these issues in long term cause:
- extra complexity, process, power, cost, conflicts, Large number/size of files, slow development pace and a closed ecosystem...  
+
+### New developer or decision maker? and why you must avoid popular old tech.
+- Avoid learning ~10+ years old model if possible and there is a better alternative.
+ old tech was made for past era ecosystem, development model and HW/SW/problems.
+- Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, and new developers are forced to follow them. This process might repeat multiple times...   
+- The old popular tech nature: ___ it works, is popular and has big community and resources, yet is=n time it became complex and heavy, due to extentions, compatibility patches and extra layers to make it work with original and new tools or requirements, yet it must keep things compatible with old syntax and system model.  Each time a new feature is added, 100s of changes are involved to the tech code base.
+- Breaking changes and migration: ___ when there is a new feature that contradicts something which can't be solved, the devs will decide to either giveup on the feature, or make a breaking change which means you must either update previous your previous codes(migration), or stick to the old model/version.
+- Each time a breaking change shows up, you might need to repeat this process. this makes multiple builds in a company if all won't follow the same version.
+- Most cases: Older and more different a platform is, and higher level it be, the issue is seen more often. 
+- Lower level coding is less/not affected by these isssues. Ex: C programming language is old and rarely seen changes at all, it works well.
+
+ - As old devs retire,  new ones might add new layers of abstraction instead of fixing the original code, these issues cause
+ extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...  
 
 
 ## [Quick list]  
@@ -24,13 +33,14 @@ Feel welcome to participate in this article, mostly when there is a clear improv
  - **Back-end**: 1.Deno ___  2.Svelte-kit ___  3.Node (KOA, Polka).  
   
 **UI **>>  
-... learn well standard CSS, new additions like Grid and Houdini.  still need a UI?
-... - Windi CSS - Tailwind v2 ...... Minimal approach:  renderless, headless ui, milligram, chota, skeleton.  
+... standard CSS is best, learn new additions like Grid and Houdini.  
+- still need a framework?
+... Windi CSS - Tailwind v2 ...... Minimal approachs:  renderless, headless ui, milligram, chota, skeleton.  
 
 - **WebGL 3D**:  Spline,  Babylone.js,  Unity Tiny.
 - **Cload platform**:  S: SupaBase   L: Cloadflare  or  Firebase    XL: Amazon AWS  or GCP (Google cload platform).  
 - **Host**:  Begin,  Deno Deploy,  Netlify,  vercel,  Firebase.  
-- **Static Site Generator**:  Hexo(js), Hugo(go), Eleventy(js), Nikola(py), Svbtle.  
+- **Static Site Generator**:  Hexo(js), Hugo(go), Eleventy(js), Next(react), Nuxt(vue), MkDocs(py), Astro(Ract, Vue,Svelte)  
 - **Content Management System**:... Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
 - **Dev collaboration Platforms**: Github, Gitpod, Gitlab, notion.  
 - **Dev tools**:  GIT, CDT, CLI tools, skypack, npm, vs-code, emmet,... search for useful online tools.  
@@ -96,4 +106,4 @@ The web eco-system was originally made to communicate information like simple te
 Good news is the new web standards are available now, evolved and solved issues and adopted the most wanted features in time and add ne posibilities, furthermore Frameworks evolvedand new Web APIs provide functionality and access to new technologies. Therefore with much flexiblity and compatiblity Web can now compete with native desktop and mobile platforms.  
 In summary you see that old prefixes, 3rd party libs,... are not neccessary anymore, If you are starting development be up to date and follow new trends and best practices of time being, unless required or there be no replacements. The recommended trends mentioned here were handpicked by review, testing and analysis over many criterias.  
 
-**Todo**:  Cloud platform, remote work, Database, Web API’s, AI/ML / TensorFlow.
+**Todo**:  Cloud platform, remote work, Database, Security, Web API’s, AI/ML / TensorFlow.
