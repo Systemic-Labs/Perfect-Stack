@@ -6,11 +6,9 @@ In this document we state better choices rather than just what's popular.
 The information is useful for Web Developers, Designers and Project Managers, startups,...  
 Feel welcome to participate in this article, mostly when there is a clear improvement, a mistake or outdated topic.
 
-### New developer or learning new stuff?
-- Learn new tech. Ex: in web standards>> ES6/next, new HTML, new CSS (Grid, Houdini,...) , Web Assembly.  
-- Learn from best tutorials/courses: recent material of last 1~2 year(or months...) from a sharp experienced tutor, Ex: Fireship.io
 
 ### New developer or decision maker? and why you must avoid popular old tech.
+
 - Avoid learning ~10+ years old model if possible and there is a better alternative.
  old tech was made for past era ecosystem, development model and HW/SW/problems.
 - Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, and new developers are forced to follow them. This process might repeat multiple times...   
@@ -19,9 +17,18 @@ Feel welcome to participate in this article, mostly when there is a clear improv
 - Each time a breaking change shows up, you might need to repeat this process. this makes multiple builds in a company if all won't follow the same version.
 - Most cases: Older and more different a platform is, and higher level it be, the issue is seen more often. 
 - Lower level coding is less/not affected by these isssues. Ex: C programming language is old and rarely seen changes at all, it works well.
-
- - As old devs retire,  new ones might add new layers of abstraction instead of fixing the original code, these issues cause
+- As old devs retire,  new ones might add new layers of abstraction instead of fixing the original code, these issues cause
  extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...  
+
+
+## [Advice for new developers]
+
+People use old/popular tech choices for some reason: required at workplace, learned long ago, senior old eco-system,... but if you're new to developer, need a refresh or doing a startup, pick the best tech useful to you at the time being.  
+▪ If your are mainly making mobile Apps for Android and IOS, then start with Flutter/dart, is the most cross-platform native SDK, covers all: mobile, web, desktop... 
+
+### learning new stuff?
+- 1st learn basics well, including new additions. Ex: in web standards>> ES6/next, new HTML, new CSS (Grid, Houdini,...) , Web Assembly.  
+- Learn from best tutorials/courses: recent material of last 1~2 year(or months...) from a sharp experienced tutor, Ex: Fireship.io
 
 
 ## [Quick list]  
@@ -59,10 +66,7 @@ Feel welcome to participate in this article, mostly when there is a clear improv
 A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.  
 ***
 
-## [Advice for new developers in 2020]
 
-People use old/popular tech choices for some reason: required at workplace, learned long ago, senior old eco-system,... but if you're new to developer, need a refresh or doing a startup, pick the best tech useful to you at the time being.  
-▪ If your main goal is making mobile Apps for Android and IOS, then start with Flutter/dart, is the most cross-platform native SDK, covers all: mobile, web, desktop...  
 
 ## **Web design and development tips:**
  **1. Learn the base web standards** -> (HTML, CSS, Javascript) follow/practice tutorials. Make few apps.(ex: Todo)  
@@ -102,7 +106,9 @@ People use old/popular tech choices for some reason: required at workplace, lear
 **4. Less Cost**: more human understandable code, more employees can continue the work. + less bugs + less testing + faster development.  ***  
   
 ## [The Web - status summary]  
-The web eco-system was originally made to communicate information like simple text or data, it evolved to simple graphical presentation but later hardware and systems evolved with better specifications, and smartphones appeared, therefore the web technology situation became more complex and confusing in last 7 years due to workarounds and fixes to support more new features by vendor prefixes, many 3rd party libs, tools and frameworks to achieve functional demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatiblity of existing sites and old systems while native mobile and desktop platforms had all breaking changes required once a while. By the mean time all these 3rd party libraries, vendor prefixes and frameworks were made to solve/patch the issue and provide features that didn't exist in web standards yet.
+The web eco-system was originally made to communicate with text or data, it later evolved to present simple graphics and images.
+Afterwards hardware specs advanced, offering high performnce and capacity, smartphones appeared, online usecases and services multiplied.  
+Therefore all these things affected the web status which became more complex and confusing in the last decade due to workarounds and fixes to support new features by vendor prefixes, 3rd party libs, tools and frameworks to achieve functional demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatiblity of existing sites and old systems while native mobile and desktop platforms had all breaking changes required once a while. By the mean time all these 3rd party libraries, vendor prefixes and frameworks were made to solve/patch the issue and provide features that didn't exist in web standards yet.
 Good news is the new web standards are available now, evolved and solved issues and adopted the most wanted features in time and add ne posibilities, furthermore Frameworks evolvedand new Web APIs provide functionality and access to new technologies. Therefore with much flexiblity and compatiblity Web can now compete with native desktop and mobile platforms.  
 In summary you see that old prefixes, 3rd party libs,... are not neccessary anymore, If you are starting development be up to date and follow new trends and best practices of time being, unless required or there be no replacements. The recommended trends mentioned here were handpicked by review, testing and analysis over many criterias.  
 
