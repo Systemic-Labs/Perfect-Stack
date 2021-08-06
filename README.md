@@ -7,51 +7,42 @@ The information is useful for Web Developers, Designers and Project Managers, st
 Feel welcome to participate in this article, mostly when there is a clear improvement, a mistake or outdated topic.
 
 
-### New developer or decision maker? and why you must avoid popular old tech.
 
-- Avoid learning ~10+ years old model if possible and there is a better alternative.
- old tech was made for past era ecosystem, development model and HW/SW/problems.
-- Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, and new developers are forced to follow them. This process might repeat multiple times...   
-- The old popular tech nature: ___ it works, is popular and has big community and resources, yet is=n time it became complex and heavy, due to extentions, compatibility patches and extra layers to make it work with original and new tools or requirements, yet it must keep things compatible with old syntax and system model.  Each time a new feature is added, 100s of changes are involved to the tech code base.
-- Breaking changes and migration: ___ when there is a new feature that contradicts something which can't be solved, the devs will decide to either giveup on the feature, or make a breaking change which means you must either update previous your previous codes(migration), or stick to the old model/version.
-- Each time a breaking change shows up, you might need to repeat this process. this makes multiple builds in a company if all won't follow the same version.
-- Most cases: Older and more different a platform is, and higher level it be, the issue is seen more often. 
-- Lower level coding is less/not affected by these isssues. Ex: C programming language is old and rarely seen changes at all, it works well.
-- As old devs retire,  new ones might add new layers of abstraction instead of fixing the original code, these issues cause
- extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...  
+### [Advice for new developers]
 
+- People use old/popular tech choices for some reason: required at workplace, learned in past, following senior's old eco-system,... but if you're a new developer or need a refresh or doing a startup, update your base knowledge and pick the best popular new framework + tools/libs which you need.  *...more detailed discussion at the end of this doc...*
 
-## [Advice for new developers]
+- If your are mainly making mobile Apps for Android and IOS, then start with Flutter/dart, is the most cross-platform native SDK, covers all: mobile, web, desktop... But if you're into web both web and app stuff use capacitor.
 
-People use old/popular tech choices for some reason: required at workplace, learned long ago, senior old eco-system,... but if you're new to developer, need a refresh or doing a startup, pick the best tech useful to you at the time being.  
-▪ If your are mainly making mobile Apps for Android and IOS, then start with Flutter/dart, is the most cross-platform native SDK, covers all: mobile, web, desktop... 
-
-### learning new stuff?
-- 1st learn basics well, including new additions. Ex: in web standards>> ES6/next, new HTML, new CSS (Grid, Houdini,...) , Web Assembly.  
-- Learn from best tutorials/courses: recent material of last 1~2 year(or months...) from a sharp experienced tutor, Ex: Fireship.io
-
+### Learning tips
+- 1st learn basics well, including new additions. Ex: in web standards>> ES6/next, new HTML, new CSS (Grid, Houdini,...)
+- Learn from best tutorials/courses, search based on time and views, choose more recent new materials, from a sharp experienced tutor, Ex: Fireship.io  
+  
+***
 
 ## [Quick list]  
 
 **Frameworks >>**
  - **Mobile**: Flutter.  
  - **Desktop**:  Deno executable or Tauri.
- - **Front-end**: Svelte(best),  Vue(older, popularity, more jobs)  
+ - **Front-end**: Svelte(best DX),  Vue(older, more popularity and jobs)  
  - **Back-end**: 1.Deno ___  2.Svelte-kit ___  3.Node (KOA, Polka).  
   
 **UI **>>  
-... standard CSS is best, learn new additions like Grid and Houdini.  
-- still need a framework?
-... Windi CSS - Tailwind v2 ...... Minimal approachs:  renderless, headless ui, milligram, chota, skeleton.  
+- Standard CSS is best, mostly with a framework like svelte, learn new CSS additions Grid, Houdini...  
+- You might not need pre-perocessors, css libs, frameworks... yet if you insist:
+  - Minimal approachs:  renderless, headless ui, milligram, chota, skeleton. 
+  - CSS utility fameworks:  Windi CSS - Tailwind v2
+  - UI-Kits: (full/semi premade elements) Bootstrap, Bulma, Kahi UI, or other ui-kits of your liking.
 
 - **WebGL 3D**:  Spline,  Babylone.js,  Unity Tiny.
 - **Cload platform**:  S: SupaBase   L: Cloadflare  or  Firebase    XL: Amazon AWS  or GCP (Google cload platform).  
 - **Host**:  Begin,  Deno Deploy,  Netlify,  vercel,  Firebase.  
-- **Static Site Generator**:  Hexo(js), Hugo(go), Eleventy(js), Next(react), Nuxt(vue), MkDocs(py), Astro(Ract, Vue,Svelte)  
+- **Static Site Generator**:  Hexo(js), Astro(Ract, Vue, Svelte), Hugo(go), Eleventy(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **Content Management System**:... Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
 - **Dev collaboration Platforms**: Github, Gitpod, Gitlab, notion.  
-- **Dev tools**:  GIT, CDT, CLI tools, skypack, npm, vs-code, emmet,... search for useful online tools.  
-- **Other stuff**:  Bundler: vite, snowpack.
+- **Dev tools**:  GIT, CDT, CLI tools, npm, vs-code, emmet, skypack...  
+- **Other stuff**: find useful online tools.......Bundler: vite, snowpack......
 ***
 
 ## **Web Development - about definitions**  
@@ -105,11 +96,27 @@ A solution architect has some business insight/strategy and various technical kn
      
 **4. Less Cost**: more human understandable code, more employees can continue the work. + less bugs + less testing + faster development.  ***  
   
+  
 ## [The Web - status summary]  
 The web eco-system was originally made to communicate with text or data, it later evolved to present simple graphics and images.
 Afterwards hardware specs advanced, offering high performnce and capacity, smartphones appeared, online usecases and services multiplied.  
 Therefore all these things affected the web status which became more complex and confusing in the last decade due to workarounds and fixes to support new features by vendor prefixes, 3rd party libs, tools and frameworks to achieve functional demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatiblity of existing sites and old systems while native mobile and desktop platforms had all breaking changes required once a while. By the mean time all these 3rd party libraries, vendor prefixes and frameworks were made to solve/patch the issue and provide features that didn't exist in web standards yet.
 Good news is the new web standards are available now, evolved and solved issues and adopted the most wanted features in time and add ne posibilities, furthermore Frameworks evolvedand new Web APIs provide functionality and access to new technologies. Therefore with much flexiblity and compatiblity Web can now compete with native desktop and mobile platforms.  
-In summary you see that old prefixes, 3rd party libs,... are not neccessary anymore, If you are starting development be up to date and follow new trends and best practices of time being, unless required or there be no replacements. The recommended trends mentioned here were handpicked by review, testing and analysis over many criterias.  
+In summary use the main platform itself whenever you can!  some of the old prefixes, 3rd party libs,... are not neccessary anymore...(as explained above) If you are new dev or refreshing your knowledge, be up to date and follow new trends and best practices of time being, not the past... unless required or there is no alternative. The recommended trends mentioned here were handpicked by review, testing and analysis over many criterias.  
+
+
+### New developer or decision maker? and why you must avoid popular old tech.
+
+- Avoid learning ~10+ years old model if possible and there is a better alternative.
+ old tech was made for past era ecosystem, development model and HW/SW/problems.
+- Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, and new developers are forced to follow them. This process might repeat multiple times...   
+- The old popular tech nature: ___ it works, is popular and has big community and resources, yet is=n time it became complex and heavy, due to extentions, compatibility patches and extra layers to make it work with original and new tools or requirements, yet it must keep things compatible with old syntax and system model.  Each time a new feature is added, 100s of changes are involved to the tech code base.
+- Breaking changes and migration: ___ when there is a new feature that contradicts something which can't be solved, the devs will decide to either giveup on the feature, or make a breaking change which means you must either update previous your previous codes(migration), or stick to the old model/version.
+- Each time a breaking change shows up, you might need to repeat this process. this makes multiple builds in a company if all won't follow the same version.
+- Most cases: Older and more different a platform is, and higher level it be, the issue is seen more often. 
+- Lower level coding is less/not affected by these isssues. Ex: C programming language is old and rarely seen changes at all, it works well.
+- As old devs retire,  new ones might add new layers of abstraction instead of fixing the original code, these issues cause
+ extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...  
+
 
 **Todo**:  Cloud platform, remote work, Database, Security, Web API’s, AI/ML / TensorFlow.
