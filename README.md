@@ -1,10 +1,13 @@
 # Perfect-Stack  🛠i
-Best options, trends, tools, tips and best practices for a software developer or team.   
-In this document we state better choices rather than just what's popular.  
+An awsome-list guide of top picks, tools, tips, for a Web developer / team. 
+This document covers libraries, tech stack, platforms, tools and other information.
+Therefore you get informed of best available options rather than just popularity. 
 
-#### A guide to best tech stack, tips, tools and informationton for a new software developer.  
-The information is useful for Web Developers, Designers and Project Managers, startups,...  
-Feel welcome to participate in this article, mostly when there is a clear improvement, a mistake or outdated topic.
+#### A guide for a new software developer.  
+This article is useful to Web Developers, Designers, learning devs, startups, all decision makers. 
+Feel welcome to contribute, to do an update, improvement, fix a mistake or in case you found a better 
+option with clear advantage.
+
 
 
 
@@ -23,22 +26,24 @@ Feel welcome to participate in this article, mostly when there is a clear improv
 ## [Quick list]  
 
 **Frameworks >>**
- - **Mobile**: Flutter.  
+ - **Mobile**: Flutter(pure native)......Capacitor 3 (Web and native)  
  - **Desktop**:  Deno executable or Tauri.
- - **Front-end**: Svelte(best DX),  Vue(older, more popularity and jobs)  
+ - **Front-end**: Svelte(best overall, best DX),  Vue(older, a bit higher popularity and more jobs)  
  - **Back-end**: 1.Deno ___  2.Svelte-kit ___  3.Node (KOA, Polka).  
   
 **UI **>>  
-- Standard CSS is best, mostly with a framework like svelte, learn new CSS additions Grid, Houdini...  
-- You might not need pre-perocessors, css libs, frameworks... yet if you insist:
-  - Minimal approachs:  renderless, headless ui, milligram, chota, skeleton. 
+- Standard CSS is best... specially when used in modular or component form, such as in svelte
+- You might not need libs, frameworks, pre-processors... learn new CSS additions Grid, Houdini...
+
+- yet if you insist:
+  - Minimal approachs: (structure)...renderless, headless ui... (UI)...milligram, chota, skeleton...
   - CSS utility fameworks:  Windi CSS - Tailwind v2
-  - UI-Kits: (full/semi premade elements) Bootstrap, Bulma, Kahi UI, or other ui-kits of your liking.
+  - UI-Kits: (semi/fully made components) Bootstrap, Bulma, Kahi UI, or other ui-kits of your liking.
 
 - **WebGL 3D**:  Spline,  Babylone.js,  Unity Tiny.
 - **Cload platform**:  S: SupaBase   L: Cloadflare  or  Firebase    XL: Amazon AWS  or GCP (Google cload platform).  
 - **Host**:  Begin,  Deno Deploy,  Netlify,  vercel,  Firebase.  
-- **Static Site Generator**:  Hexo(js), Astro(Ract, Vue, Svelte), Hugo(go), Eleventy(js), Next(react), Nuxt(vue), MkDocs(py)  
+- **Static Site Generator**:  Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **Content Management System**:... Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
 - **Dev collaboration Platforms**: Github, Gitpod, Gitlab, notion.  
 - **Dev tools**:  GIT, CDT, CLI tools, npm, vs-code, emmet, skypack...  
