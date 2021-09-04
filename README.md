@@ -1,9 +1,10 @@
 # Perfect-Stack  🛠i
-An awsome-list guide of top picks, tools, tips, for a Web developer / team. 
+
+**About:** an awsome guide of top picks in dev stack, tools, tips, for a Web developer / team. 
 This document covers libraries, tech stack, platforms, tools and other information.
 Therefore you get informed of best available options rather than just popularity. 
 
-#### A guide for a new software developer.  
+#### Target user:  
 This article is useful to Web Developers, Designers, learning devs, startups, all decision makers. 
 Feel welcome to contribute, to do an update, improvement, fix a mistake or in case you found a better 
 option with clear advantage.
