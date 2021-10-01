@@ -15,19 +15,19 @@ option with clear advantage.
 ### [General Suggestions]
 
 - Most developers use popular and usually outdated practices, due to: required at workplace, learned in the past, directed by a senior,...
-add the fact that each of these people must recommend others, therefore what's most poplular might not be the best option at the time being.
+include they recommend same things to others, therefore what's most poplular might not be the best option at the time being.
 
-If you're a new developer, updating your skills or planning a startup, your'e not bound to the above conditions, therefore take advice from a top professional or update your base knowledge, check few review comparisons and finally make best decisions which benefit you in long-term.
- *...Web Keyword definitions and more detailed discussion on this topic, at the end of this document...*
+- If you're a new developer, updating your skills or planning a startup, your'e not bound to the above conditions, therefore do your own research, take advice from   professionals, check few review comparisons and finally make best decisions which benefit you and your products in long-term.
+ *...Definitions, information, details and discussion on this topic, at the end of this document...*
 
-#### ▪ Platforms?
-- If your are only planning to target mobile Apps for Android and IOS, then start with Flutter/dart, it's a native cross-platform SDK, yet it has basic support for web and desktop... But if you want a more general purpose open platform, covering everything, choose the web platform, and your choice of stack, including capacitor for mobile app development.
+#### Which Platforms?
+- If you specifically targeting mobile Apps for Android and IOS, then use Flutter/dart, it's a native cross-platform SDK, has  very basic support for web and desktop... But if you want a more general purpose open platform, covering everything, choose the web platform, and your choice of stack, including capacitor for mobile app development.
 
 #### ▪ Learning tips
-- Development is not simple, it takes time, effort and experience to gain practical skill, as there are many things to cover.  
+- Development is not simple, it takes time, effort, practice and experience to gain practical skill, as there are many things to cover.  
 - 1st learn the basics including the new updates. Ex:  in web >> Basics and new additions of JS, HTML, CSS.  
 - Learn from best tutorials/courses, search for recent materials from an experienced tutor with high views/stats, Ex: Fireship.io  
-- Learn in a group, join friends, divide learning, research,... share the find outs, might even work as team, because it's too much to handle by one person.
+- Learn in a group, join friends, divide learning, research,... share the findouts, work as a team, because it's too much to handle by one person.
   
 ***
 
@@ -50,38 +50,26 @@ solves problems developers had in the past yet if required:
   - **WebGL 3D**:  Spline,  Babylone.js,  Unity Tiny.
 
 ### Cload platforms:  
-- Personal : I found Gun.js handy, free, encrypted and distributed(torrent model)
-- Small: SupaBase   L: Cloadflare  or  Firebase  
-- Enterprise cloud/server:   1.Amazon AWS ...._______... 2.GCP (Google cload platform).  
+- Personal: I found Gun.js handy, free, encrypted and distributed(web torrent)
+- Cloadflare: best business class option, performant, advanced networking platform and services.  
+- Basic hosting clouds: such as SupaBase, Netlify, Fauna, Vercel... simple but has limited functions.
+- Enterprise cloud/server:   1. Amazon AWS ..... 2. Firebase (Google) .....  3. Azure (Microsoft)  
+- Redis: if you require redis services, database, redis modules, database,...
 
 ### Database:
 - Personal: Gun.js, is fast, free, simple, encrypted auth and data store.  
 - Performance and features: Redis + Redis modules.
-- Graph QL: 1- Dgraph  2- Hasura
-- Open source, quality and completeness: Arango db.  
+- Graph QL: 1- Dgraph  2- Hasura  
+- Open Source: Arango DB,  best multi-model solution if a local server setup is intended.  
 
-### Others:
-- **Host**:  Begin,  Deno Deploy,  Netlify,  vercel,  Firebase.  
+### Other stuff:
+- **Host**:  Begin, Cloudflare Pages, Deno Deploy,  Netlify, vercel.  
 - **Static Site Generator**:  Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **Content Management System**:... Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
 - **Dev collaboration Platforms**: Github, Gitpod, Gitlab, notion.  
 - **Dev tools**:  GIT, CDT, CLI tools, npm, vs-code, emmet, skypack...  
 - **Other stuff**: find useful online tools.......Bundler: vite, snowpack......
 ***
-
-## **Web Development - about definitions**  
-▪ Front-end: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
-▪ Back-end: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
-▪ DevOps: Admin, analytics, control, process, automation tools.  
-
-▪ Svelte Framework: best model to code web, DevExperice+, compiles to JS (less dependencies/overhead).  
-▪ Correct development method ⇒ simple, secure, reusable, less external dependencies/overhead.  
-▪ Software Engineering:  use engineering principles and process-methods to approach the issue/task.  
-▪ Solution Architect: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations. 
-A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.  
-***
-
-
 
 ## **[Top Web Frameworks]**    
 
@@ -105,7 +93,25 @@ A solution architect has some business insight/strategy and various technical kn
 **4. Less Cost**: more human understandable code, more employees can continue the work. + less bugs + less testing + faster development. 
   
 ***
+***
+  
+  
+# Extra Information
+***
+## **Web Development - about definitions**  
+▪ Front-end: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
+▪ Back-end: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
+▪ DevOps: Admin, analytics, control, process, automation tools.  
+▪ Cloud solutions: provides process, memory and ready functions as a service, 
+- Cloud services usecase: 1- hosting if you don't have your own server. 2- require API/Apps/services from amazon, google,... 
 
+▪ Svelte Framework: best model to code web, DevExperice+, compiles to JS (less dependencies/overhead).  
+▪ Correct development method ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
+▪ Software Engineering:  use engineering principles and process-methods to approach the issue/task.  
+▪ Solution Architect: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations.  
+
+A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.  
+***
 
 
 ## **Web development guideline tips:**
@@ -123,7 +129,8 @@ A solution architect has some business insight/strategy and various technical kn
 **12.Work**: Learn/do remote work/freelancing, or best go for a relevant internship, get experience. Learn/Use collaboration platforms like GitHub/Lab. find a job or startup a new team.  Wish you the best.  
 
 *** 
-  
+ 
+ 
 ## [The Web - status summary]  
 The web eco-system was originally made to communicate with text or data, it later evolved to present simple graphics and images.
 Afterwards hardware specs advanced, offering high performance and capacity, smartphones appeared, online use-cases and services.  
@@ -138,7 +145,7 @@ In summary use the main platform itself whenever you can!  some of the old prefi
 
 *"Details of Why you must not choose a tech only by popularity and statistics"*
 
-- Avoid learning ~10+ years old stuff if there is a better alternative.
+- Avoid learning ~10+ years old stuff if a better option is available.
  old tech was made for past era ecosystem, development model and HW/SW/issues.  
 
 - Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, and new developers are forced to follow them. This process might repeat multiple times...   
@@ -157,4 +164,4 @@ In summary use the main platform itself whenever you can!  some of the old prefi
  extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...  
 ***
 
-**Todo**:   remote work, Security, Web API’s, AI/ML / TensorFlow.
+**Todo**:   remote work, Security, Web API’s, AI/ML.
