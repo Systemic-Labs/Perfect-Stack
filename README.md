@@ -49,20 +49,22 @@ solves problems developers had in the past yet if required:
   - UI-Kits: (semi/fully made components) Bootstrap, Bulma, Kahi UI, or other ui-kits of your liking.
   - **WebGL 3D**:  Spline,  Babylone.js,  Unity Tiny.
 
-### Cload platforms:  
-- Personal: I found Gun.js handy, free, encrypted and distributed(web torrent)
-- Cloadflare: best business class option, performant, advanced networking platform and services.  
-- Basic hosting clouds: such as SupaBase, Netlify, Fauna, Vercel... simple but has limited functions.
+### Cloud platforms:  
+- Personal: I found Gun.js handy, free, encrypted, serverless and distributed(web torrent).
+- Cloudflare: best business class option, performant, advanced networking platform and services.  
+- Hosting clouds:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...
 - Enterprise cloud/server:   1. Amazon AWS ..... 2. Firebase (Google) .....  3. Azure (Microsoft)  
 - Redis: if you require redis services, database, redis modules, database,...
 
 ### Database:
-- Personal: Gun.js, is fast, free, simple, encrypted auth and data store.  
+- Personal: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store. 
 - Performance and features: Redis + Redis modules.
 - Graph QL: 1- Dgraph  2- Hasura  
 - Open Source: Arango DB,  best multi-model solution if a local server setup is intended.  
 
 ### Other stuff:
+- **Low level Programming Languages**: ▪ **Rust**: Web std / Safe / Precise / System / Performance / made by Mozilla / supported.  
+- **High level Programming Language**: ▪ **Nim**: Semi python syntax / easy / High performace, above C#, bellow GO 
 - **Host**:  Begin, Cloudflare Pages, Deno Deploy,  Netlify, vercel.  
 - **Static Site Generator**:  Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **Content Management System**:... Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
@@ -75,8 +77,8 @@ solves problems developers had in the past yet if required:
 
 ### Frontend: 
  - **1.(Best overall) ▪Svelte**: best of all, DX, and integration with standards and all. long term strategic choice.  
- - **2.(Minimal)  ▪Solid**: fastest, stable, well developed. ....... ▪**Marko**: solid with better DX. ...... ▪**Sinuous**: best minimal.
- - **3.(Job offers/forced/required)**:  **Vue** (popular). ... **Angular / React / .net** (GG/FB/MS company-platforms)
+ - **2.(Minimal)  ▪Solid**: fast, efficient, stable, advanced features. .... ▪**Marko**: solid with better DX. .... ▪**Sinuous**: best minimal.
+ - **3.(Job offers/forced/required)**:  **Vue** (popular). .... **Angular / React / .net** (GG/FB/MS company platforms)
 
 ### Backend :
 **1. Deno**: a runtime built by the creator of node.js, it is great, secure by default, lighter, faster, Wasm, latest tech.  
@@ -92,6 +94,7 @@ solves problems developers had in the past yet if required:
      
 **4. Less Cost**: more human understandable code, more employees can continue the work. + less bugs + less testing + faster development. 
   
+***
 ***
 ***
   
@@ -114,7 +117,7 @@ A solution architect has some business insight/strategy and various technical kn
 ***
 
 
-## **Web development guideline tips:**
+## **Web development guideline tips:**  
  **1. Learn the base web standards** -> (HTML, CSS, Javascript) follow/practice tutorials. Make few apps.(ex: Todo)  
  **2. New web standards** -> ES6/next, new HTML, new CSS (grid,...)  practice/try what you learn.  
  **3. Update the previous apps you made**, using new things you learned. make a game and a blog site.  
@@ -124,9 +127,14 @@ A solution architect has some business insight/strategy and various technical kn
  **7. Learn Design**: Patterns, tools, UI/UX(user interface/experience). Concepts: visual clarity, visual effects, utility 1st.  
  **8. Responsive design**: native looks, any device, clear focus, usability/accessibility. CSS flex, grid...  
  **9. Backend**: 1. Sveltekit(if using svelte) ___ 2. Deno: new js-runtime replacement for Node.js by its creator.  
- **10.Personal** Experience: Make a portfolio site (products show case). Build your profile: CV, Linkedin, twitter.  
- **11.Summary**: Be an expert on one or few fields, pro on few more, know the rest. Fullstack: Frontend+Backend ecosystem.  
-**12.Work**: Learn/do remote work/freelancing, or best go for a relevant internship, get experience. Learn/Use collaboration platforms like GitHub/Lab. find a job or startup a new team.  Wish you the best.  
+ **10.Personal** various experiences, use GIT, github, Make a portfolio site (show case). a social profile: Linkedin + twitter.  
+ **11.Summary**: Be an expert in one field, pro on few more, know the rest. Fullstack: Frontend + Backend + Eco-system + Experience.  
+ **12.Work**:
+- Better: learn neccessary stuff, use best new tech, Exp++, do remote work/freelancing. start a team company.
+- Easier: take relevant internship, Exp++, 
+- Collaborate: Learn/Use collaboration tools/platforms like GitHub. 
+- Job: find a job or startup a new team.  Wish you the best.  
+
 
 *** 
  
@@ -145,18 +153,18 @@ In summary use the main platform itself whenever you can!  some of the old prefi
 
 *"Details of Why you must not choose a tech only by popularity and statistics"*
 
-- Avoid learning ~10+ years old stuff if a better option is available.
+- Avoid learning ~10+ years old stuff if a better alternative is available.
  old tech was made for past era ecosystem, development model and HW/SW/issues.  
 
-- Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, and new developers are forced to follow them. This process might repeat multiple times...   
+- Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, later new developers are forced to follow them. This process might repeat multiple times...   
 
-- The old popular tech nature: ___ it works, is popular and has big community and resources, yet in time it becomes more complex, due to extensions, compatibility patches and conflict solving layers to make both the original and new syntax/tools/requirements work together...  Aside of that. Each time a new feature is added, this process might be repeated, and the platform gets large, complex, many different variations.(Ex: MS SDKs, .net framework,...) 
+- The old popular tech nature: ___ it works, is popular and has big community and resources, yet in time it becomes more complex, due to extensions, compatibility patches and conflict solving layers to make both the original and new syntax/tools/requirements work together...  Aside of that each time a new feature is added, this process might repeat, and the platform gets large, complex, multiple different revisions.(Ex: MS SDKs, .net framework,...) 
 
-- Breaking changes and migration: ___ when there is a new feature that contradicts something which can't be solved, the devs will decide to either give up on the feature, or make a breaking change which means you must either update previous your previous codes(migration), or stick to the old model/version.  
+- Breaking changes and migration: ___ when a new feature that contradicts something in the system which can't be solved, the devs will decide to either give up on the feature, add extra flags/configs or make a breaking change, thus you must stay on old branch or learn + update your previous codes or totally migrate if is hopeless.  
 
-- Each time a breaking change shows up, you might need to repeat this process. this makes multiple builds in a company if all won't follow the same version.  
+- Each time a breaking change shows up, you might need to repeat this process. this makes multiple dev branches in a company if the team can't / won't follow.  
 
-- Most cases: Older and more different a platform is, and higher level it be, the issue is seen more often.  
+- Issues: older and more different + higher level a platform be, these issues will stack-up, will cost time + resources + paid team to interface them.  
 
 - Lower level coding is not much affected by the mentioned issues. they rarely change, and if so, is about efficiency and stability.  
 
