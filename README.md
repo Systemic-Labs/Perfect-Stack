@@ -1,33 +1,36 @@
 # Perfect-Stack  🛠i
 
-A development guide and an awesome list of recommendations for a developer/team. 
-This document covers libraries, tech stack, platforms, tools and other information 
-to help you in deciding on best available options rather than just follow popularity. 
-
-#### Target user:  
-This article is useful to Web Developers, Designers, learning devs, startups, all decision makers. 
-Feel welcome to contribute, to do an update, improvement, fix a mistake or in case you found a better 
-option with clear advantage.
+- A development guide and an awesome list of recommendations for a developer/team. 
+- This document covers information for best practices, libs, tech stack, platforms, tools,... 
+- Help you decide on best-fit options available for you rather than just follow popularity.  
+.  
+  
+- #### Target user:  
+  - This article is useful to developers, designers, learners, students, startups, and decision makers.  
+  - Welcome to contribute, suggest an update, a better option, fix a mistake,...
 
 ***
 
 
 ### [General Suggestions]
 
-- Most developers use popular and usually outdated practices, due to: required at workplace, learned in the past, directed by a senior,...
-include they recommend same things to others, therefore what's most poplular might not be the best option at the time being.
+- Most developers use popular and usually outdated practices, due to: Job/workplace requirement, learned in the past, a senior's advice,...
+considering they use and recommend same things for 20 years to others, if the cycle goes on for few times.
+therefore what's most poplular might not be the best option at the time being.
 
-- If you're a new developer, updating your skills or planning a startup, your'e not bound to the above conditions, therefore do your own research, take advice from   professionals, check few review comparisons and finally make best decisions which benefit you and your products in long-term.
+- If you're a new developer, updating your skills or planning a startup, you're not bound to the above conditions, therefore do your own research, check few review comparisons, founders oppinion, and finally make decisions which benefit you in long-term.
  *...Definitions, information, details and discussion on this topic, at the end of this document...*
+ ***
 
 #### Which Platforms?
-- If you specifically targeting mobile Apps for Android and IOS, then use Flutter/dart, it's a native cross-platform SDK, has  very basic support for web and desktop... But if you want a more general purpose open platform, covering everything, choose the web platform, and your choice of stack, including capacitor for mobile app development.
+- If you're only targeting mobile Apps for Android and IOS, then use Flutter/dart, it's a native cross-platform SDK, has very basic support for web and desktop... 
+- But if you want a more general purpose open platform, use the web platform, and custom tech stack based on your requirements, such as "Capacitor" for mobile app development.
 
 #### ▪ Learning tips
 - Development is not simple, it takes time, effort, practice and experience to gain practical skill, as there are many things to cover.  
 - 1st learn the basics including the new updates. Ex:  in web >> Basics and new additions of JS, HTML, CSS.  
 - Learn from best tutorials/courses, search for recent materials from an experienced tutor with high views/stats, Ex: Fireship.io  
-- Learn in a group, join friends, divide learning, research,... share the findouts, work as a team, because it's too much to handle by one person.
+- Make a group, join friends, divide tasks/learning, share your findouts, work as a team,... is too much to handle by only one person.
   
 ***
 
@@ -35,18 +38,19 @@ include they recommend same things to others, therefore what's most poplular mig
 
 ### Frameworks >>
  - **Mobile**: Flutter(pure native)......Capacitor 3 (Web and native)  
- - **Desktop**:  Tauri,  Deno executable (CLI).  
+ - **Desktop**:  Tauri (Web App),  Deno executable(Web/CLI). Programming Languages(processing
  - **Front-end**: Svelte(best overall, best DX),  Vue(older, a bit more popular, more jobs).  
  - **Back-end**: 1.Deno(js/ts) ___  2.Svelte-kit(svelte.js) ___  3.Node.js(KOA, Polka, nest).  
+ - **Programming Languages**:  Rust, Go, Nim, Dart, Swift... - (for specific use-case) - (server-side processing).  
   
 ### UI >>  
-- Standard CSS is best... specially when used in modular or component form, such as in svelte.   
-- You might not need CSS libs, frameworks, pre-processors... as new additions like Grid, Houdini... 
-solves problems developers had in the past yet if required:
+- Standard CSS is best... specially when used in modular/component form, such as in svelte.js     
+- You might not need CSS libs, frameworks, pre-processors as new CSS standards solve problems developers had in the past.
+- Yet there are use-cases, such as a standardized design system within a company:
 
-  - Minimal approachs: (structure)...renderless, headless ui... (UI)...milligram, chota, skeleton...
-  - CSS utility fameworks:  Windi CSS - Tailwind v2
-  - UI-Kits: (semi/fully made components) Bootstrap, Bulma, Kahi UI, or other ui-kits of your liking.
+  - **Minimal approachs**: ▪ ***(Structure)***: renderless, headless ui ....... ▪ ***(UI)***: milligram, chota, skeleton.
+  - **CSS utility fameworks**:  Windi CSS - Tailwind v3
+  - **UI-Kits**: (semi/fully made components) Daisy UI, Bootstrap, Bulma, Kahi UI,...
   - **WebGL 3D**:  Spline,  Babylone.js,  Unity Tiny.
 
 ### Cloud platforms:  
@@ -63,11 +67,11 @@ solves problems developers had in the past yet if required:
 - Open Source: Arango DB,  best multi-model solution if a local server setup is intended.  
 
 ### Other stuff:
-- **Low level Programming Languages**: ▪ **Rust**: Web std / Safe / Precise / System / Performance / made by Mozilla / supported.  
-- **High level Programming Language**: ▪ **Nim**: Semi python syntax / easy / High performace, above C#, bellow GO 
-- **Host**:  Begin, Cloudflare Pages, Deno Deploy,  Netlify, vercel.  
-- **Static Site Generator**:  Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
-- **Content Management System**:... Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
+- **Programming Language (Best)**: ▪ ***Rust***: Web std / Safe / Precise / System / Performance / made by Mozilla / supported.  
+- **Programming Language(High Level)**: ▪ **Native Platform**: JS/ESNext, Swift, Dart ... ▪ **Fastest Performace**: Nim (easy/semi python syntax)
+- **Host**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify. 
+- **Static Site Generator**: ..  Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
+- **Content Management System**: .. Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
 - **Dev collaboration Platforms**: Github, Gitpod, Gitlab, notion.  
 - **Dev tools**:  GIT, CDT, CLI tools, npm, vs-code, emmet, skypack...  
 - **Other stuff**: find useful online tools.......Bundler: vite, snowpack......
