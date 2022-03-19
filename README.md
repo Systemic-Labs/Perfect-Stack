@@ -38,10 +38,10 @@ therefore what's most poplular might not be the best option at the time being.
 
 ### Frameworks >>
  - **Mobile**: Flutter(pure native)......Capacitor 3 (Web and native)  
- - **Desktop**:  Tauri (Web App),  Deno executable(Web/CLI). Programming Languages(processing
+ - **Desktop**:  Tauri (Web App),  Deno executable(Web/CLI).
  - **Front-end**: Svelte(best overall, best DX),  Vue(older, a bit more popular, more jobs).  
  - **Back-end**: 1.Deno(js/ts) ___  2.Svelte-kit(svelte.js) ___  3.Node.js(KOA, Polka, nest).  
- - **Programming Languages**:  Rust, Go, Nim, Dart, Swift... - (for specific use-case) - (server-side processing).  
+ - **Programming Languages**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile ).  
   
 ### UI >>  
 - Standard CSS is best... specially when used in modular/component form, such as in svelte.js     
@@ -51,14 +51,14 @@ therefore what's most poplular might not be the best option at the time being.
   - **Minimal approachs**: ▪ ***(Structure)***: renderless, headless ui ....... ▪ ***(UI)***: milligram, chota, skeleton.
   - **CSS utility fameworks**:  Windi CSS - Tailwind v3
   - **UI-Kits**: (semi/fully made components) Daisy UI, Bootstrap, Bulma, Kahi UI,...
-  - **WebGL 3D**:  Spline,  Babylone.js,  Unity Tiny.
+  - **WebGL 3D**:  Spline,  Babylone.js, Three.js, Unity Tiny.
 
 ### Cloud platforms:  
-- Personal: I found Gun.js handy, free, encrypted, serverless and distributed(web torrent).
+- Personal usage: I found Gun.js handy, free, encrypted, serverless and distributed(web torrent).  
 - Cloudflare: best business class option, performant, advanced networking platform and services.  
-- Hosting clouds:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...
+- Hosting clouds:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...  
 - Enterprise cloud/server:   1. Amazon AWS ..... 2. Firebase (Google) .....  3. Azure (Microsoft)  
-- Redis: if you require redis services, database, redis modules, database,...
+- Redis: in case redis modules/cloud services is required, also most complete in database solutions.  
 
 ### Database:
 - Personal: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store. 
@@ -81,23 +81,24 @@ therefore what's most poplular might not be the best option at the time being.
 
 ### Frontend: 
  - **1.(Best overall) ▪Svelte**: best of all, DX, and integration with standards and all. long term strategic choice.  
- - **2.(Minimal)  ▪Solid**: fast, efficient, stable, advanced features. .... ▪**Marko**: solid with better DX. .... ▪**Sinuous**: best minimal.
+ - **2.(Minimal)  ▪Solid**: fast, efficient, stable, well made. ....
  - **3.(Job offers/forced/required)**:  **Vue** (popular). .... **Angular / React / .net** (GG/FB/MS company platforms)
 
 ### Backend :
 **1. Deno**: a runtime built by the creator of node.js, it is great, secure by default, lighter, faster, Wasm, latest tech.  
 **2. Sveltekit**: if you are using svelte.  **Snel**: Svelte project built and compiled on deno instead of node.  
-**3. Node.js**: in case you want most available libs, support, compatibility.  Koa or polka are a good node.js framework.  
+**3. Node.js**:  most libs, support, legacy eco-system. Node.js frameworks: Polka, Koa, Next(vercel/react), Nuxt(VUE).  
   
 ### Svelte framework offers:  
-**1. Developer Experience**: less coding concentrate on your goal/concept instead of development complexity.  
+**1. Developer Experience**: write less code, concentrate on coding your idea instead of development complexity.  
 **2. Standard**: the code is compiled to standard JS. Fast/optimized, can be used anywhere, reusable in future.  
-**3. Less complexity**: code is pre-compiled, no runtime framework issue/dependency, no online build process.  
+**3. Less complexity**: code is compiled, no runtime framework added issue/dependency, no online build process.  
      - Less Testing-Dependency issues: less unexpected reactions, glitches, slowdowns...happens at runtime.  
      - Less Testing/Errors: due to not having runtime dependencies, or external factors except your own code.  
      
 **4. Less Cost**: more human understandable code, more employees can continue the work. + less bugs + less testing + faster development. 
-  
+**5. Smaller bundle size (Compiled), without virtual-dom runtime framework overhead/dependency.  
+
 ***
 ***
 ***
