@@ -1,39 +1,33 @@
 # Perfect-Stack  🛠i
 
-- A development guide and an awesome list of recommendations for a developer/team. 
-- This document covers information for best practices, libs, tech stack, platforms, tools,... 
-- Help you decide on best-fit options available for you rather than just follow popularity.  
-.  
+### A development guide and an awesome list of recommendations for a developer/team.  
+>- This document covers information for best practices, libs, tech stack, platforms, tools,...  
+>- Help you decide on best-fit options available for you rather than just follow popularity.  
+>- Welcome to contribute, suggest an update, a better option, or fix a mistake,...  
   
-- #### Target user:  
-  - This article is useful to developers, designers, learners, students, startups, and decision makers.  
-  - Welcome to contribute, suggest an update, a better option, fix a mistake,...
+> Target user:  *this article is useful to developers, designers, learners, students, startups, and decision makers*.  
 
 ***
+▪    
+### [Advice to begginers or startups]
 
+> Most developers use popular and usually outdated practices, due to: Job/workplace requirements, was best to learn in the past, a senior's advice,... which is fine, but a new learner adopting outdated practices is wrong, imagine if this cycle repeats few times, therefore the most poplular options might not be the best thing to learn, always use tools, libs... which solves your problem in best way.  
 
-### [General Suggestions]
-
-- Most developers use popular and usually outdated practices, due to: Job/workplace requirement, learned in the past, a senior's advice,...
-considering they use and recommend same things for 20 years to others, if the cycle goes on for few times.
-therefore what's most poplular might not be the best option at the time being.
-
-- If you're a new developer, updating your skills or planning a startup, you're not bound to the above conditions, therefore do your own research, check few review comparisons, founders oppinion, and finally make decisions which benefit you in long-term.
- *...Definitions, information, details and discussion on this topic, at the end of this document...*
+> If you're a new developer, updating skills or planning a startup, you're not bound to specific conditions, therefore do your own research, check alternatives, review comparisons, and finally make decision which benefit you in long-term.  
+- *...Definitions, information details and discussion on this topic, at the end of this document...*
  ***
 
 #### Which Platforms?
-- If you're only targeting mobile Apps for Android and IOS, then use Flutter/dart, it's a native cross-platform SDK, has very basic support for web and desktop... 
-- But if you want a more general purpose open platform, use the web platform, and custom tech stack based on your requirements, such as "Capacitor" for mobile app development.
-
-#### ▪ Learning tips
-- Development is not simple, it takes time, effort, practice and experience to gain practical skill, as there are many things to cover.  
-- 1st learn the basics including the new updates. Ex:  in web >> Basics and new additions of JS, HTML, CSS.  
-- Learn from best tutorials/courses, search for recent materials from an experienced tutor with high views/stats, Ex: Fireship.io  
-- Make a group, join friends, divide tasks/learning, share your findouts, work as a team,... is too much to handle by only one person.
+> Only targeting smartphone Apps, and phone specific functions? => use Flutter(cross platform), or any native SDKs of the device...  
+> But if your code is general purpose, open source and reusable, then use the web platform, and custom tech stack based on your requirements, such as Tauri, or "Capacitor" for web, mobile, desktop cross platform development.
+#### Learning tips
+> Development is not simple, it takes time, effort, practice and experience to gain practical skill, as there are many things to cover.  
+> 1st learn the basics including the new updates. Ex:  in web >> Basics and new additions of JS, HTML, CSS.  
+> Learn from best tutorials/courses, search for recent materials from an experienced tutor with high views/stats, Ex: Fireship.io  
+> Make a group, join friends, divide tasks/learning, share your findouts, work as a team,... is too much to handle by only one person.
   
 ***
-
+  
 ## [Quick list]  
 
 ### Frameworks >>
@@ -44,14 +38,22 @@ therefore what's most poplular might not be the best option at the time being.
  - **Programming Languages**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile ).  
   
 ### UI >>  
-- Standard CSS is best... specially when used in modular/component form, such as in svelte.js     
-- You might not need CSS libs, frameworks, pre-processors as new CSS standards solve problems developers had in the past.
-- Yet there are use-cases, such as a standardized design system within a company:
-
-  - **Minimal approachs**: ▪ ***(Structure)***: renderless, headless ui ....... ▪ ***(UI)***: milligram, chota, skeleton.
-  - **CSS utility fameworks**:  Windi CSS - Tailwind v3
+**Standard CSS**:
+>
+ - no libs needed: specially when used in modular form(per component), such as in svelte.js  
+ - new CSS standards solve much issuess developers had in the past.  
+ - recommended for: small projects and teams, beginners must learn it anyway, to use libs properly.  
+ 
+ **Yet UI Libs main use-cases are**: smaller code, predefined designs, faster development, prototyping, automation, and mainly standardized design system within a team. UI Lib categories:
+ 
+  - **Minimal approachs**: ▪ ***(Structure)***: renderless, headless ui ....... ▪ ***(UI)***: pico css, milligram, chota.
+  - **CSS utility fameworks**:  UnoCSS - Windi CSS - Tailwind v3
   - **UI-Kits**: (semi/fully made components) Daisy UI, Bootstrap, Bulma, Kahi UI,...
-  - **WebGL 3D**:  Spline,  Babylone.js, Three.js, Unity Tiny.
+  - **WebGL/3D**:  Spline,  Babylone.js, Three.js, Unity Tiny.  
+  
+ **current recommendations**: picoCSS for minimal predefined designs, and UnoCSS as UI Lib.
+
+
 
 ### Cloud platforms:  
 - Personal usage: I found Gun.js handy, free, encrypted, serverless and distributed(web torrent).  
