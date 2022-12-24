@@ -34,21 +34,22 @@
  - **Mobile**: Flutter(pure native)......Capacitor 3 (Web and native)  
  - **Desktop**:  Tauri (Web App),  Deno executable(Web/CLI).
  - **Front-end**: Svelte(best overall, best DX),  Vue(older, a bit more popular, more jobs).  
- - **Back-end**: 1.Deno(js/ts) ___  2.Svelte-kit(svelte.js) ___  3.Node.js(KOA, Polka, nest).  
+ - **Back-end**: -Deno/Bun.js ___  -Svelte-kit(svelte.js) ___  -Node.js(KOA, Polka, nest).  
  - **Programming Languages**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile ).  
   
 ### UI >>  
 **Standard CSS**:
 >
- - no libs needed: specially when used in modular form(per component), such as in svelte.js  
+ - when more control and customization or modular per component abstraction is required.   
  - new CSS standards solve much issuess developers had in the past.  
  - recommended for: small projects and teams, beginners must learn it anyway, to use libs properly.  
  
- **Yet UI Libs main use-cases are**: smaller code, predefined designs, faster development, prototyping, automation, and mainly standardized design system within a team. UI Lib categories:
+ **Yet UI Libs main use-cases are**: smaller code, predefined designs, faster development, prototyping, automation, and mainly standardized design system within a team. UI Lib categories:  
  
-  - **Minimal approachs**: ▪ ***(Structure)***: renderless, headless ui ....... ▪ ***(UI)***: pico css, milligram, chota.
+  - **Minimal approachs**: 
+  ▪ ***(Structure)***: renderless, headless ui ....... ▪ ***(UI)***: pico css, milligram, chota.
   - **CSS utility fameworks**:  UnoCSS - Windi CSS - Tailwind v3
-  - **UI-Kits**: (semi/fully made components) Daisy UI, Bootstrap, Bulma, Kahi UI,...
+  - **UI-Kits**: (semi/fully made components) Daisy UI, Skeleton, bulma...
   - **WebGL/3D**:  Spline,  Babylone.js, Three.js, Unity Tiny.  
   
  **current recommendations**: picoCSS for minimal predefined designs, and UnoCSS as UI Lib.
@@ -56,16 +57,17 @@
 
 
 ### Cloud platforms:  
-- Personal usage: I found Gun.js handy, free, encrypted, serverless and distributed(web torrent).  
+- Personal usage: Gun.js, free, encrypted, serverless and distributed(web torrent).  
 - Cloudflare: best business class option, performant, advanced networking platform and services.  
 - Hosting clouds:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...  
 - Enterprise cloud/server:   1. Amazon AWS ..... 2. Firebase (Google) .....  3. Azure (Microsoft)  
+- Free alternatives: PocketBase, Supabase...  
 - Redis: in case redis modules/cloud services is required, also most complete in database solutions.  
 
 ### Database:
 - Personal: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store. 
-- Performance and features: Redis + Redis modules.
-- Graph QL: 1- Dgraph  2- Hasura  
+- Performance and features: Redis + Redis modules.  
+- Graph QL: -EdgeDB  -Dgraph -SurrealDB   
 - Open Source: Arango DB,  best multi-model solution if a local server setup is intended.  
 
 ### Other stuff:
