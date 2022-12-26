@@ -40,35 +40,43 @@
 ### UI >>  
 **Standard CSS**:
 >
- - when more control and customization or modular per component abstraction is required.   
+ - when more control, precision and customization or zero dependency is required.   
  - new CSS standards solve much issuess developers had in the past.  
- - recommended for: small projects and teams, beginners must learn it anyway, to use libs properly.  
+ - recommended for: small projects and teams, in any case you must master it to use libs effectively.  
  
- **Yet UI Libs main use-cases are**: smaller code, predefined designs, faster development, prototyping, automation, and mainly standardized design system within a team. UI Lib categories:  
+ **Yet UI Libs main use-cases are**: smaller instructions(code readability), uniform design in the team, faster development and prototyping, automation.  
+ 
+ #### UI Lib categories:  
  
   - **Minimal approachs**: 
-  ▪ ***(Structure)***: renderless, headless ui ....... ▪ ***(UI)***: pico css, milligram, chota.
-  - **CSS utility fameworks**:  UnoCSS - Windi CSS - Tailwind v3
-  - **UI-Kits**: (semi/fully made components) Daisy UI, Skeleton, bulma...
+  ▪ ***(Structure)***: renderless, headless ui....... ▪ ***(UI)***: pico css, milligram, DaisyUI.
+  - **CSS utility fameworks**:  UnoCSS - compiles other CSS frameworks into standard CSS (0 DEP).  
+  - **UI-Kits**: (semi/fully functional components) Daisy UI / Skeleton, flowbite...
   - **WebGL/3D**:  Spline,  Babylone.js, Three.js, Unity Tiny.  
   
- **current recommendations**: picoCSS for minimal predefined designs, and UnoCSS as UI Lib.
+ **current recommendations**:  
+ - picoCSS - for minimal predefined styling of standard HTML Tags  
+ - DaisyUI - best CSS UI lib,
+ - UnoCSS as best toolset for either UI Lib.
 
 
 
 ### Cloud platforms:  
-- Personal usage: Gun.js, free, encrypted, serverless and distributed(web torrent).  
+- Free & Personal: Gun.js, free, encrypted, serverless and distributed(web torrent).  
 - Cloudflare: best business class option, performant, advanced networking platform and services.  
 - Hosting clouds:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...  
 - Enterprise cloud/server:   1. Amazon AWS ..... 2. Firebase (Google) .....  3. Azure (Microsoft)  
-- Free alternatives: PocketBase, Supabase...  
+- Alternatives / Self hosted / Efficient: PocketBase, Supabase...   
 - Redis: in case redis modules/cloud services is required, also most complete in database solutions.  
+
 
 ### Database:
 - Personal: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store. 
 - Performance and features: Redis + Redis modules.  
-- Graph QL: -EdgeDB  -Dgraph -SurrealDB   
-- Open Source: Arango DB,  best multi-model solution if a local server setup is intended.  
+- Most Innovative: (graphQLish+DX): - EdgeDB  - Dgraph - SurrealDB   
+- Open Source: Arango DB,  best multi-model solution for self hosted open source local server setup.  
+**Current Recommendation: EdgeDB**  
+
 
 ### Other stuff:
 - **Programming Language (Best)**: ▪ ***Rust***: Web std / Safe / Precise / System / Performance / made by Mozilla / supported.  
