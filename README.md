@@ -1,43 +1,50 @@
-# Perfect-Stack  🛠i
+# [Perfect-Stack](#perfect-stack--i)  🛠i
 
-### A development guide and an awesome list of recommendations for a developer/team.  
+
+### A development guide and an awesome list of recommendations.  
+
 >- This document covers information for best practices, libs, tech stack, platforms, tools,...  
 >- Help you decide on best-fit options available for you rather than just follow popularity.  
 >- Welcome to contribute, suggest an update, a better option, or fix a mistake,...  
-  
-> Target user:  *this article is useful to developers, designers, learners, students, startups, and decision makers*.  
+>- Target users:  *useful to developers, designers, researchers, students, startups, and decision makers*.  
+> 
+>> -[ Awesome list](#awesome-list)  
+   -[ Frameworks - more info/details](#frameworks-information)  
+   -[ Extra information and discussion](#extra-information)  
 
 ***
 ▪    
-### [Advice to begginers or startups]
+### [To beginners and startups](#to-beginners-and-startups)
 
-> Most developers use popular and usually outdated practices, due to: Job/workplace requirements, was best to learn in the past, a senior's advice,... which is fine, but a new learner adopting outdated practices is wrong, imagine if this cycle repeats few times, therefore the most poplular options might not be the best thing to learn, always use tools, libs... which solves your problem in best way.  
+> Most developers use popular yet not the best development trends, either due to Job/workplace skill requirements, online article or a senior's advice, which might been the best choice in the past, but a new learner adopting outdated practices is wrong, this cycle repeats few times in many years and old tech and practices get stuck in job/edu systems, therefore instead of choosing only based on poplularity, make decisions which solves the problem in the best way, mostly if you're a new developer or planning a startup, you're not bounded to  specific conditions or eco-system, therefore do your own research, check review comparisons, and finally make decision which benefit you in long-term.  
+- [*...Information details, definitions and extra discussion on this topic...*](#new-developer-or-decision-maker)  
 
-> If you're a new developer, updating skills or planning a startup, you're not bound to specific conditions, therefore do your own research, check alternatives, review comparisons, and finally make decision which benefit you in long-term.  
-- *...Definitions, information details and discussion on this topic, at the end of this document...*
  ***
 
 #### Which Platforms?
-> Only targeting smartphone Apps, and phone specific functions? => use Flutter(cross platform), or any native SDKs of the device...  
-> But if your code is general purpose, open source and reusable, then use the web platform, and custom tech stack based on your requirements, such as Tauri, or "Capacitor" for web, mobile, desktop cross platform development.
+> Targeting only mobile devices and native functions/apps => use Flutter(cross platform), or any native SDKs of the device...  
+> But if your target is cross-platform or web based, then use the web dev and mobile sdk's as required such as Tauri, or "Capacitor" for web, mobile, desktop development.  
+  
+  
 #### Learning tips
-> Development is not simple, it takes time, effort, practice and experience to gain practical skill, as there are many things to cover.  
-> 1st learn the basics including the new updates. Ex:  in web >> Basics and new additions of JS, HTML, CSS.  
+> Development is not easy, it takes time, effort, practice and experience to gain real skills, as there are many things to cover.  
+> 1st learn the basics including the new updates. Ex:  for web >> Basics and new additions of JS, HTML, CSS. [Web-Dev guideline](#web-development-guideline-tips)  
+  
 > Learn from best tutorials/courses, search for recent materials from an experienced tutor with high views/stats, Ex: Fireship.io  
 > Make a group, join friends, divide tasks/learning, share your findouts, work as a team,... is too much to handle by only one person.
-  
+
 ***
   
-## [Quick list]  
+# [Awesome list]  
 
-### Frameworks >>
- - **Mobile**: Flutter(pure native)......Capacitor 3 (Web and native)  
- - **Desktop**:  Tauri (Web App),  Deno executable(Web/CLI).
+### [Frameworks](#frameworks--)  >>
+ - **Mobile**: Flutter(pure native)......Capacitor 3 (android, ios... but under web development)  
+ - **Desktop**:  Tauri (Web App),  Deno executable(Web/CLI).  
  - **Front-end**: Svelte(best overall, best DX),  Vue(older, a bit more popular, more jobs).  
  - **Back-end**: -Deno/Bun.js ___  -Svelte-kit(svelte.js) ___  -Node.js(KOA, Polka, nest).  
- - **Programming Languages**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile ).  
+ - **Programming Languages**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile).  
   
-### UI >>  
+### [UI](#ui) >>  
 **Standard CSS**:
 >
  - when more control, precision and customization or zero dependency is required.   
@@ -46,69 +53,82 @@
  
  **Yet UI Libs main use-cases are**: smaller instructions(code readability), uniform design in the team, faster development and prototyping, automation.  
  
- #### UI Lib categories:  
+ #### [UI categories](#ui-lib-categories)
  
   - **Minimal approachs**: 
-  ▪ ***(Structure)***: renderless, headless ui....... ▪ ***(UI)***: pico css, milligram, DaisyUI.
+  > ▪ ***(Structure)***: renderless, headless ui....... 
+  > ▪ ***(CSS UI Libraries)***: pico css, milligram, DaisyUI.  
+  
   - **CSS utility fameworks**:  UnoCSS - compiles other CSS frameworks into standard CSS (0 DEP).  
-  - **UI-Kits**: (semi/fully functional components) Daisy UI / Skeleton, flowbite...
-  - **WebGL/3D**:  Spline,  Babylone.js, Three.js, Unity Tiny.  
+  - **UI-Kits**: Daisy UI(CSS) .... fully functional components:  Skeleton, flowbite...
+  - 
+  - **3D (WebGL/WebGPU)**:  Spline, Babylone.js, Three.js(lower level), Threlte(Svelte+three), Unity Tiny.  
   
  **current recommendations**:  
- - picoCSS - for minimal predefined styling of standard HTML Tags  
- - DaisyUI - best CSS UI lib,
- - UnoCSS as best toolset for either UI Lib.
+ - picoCSS - for minimal predefined styling of standard HTML Tags,  
+ - DaisyUI - best CSS UI lib,  
+ - UnoCSS as best toolset for either UI Lib.  
 
 
-
-### Cloud platforms:  
+### [Cloud platforms](#cloud-platforms):  
 - Free & Personal: Gun.js, free, encrypted, serverless and distributed(web torrent).  
 - Cloudflare: best business class option, performant, advanced networking platform and services.  
 - Hosting clouds:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...  
-- Enterprise cloud/server:   1. Amazon AWS ..... 2. Firebase (Google) .....  3. Azure (Microsoft)  
-- Alternatives / Self hosted / Efficient: PocketBase, Supabase...   
-- Redis: in case redis modules/cloud services is required, also most complete in database solutions.  
+- Enterprise (cloud functions server):  1. Amazon AWS ..... 2. Firebase (Google) ..... 3. Azure (Microsoft)  
+- Alternatives: web based-> Vercel, simple cloud-> Supabase,  Self hosted-> PocketBase.  
+- Redis: in case redis modules and cloud services are required, a complete customizable database solution.  
 
 
-### Database:
-- Personal: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store. 
-- Performance and features: Redis + Redis modules.  
+### [Database](#database):
+- Personal: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store.  
+- Performance and features: Redis + Redis modules.   
 - Most Innovative: (graphQLish+DX): - EdgeDB  - Dgraph - SurrealDB   
 - Open Source: Arango DB,  best multi-model solution for self hosted open source local server setup.  
 **Current Recommendation: EdgeDB**  
 
 
 ### Other stuff:
-- **Programming Language (Best)**: ▪ ***Rust***: Web std / Safe / Precise / System / Performance / made by Mozilla / supported.  
-- **Programming Language(High Level)**: ▪ **Native Platform**: JS/ESNext, Swift, Dart ... ▪ **Fastest Performace**: Nim (easy/semi python syntax)
-- **Host**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify. 
-- **Static Site Generator**: ..  Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
+- **Programming Languages**:
+  - **(Low level)**: ▪ ***Rust***: Web std / Safe / Precise / System / Performance / made by Mozilla / supported.  
+  - **(High Level)**: ▪ **Platforms ecosystem**: JS/ESNext, Python, Swift, Dart ... ▪ **Performace**: Nim (easy/semi python syntax)
+- **Host**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
+- **Static Site Generator**: .. Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **Content Management System**: .. Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
 - **Dev collaboration Platforms**: Github, Gitpod, Gitlab, notion.  
 - **Dev tools**:  GIT, CDT, CLI tools, npm, vs-code, emmet, skypack...  
-- **Other stuff**: find useful online tools.......Bundler: vite, snowpack......
+- **Other stuff**: find useful online tools.......Bundler: vite, snowpack......  
 ***
-
-## **[Top Web Frameworks]**    
-
-### Frontend: 
- - **1.(Best overall) ▪Svelte**: best of all, DX, and integration with standards and all. long term strategic choice.  
- - **2.(Minimal)  ▪Solid**: fast, efficient, stable, well made. ....
- - **3.(Job offers/forced/required)**:  **Vue** (popular). .... **Angular / React / .net** (GG/FB/MS company platforms)
-
-### Backend :
-**1. Deno**: a runtime built by the creator of node.js, it is great, secure by default, lighter, faster, Wasm, latest tech.  
-**2. Sveltekit**: if you are using svelte.  **Snel**: Svelte project built and compiled on deno instead of node.  
-**3. Node.js**:  most libs, support, legacy eco-system. Node.js frameworks: Polka, Koa, Next(vercel/react), Nuxt(VUE).  
   
-### Svelte framework offers:  
+## [Frameworks information](#frameworks-information)  
+
+### Frontend:  
+ - **1.(Best overall) ▪Svelte**: best of all, DX+, integrates and compiles to standard web, long term strategic choice.  
+ - **2.(Minimal) ... ▪Solid**: fast, efficient, reliable, fine tuned core structure, migration choice for react developers.  
+ - **3.(Job offers/forced/required)**: **Vue** (popular). .... **Angular / React / .net** (GG/FB/MS company platforms)  
+  
+  
+### Backend:
+
+#### JavaScript Runtimes:  
+** > Deno.js**: by creator of node.js, secure by default, lighter, faster, Wasm, better concept, DX+.  
+** > Node.js**:  most libs, support, popular eco-system. -- **Bun.js**: Node.js compatible but higher performance.  
+
+### Fullstack frameworks: 
+**Sveltekit**: current recommendation due to the fact it's strong on both frontend and backend.  
+ > A complete web/app framework, scalable, stable release of latest innovations in web ecosystem.  
+
+**Node.js frameworks**:  Next(Vercel, React), Nuxt(VUE), Astro(multi platform), JS(polka, koa).  
+
+**Python eco-system**:  jobs, popularity, AI libs, ease of usage, beginners, not perfect+just do it...  
+**System / low level**: C++ alternatives -> Carbon, Rust, Zig .... Python similarity -> Nim.  
+  
+### Svelte framework pros:  
 **1. Developer Experience**: write less code, concentrate on coding your idea instead of development complexity.  
 **2. Standard**: the code is compiled to standard JS. Fast/optimized, can be used anywhere, reusable in future.  
-**3. Less complexity**: code is compiled, no runtime framework added issue/dependency, no online build process.  
-     - Less Testing-Dependency issues: less unexpected reactions, glitches, slowdowns...happens at runtime.  
-     - Less Testing/Errors: due to not having runtime dependencies, or external factors except your own code.  
-     
-**4. Less Cost**: more human understandable code, more employees can continue the work. + less bugs + less testing + faster development. 
+**3. Less complexity**: easier to read code, compiled and no online build process, no framework dependency at runtime.  
+     - reduced Testing/Dependency issues: less unexpected reactions, conflicts, misunderstanding source of issues.  
+     - Less Errors: due to not having runtime dependencies, or external factors except your own code.  
+**4. Less Cost**: easier to read code of other developers, other employees can continue the work + less bugs + less testing + faster development.  
 **5. Smaller bundle size (Compiled), without virtual-dom runtime framework overhead/dependency.  
 
 ***
@@ -116,9 +136,9 @@
 ***
   
   
-# Extra Information
+# [Extra Information](#extra-information)  
 ***
-## **Web Development - about definitions**  
+## **Web Development - about definitions**   
 ▪ Front-end: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
 ▪ Back-end: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
 ▪ DevOps: Admin, analytics, control, process, automation tools.  
@@ -134,7 +154,7 @@ A solution architect has some business insight/strategy and various technical kn
 ***
 
 
-## **Web development guideline tips:**  
+## **[Web development guideline tips](web-development-guideline-tips):**  
  **1. Learn the base web standards** -> (HTML, CSS, Javascript) follow/practice tutorials. Make few apps.(ex: Todo)  
  **2. New web standards** -> ES6/next, new HTML, new CSS (grid,...)  practice/try what you learn.  
  **3. Update the previous apps you made**, using new things you learned. make a game and a blog site.  
@@ -147,41 +167,40 @@ A solution architect has some business insight/strategy and various technical kn
  **10.Personal** various experiences, use GIT, github, Make a portfolio site (show case). a social profile: Linkedin + twitter.  
  **11.Summary**: Be an expert in one field, pro on few more, know the rest. Fullstack: Frontend + Backend + Eco-system + Experience.  
  **12.Work**:
-- Better: learn neccessary stuff, use best new tech, Exp++, do remote work/freelancing. start a team company.
-- Easier: take relevant internship, Exp++, 
-- Collaborate: Learn/Use collaboration tools/platforms like GitHub. 
-- Job: find a job or startup a new team.  Wish you the best.  
-
+ - Better: learn neccessary stuff, use best new tech, Exp++, do remote work/freelancing. start a team company.
+ - Easier: take relevant internship, Exp++, 
+ - Collaborate: Learn/Use collaboration tools/platforms like GitHub.  
+ - Job: find a job or startup a new team.  Wish you the best.  
 
 *** 
  
  
-## [The Web - status summary]  
+## [The Web - status summary](#the-web-status-summary)
 The web eco-system was originally made to communicate with text or data, it later evolved to present simple graphics and images.
 Afterwards hardware specs advanced, offering high performance and capacity, smartphones appeared, online use-cases and services.  
 Therefore all these things affected the web status which became more complex and confusing in the last decade due to workarounds and fixes to support new features by vendor prefixes, 3rd party libs, tools and frameworks to achieve functional demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatibility of existing sites and old systems while native mobile and desktop platforms had all breaking changes required once a while. By the mean time all these 3rd party libraries, vendor prefixes and frameworks were made to solve/patch the issue and provide features that didn't exist in web standards yet.
 
 Good news, the new web standards are available, evolved and solved issues and included the most wanted features, furthermore Frameworks evolved and new Web APIs provide functionality and access to new technologies. Therefore with much flexibility and compatibility Web can now compete with native desktop and mobile platforms.  
 
-In summary use the main platform itself whenever you can!  some of the old prefixes, 3rd party libs,... are not required anymore...(as explained above) If you are new dev or refreshing your knowledge, be up to date and follow new trends and best practices of time being, not the past... unless required or there is no alternative. The recommended trends mentioned here were handpicked by checking reviews comparison, personal experiments, and what top professionals are using.
+In summary use the main platform itself whenever you can! some of the old prefixes, 3rd party libs,... are not required anymore...(as explained above) If you are new dev or refreshing your knowledge, be up to date and follow new trends and best practices of time being, not the past... unless required or there is no alternative. The recommended trends mentioned here were handpicked by checking reviews comparison, personal experiments, and what top professionals are using.
 ***
 
-### New developer or decision maker? 
+### [New developer or decision maker?](#new-developer-or-decision-make?)
 
-*"Details of Why you must not choose a tech only by popularity and statistics"*
+*"Details of Why you must not choose a tech only by popularity and general statistics"*
 
 - Avoid learning ~10+ years old stuff if a better alternative is available.
  old tech was made for past era ecosystem, development model and HW/SW/issues.  
 
 - Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, later new developers are forced to follow them. This process might repeat multiple times...   
 
-- The old popular tech nature: ___ it works, is popular and has big community and resources, yet in time it becomes more complex, due to extensions, compatibility patches and conflict solving layers to make both the original and new syntax/tools/requirements work together...  Aside of that each time a new feature is added, this process might repeat, and the platform gets large, complex, multiple different revisions.(Ex: MS SDKs, .net framework,...) 
+- The old popular tech nature: ___ it works, is popular and has big community and resources, yet in time it becomes more complex, due to extensions, compatibility patches and conflict solving layers to make both the original and new syntax/tools/requirements work together...  Aside of that each time a new feature is added, this process might repeat, and the platform gets large, complex, multiple different revisions.(Ex: MS SDKs, .net framework,...)  
 
 - Breaking changes and migration: ___ when a new feature that contradicts something in the system which can't be solved, the devs will decide to either give up on the feature, add extra flags/configs or make a breaking change, thus you must stay on old branch or learn + update your previous codes or totally migrate if is hopeless.  
 
 - Each time a breaking change shows up, you might need to repeat this process. this makes multiple dev branches in a company if the team can't / won't follow.  
 
-- Issues: older and more different + higher level a platform be, these issues will stack-up, will cost time + resources + paid team to interface them.  
+- Issues:  an old legacy target which depends on layers of other legacy tech, will encounter conflicts, comptiblity, deprecated dependencies, which will cost time + resources + man power to solve them. 
 
 - Lower level coding is not much affected by the mentioned issues. they rarely change, and if so, is about efficiency and stability.  
 
