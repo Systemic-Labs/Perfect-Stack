@@ -90,10 +90,9 @@
 
 ### [Other stuff](#other-stuff):
 - **`Programming Languages`**:
-  - **(Low level)**: 
-      - **`C++ alternatives`** -> `Carbon`, `Zig`,  `Nim` (easy/semi python syntax)  
-      - **`Rust`**: Web std / Safe / Precise / System / Performance / by Mozilla / support.  
-- **(High level)**: ▪ **Platforms ecosystem**: JS/ESNext, Python, Swift, Dart  
+  - **(Low level)** - **`Carbon`**(C++ replacement), `Zig`,  `Nim`(DX/semi python syntax).  
+  - **(Low level)** - **`Rust`**: Web std / Safe / Precise / System / Performance / by Mozilla / support.  
+  - **(High level)**: **Platforms ecosystem**: `JS/ESNext`, `Python`, `Swift`, `Dart`.  
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
 - **`Static Site Generator`**: .. Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **`Content Management System`**: .. Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
@@ -104,21 +103,24 @@
   
 ## [Frameworks information](#frameworks-information)  
 
-### Frontend:  
+### [Frontend](#frontend):  
  - **1. `Svelte`**: (Best overall), DX+, integrates and compiles to standard web, long term strategic choice.  
  - **2. `Solid`**: (Minimal), fast, efficient, reliable, fine tuned core structure, migration choice for react developers.  
  - **3. `Vue`**: (popular). ....  Angular / React / .net** (GG/FB/MS company platforms, Job offers/forced/required).  
-  
-  
-### Backend:
+
+.  
+### [Backend](#backend):
 
 #### JavaScript Runtimes:  
-** > `Deno.js`**: by creator of node.js, secure by default, lighter, faster, Wasm, better concept, DX+.  
-** > `Node.js`**:  most libs, support, popular eco-system. -- **Bun.js**: Node.js compatible but higher performance.  
+  - **`Deno.js`**:  secure by default, lighter, faster, Wasm, better concept, +DX. *(recommended)*  
+  - **`Node.js`**:  most libs, support, popular eco-system. 
+  - **`Bun.js`**: Node.js compatible but higher performance.  
 
-### Fullstack frameworks: 
+.  
+
+### [Fullstack](#fullstack): 
 **`Sveltekit`**: current recommendation due to the fact it's strong on both frontend and backend.  
- > A complete web/app framework, scalable, stable release of latest innovations in web ecosystem.  
+> *a complete web/app framework, scalable, stable release of latest innovations in web ecosystem.*  
 
 **`Node.js frameworks`**:  Next(Vercel, React), Nuxt(VUE), Astro(multi platform), JS(polka, koa).  
 
@@ -126,13 +128,14 @@
 
   
 ### [Svelte framework pros](#svelte-framework-pros):  
-**1. `Developer Experience`**: write less code, concentrate on your ideas, not development complexity.  
-**2. `Standard`**: the code is compiled to standard JS. Fast/optimized, can be used anywhere, reusable.  
-**3. `Less complexity`**: easier to read code, compiled and no online build process, no framework issues at runtime.  
-     - Less Testing/Dependency issues:  unexpected reactions, conflicts, misunderstanding source of issues.  
-     - Less Errors: due to not having runtime dependencies, or external factors except your own code.  
-**4. `Less Cost`**: easier to read code of other devs => continue their work + less bugs + less testing + faster development.  
-**5. `Smaller bundle size`** (Compiled), without virtual-dom and framework overhead...  
+**`Developer Experience`**: write less code, concentrate on your ideas, not development complexity.  
+**`Standard`**: the code is compiled to standard JS. Fast/optimized, can be used anywhere, reusable.  
+**`Less complexity`**: easier to read code, compiled and no online build process, no framework issues at runtime.  
+> less Testing/Dependency issues:  unexpected reactions, conflicts, misunderstanding source of issues.  
+> less Errors: due to not having runtime dependencies, or external factors except your own code.  
+
+**`Less Cost`**: easier to read code of other devs => continue their work + less bugs + less testing + faster development.  
+**`Smaller bundle size`** (Compiled), without virtual-dom and framework overhead...  
 
 ***
 ***
@@ -142,22 +145,20 @@
 # [Extra Information](#extra-information)  
 ***
 ## **Web Development - about definitions**   
-▪ `Front-end`: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
-▪ `Back-end`: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
-▪ `DevOps`: Admin, analytics, control, process, automation tools.  
-▪ `Cloud solutions`: provides process, memory and ready functions as a service.  
+- `Front-end`: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
+- `Back-end`: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
+- `DevOps`: Admin, analytics, control, process, automation tools.  
+- `Cloud solutions`: provides process, memory and ready functions as a service.  
 - `Cloud services` usecase: 1- hosting if you don't have your own server. 2- require API/Apps/services from amazon, google,... 
-
-▪ `Svelte Framework`: best way to code web, DevExperice+, compiles to JS (less dependencies/overhead).  
-▪ `Correct development method` ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
-▪ `Software Engineering`:  use engineering principles and process-methods to approach the issue/task.  
-▪ `Solution Architect`: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations.  
-
-A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.  
+- `Svelte Framework`: best way to code web, DevExperice+, compiles to JS (less dependencies/overhead).  
+- `Correct development method` ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
+- `Software Engineering`:  use engineering principles and process-methods to approach the issue/task.  
+- `Solution Architect`: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations.  
+> A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.  
 ***
 
 
-## **[Web development guideline tips](web-development-guideline-tips):**  
+## **[Web development guideline](web-development-guideline):**  
  **1. Learn the base web standards** -> (HTML, CSS, Javascript) follow/practice tutorials. Make few apps.(ex: Todo)  
  **2. New web standards** -> ES6/next, new HTML, new CSS (grid,...)  practice/try what you learn.  
  **3. Update the previous apps you made**, using new things you learned. make a game and a blog site.  
@@ -169,7 +170,8 @@ A solution architect has some business insight/strategy and various technical kn
  **9. Backend**: 1. Sveltekit(if using svelte) ___ 2. Deno: new js-runtime replacement for Node.js by its creator.  
  **10.Personal** various experiences, use GIT, github, Make a portfolio site (show case). a social profile: Linkedin + twitter.  
  **11.Summary**: Be an expert in one field, pro on few more, know the rest. Fullstack: Frontend + Backend + Eco-system + Experience.  
- **12.Work**:
+ 
+ ### [Work Tips](#work-tips):
  - Better: learn neccessary stuff, use best new tech, Exp++, do remote work/freelancing. start a team company.
  - Easier: take relevant internship, Exp++, 
  - Collaborate: Learn/Use collaboration tools/platforms like GitHub.  
