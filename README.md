@@ -44,46 +44,48 @@
  - **`Back-end`**: -Deno/Bun.js ___  -Svelte-kit(svelte.js) ___  -Node.js(KOA, Polka, nest).  
  - **`Programming Languages`**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile).  
   
-### [UI](#ui) >>  
+### [UI](#ui-) >>  
 **`Standard CSS`**:
 >
  - when more control, precision and customization or zero dependency is required.   
  - new CSS standards solve much issuess developers had in the past.  
  - recommended for: small projects and teams, in any case you must master it to use libs effectively.  
  
- **`UI Lib/kit`** > *main advantages*: less text instructions(+readability), uniform design model in team, faster development and prototyping, tools automation.  
+ **`UI Lib/kit`** - main advantages* >> less text instructions(+readability), uniform design model in team, faster development and prototyping, tools automation.  
  
- #### [UI categories](#ui-lib-categories)
+ ### [UI categories](#ui-categories)
  
-  - **Minimal approachs**:  
-  ▪ **`Structure`**: renderless, headless ui.......  
-  ▪ **`CSS UI Libraries`**: `pico css`, `milligram`, `DaisyUI`.  
+  - **`UI Structure`** (minimal): renderless, headless ui.......  
+  - **`CSS UI Libs`**: pico css, milligram, DaisyUI.  
   
-  - **CSS utility fameworks**:  UnoCSS - compiles other CSS frameworks into standard CSS (0 DEP).  
-  - **UI-Kits**: Daisy UI(CSS) .... fully functional components:  Skeleton, flowbite...  
-  - **3D (WebGL/WebGPU)**:  Spline, Babylone.js, Three.js(lower level), Threlte(Svelte+three), Unity Tiny.  
+  - **`CSS toolkit`**:  UnoCSS - compiles other CSS frameworks into standard CSS.  
+  - **`UI-Kits`**: Daisy UI(CSS) .... fully functional components:  Skeleton, flowbite...  
+  - **`3D (WebGL/GPU)`**:  Spline, Babylone.js, Three.js(lower level), Threlte(Svelte+three), Unity Tiny.  
   
- **current recommendations**:  
- - picoCSS - for minimal predefined styling of standard HTML Tags,  
- - DaisyUI - best CSS UI lib,  
- - UnoCSS as best toolset for either UI Lib.  
+  
+ ### [UI Recommendations](#ui-recommendations--reason) + `reason`:
+ - `UnoCSS`  - best toolset for available lib presets, use your Lib instructions yet behaves as standard CSS.  
+ - `picoCSS` - best for predefined styling of standard HTML Tags.  
+ - `DaisyUI` - best a CSS UI lib can achieve without using JS or being a components kit.  
+ - `Skeleton`- best UI components Kit for Svelte fraamework.  
+ 
 
 
 ### [Cloud platforms](#cloud-platforms):  
-- Free & Personal: Gun.js, free, encrypted, serverless and distributed(web torrent).  
-- Cloudflare: best business class option, performant, advanced networking platform and services.  
-- Hosting clouds:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...  
-- Enterprise (cloud functions server):  1. Amazon AWS ..... 2. Firebase (Google) ..... 3. Azure (Microsoft)  
-- Alternatives: web based-> Vercel, simple cloud-> Supabase,  Self hosted-> PocketBase.  
-- Redis: in case redis modules and cloud services are required, a complete customizable database solution.  
+- `Free Personal`: Gun.js, free, encrypted, serverless and distributed(web torrent).  
+- `Cloudflare`: best business class option, performant, advanced networking platform and services.  
+- `Hosting clouds`:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...  
+- `Enterprise` (cloud functions server):  1. Amazon AWS ..... 2. Firebase (Google) ..... 3. Azure (Microsoft)  
+- `Alternatives`: web based-> Vercel, simple cloud-> Supabase,  Self hosted-> PocketBase.  
+- `Redis`: in case redis modules and cloud services are required, a complete customizable database solution.  
 
 
 ### [Database](#database):
-- Personal: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store.  
-- Performance and features: Redis + Redis modules.   
-- Most Innovative: (graphQLish+DX): - EdgeDB  - Dgraph - SurrealDB   
-- Open Source: Arango DB,  best multi-model solution for self hosted open source local server setup.  
-**Current Recommendation: EdgeDB**  
+- `Personal`: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store.  
+- `Performance` and features: Redis + Redis modules.  
+- `Innovative`: (graphQLish+DX): - EdgeDB  - Dgraph - SurrealDB  
+- `Open Source`: Arango DB,  multi-model solution for self hosted open source local server setup.
+- `Recommendation` >> **` EdgeDB `**  
 
 
 ### [Other stuff](#other-stuff):
