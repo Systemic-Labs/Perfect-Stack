@@ -1,12 +1,12 @@
 # [Perfect-Stack](#perfect-stack--i)  🛠i
 
 
-### A development guide and an awesome list of recommendations.  
+### A development guide and an `awesome-list` of recommendations.  
 
 >- This document covers information for best practices, libs, tech stack, platforms, tools,...  
->- Help you decide on best-fit options available for you rather than just follow popularity.  
->- Welcome to contribute, suggest an update, a better option, or fix a mistake,...  
->- Target users:  *useful to developers, designers, researchers, students, startups, and decision makers*.  
+>- Decide on best available options for the use-case rather than just popularity.  
+>- Welcome to contribute, suggest an update, recommend better options for a review comparison.   
+>- Target users:  *developers, designers, researchers, students, startups, and decision makers*.  
 > 
 >> -[ Awesome list](#awesome-list)  
    -[ Frameworks - more info/details](#frameworks-information)  
@@ -38,30 +38,29 @@
 # [Awesome list]  
 
 ### [Frameworks](#frameworks--)  >>
- - **Mobile**: Flutter(pure native)......Capacitor 3 (android, ios... but under web development)  
- - **Desktop**:  Tauri (Web App),  Deno executable(Web/CLI).  
- - **Front-end**: Svelte(best overall, best DX),  Vue(older, a bit more popular, more jobs).  
- - **Back-end**: -Deno/Bun.js ___  -Svelte-kit(svelte.js) ___  -Node.js(KOA, Polka, nest).  
- - **Programming Languages**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile).  
+ - **`Mobile`**: Flutter(pure native)......Capacitor 3 (android, ios... but under web development)  
+ - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
+ - **`Front-end`**: Svelte(best overall, best DX),  Vue(older, a bit more popular, more jobs).  
+ - **`Back-end`**: -Deno/Bun.js ___  -Svelte-kit(svelte.js) ___  -Node.js(KOA, Polka, nest).  
+ - **`Programming Languages`**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile).  
   
 ### [UI](#ui) >>  
-**Standard CSS**:
+**`Standard CSS`**:
 >
  - when more control, precision and customization or zero dependency is required.   
  - new CSS standards solve much issuess developers had in the past.  
  - recommended for: small projects and teams, in any case you must master it to use libs effectively.  
  
- **Yet UI Libs main use-cases are**: smaller instructions(code readability), uniform design in the team, faster development and prototyping, automation.  
+ **`UI Lib/kit`** > *main advantages*: less text instructions(+readability), uniform design model in team, faster development and prototyping, tools automation.  
  
  #### [UI categories](#ui-lib-categories)
  
-  - **Minimal approachs**: 
-  > ▪ ***(Structure)***: renderless, headless ui....... 
-  > ▪ ***(CSS UI Libraries)***: pico css, milligram, DaisyUI.  
+  - **Minimal approachs**:  
+  ▪ **`Structure`**: renderless, headless ui.......  
+  ▪ **`CSS UI Libraries`**: `pico css`, `milligram`, `DaisyUI`.  
   
   - **CSS utility fameworks**:  UnoCSS - compiles other CSS frameworks into standard CSS (0 DEP).  
-  - **UI-Kits**: Daisy UI(CSS) .... fully functional components:  Skeleton, flowbite...
-  - 
+  - **UI-Kits**: Daisy UI(CSS) .... fully functional components:  Skeleton, flowbite...  
   - **3D (WebGL/WebGPU)**:  Spline, Babylone.js, Three.js(lower level), Threlte(Svelte+three), Unity Tiny.  
   
  **current recommendations**:  
@@ -87,49 +86,51 @@
 **Current Recommendation: EdgeDB**  
 
 
-### Other stuff:
-- **Programming Languages**:
-  - **(Low level)**: ▪ ***Rust***: Web std / Safe / Precise / System / Performance / made by Mozilla / supported.  
-  - **(High Level)**: ▪ **Platforms ecosystem**: JS/ESNext, Python, Swift, Dart ... ▪ **Performace**: Nim (easy/semi python syntax)
-- **Host**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
-- **Static Site Generator**: .. Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
-- **Content Management System**: .. Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
-- **Dev collaboration Platforms**: Github, Gitpod, Gitlab, notion.  
-- **Dev tools**:  GIT, CDT, CLI tools, npm, vs-code, emmet, skypack...  
-- **Other stuff**: find useful online tools.......Bundler: vite, snowpack......  
+### [Other stuff](#other-stuff):
+- **`Programming Languages`**:
+  - **(Low level)**: 
+      - **`C++ alternatives`** -> `Carbon`, `Zig`,  `Nim` (easy/semi python syntax)  
+      - **`Rust`**: Web std / Safe / Precise / System / Performance / by Mozilla / support.  
+- **(High level)**: ▪ **Platforms ecosystem**: JS/ESNext, Python, Swift, Dart  
+- **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
+- **`Static Site Generator`**: .. Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
+- **`Content Management System`**: .. Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
+- **`Dev/Repo/Collab` Platforms**: Github, Gitpod, Gitlab, notion.  
+- **`Dev tools`**:  CLI tools(GIT, bash, npm...), vs-code, emmet, skypack...  
+- **`Other stuff`**: find useful online tools, use bundlers: vite, snowpack......  
 ***
   
 ## [Frameworks information](#frameworks-information)  
 
 ### Frontend:  
- - **1.(Best overall) ▪Svelte**: best of all, DX+, integrates and compiles to standard web, long term strategic choice.  
- - **2.(Minimal) ... ▪Solid**: fast, efficient, reliable, fine tuned core structure, migration choice for react developers.  
- - **3.(Job offers/forced/required)**: **Vue** (popular). .... **Angular / React / .net** (GG/FB/MS company platforms)  
+ - **1. `Svelte`**: (Best overall), DX+, integrates and compiles to standard web, long term strategic choice.  
+ - **2. `Solid`**: (Minimal), fast, efficient, reliable, fine tuned core structure, migration choice for react developers.  
+ - **3. `Vue`**: (popular). ....  Angular / React / .net** (GG/FB/MS company platforms, Job offers/forced/required).  
   
   
 ### Backend:
 
 #### JavaScript Runtimes:  
-** > Deno.js**: by creator of node.js, secure by default, lighter, faster, Wasm, better concept, DX+.  
-** > Node.js**:  most libs, support, popular eco-system. -- **Bun.js**: Node.js compatible but higher performance.  
+** > `Deno.js`**: by creator of node.js, secure by default, lighter, faster, Wasm, better concept, DX+.  
+** > `Node.js`**:  most libs, support, popular eco-system. -- **Bun.js**: Node.js compatible but higher performance.  
 
 ### Fullstack frameworks: 
-**Sveltekit**: current recommendation due to the fact it's strong on both frontend and backend.  
+**`Sveltekit`**: current recommendation due to the fact it's strong on both frontend and backend.  
  > A complete web/app framework, scalable, stable release of latest innovations in web ecosystem.  
 
-**Node.js frameworks**:  Next(Vercel, React), Nuxt(VUE), Astro(multi platform), JS(polka, koa).  
+**`Node.js frameworks`**:  Next(Vercel, React), Nuxt(VUE), Astro(multi platform), JS(polka, koa).  
 
-**Python eco-system**:  jobs, popularity, AI libs, ease of usage, beginners, not perfect+just do it...  
-**System / low level**: C++ alternatives -> Carbon, Rust, Zig .... Python similarity -> Nim.  
+**`Python eco-system`**:  jobs, popularity, AI libs, ease of usage, beginners, resources...  
+
   
-### Svelte framework pros:  
-**1. Developer Experience**: write less code, concentrate on coding your idea instead of development complexity.  
-**2. Standard**: the code is compiled to standard JS. Fast/optimized, can be used anywhere, reusable in future.  
-**3. Less complexity**: easier to read code, compiled and no online build process, no framework dependency at runtime.  
-     - reduced Testing/Dependency issues: less unexpected reactions, conflicts, misunderstanding source of issues.  
+### [Svelte framework pros](#svelte-framework-pros):  
+**1. `Developer Experience`**: write less code, concentrate on your ideas, not development complexity.  
+**2. `Standard`**: the code is compiled to standard JS. Fast/optimized, can be used anywhere, reusable.  
+**3. `Less complexity`**: easier to read code, compiled and no online build process, no framework issues at runtime.  
+     - Less Testing/Dependency issues:  unexpected reactions, conflicts, misunderstanding source of issues.  
      - Less Errors: due to not having runtime dependencies, or external factors except your own code.  
-**4. Less Cost**: easier to read code of other developers, other employees can continue the work + less bugs + less testing + faster development.  
-**5. Smaller bundle size (Compiled), without virtual-dom runtime framework overhead/dependency.  
+**4. `Less Cost`**: easier to read code of other devs => continue their work + less bugs + less testing + faster development.  
+**5. `Smaller bundle size`** (Compiled), without virtual-dom and framework overhead...  
 
 ***
 ***
@@ -139,16 +140,16 @@
 # [Extra Information](#extra-information)  
 ***
 ## **Web Development - about definitions**   
-▪ Front-end: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
-▪ Back-end: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
-▪ DevOps: Admin, analytics, control, process, automation tools.  
-▪ Cloud solutions: provides process, memory and ready functions as a service, 
-- Cloud services usecase: 1- hosting if you don't have your own server. 2- require API/Apps/services from amazon, google,... 
+▪ `Front-end`: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
+▪ `Back-end`: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
+▪ `DevOps`: Admin, analytics, control, process, automation tools.  
+▪ `Cloud solutions`: provides process, memory and ready functions as a service.  
+- `Cloud services` usecase: 1- hosting if you don't have your own server. 2- require API/Apps/services from amazon, google,... 
 
-▪ Svelte Framework: best model to code web, DevExperice+, compiles to JS (less dependencies/overhead).  
-▪ Correct development method ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
-▪ Software Engineering:  use engineering principles and process-methods to approach the issue/task.  
-▪ Solution Architect: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations.  
+▪ `Svelte Framework`: best way to code web, DevExperice+, compiles to JS (less dependencies/overhead).  
+▪ `Correct development method` ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
+▪ `Software Engineering`:  use engineering principles and process-methods to approach the issue/task.  
+▪ `Solution Architect`: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations.  
 
 A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.  
 ***
@@ -176,13 +177,13 @@ A solution architect has some business insight/strategy and various technical kn
  
  
 ## [The Web - status summary](#the-web-status-summary)
-The web eco-system was originally made to communicate with text or data, it later evolved to present simple graphics and images.
-Afterwards hardware specs advanced, offering high performance and capacity, smartphones appeared, online use-cases and services.  
-Therefore all these things affected the web status which became more complex and confusing in the last decade due to workarounds and fixes to support new features by vendor prefixes, 3rd party libs, tools and frameworks to achieve functional demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatibility of existing sites and old systems while native mobile and desktop platforms had all breaking changes required once a while. By the mean time all these 3rd party libraries, vendor prefixes and frameworks were made to solve/patch the issue and provide features that didn't exist in web standards yet.
+The web was originally made to communicate with text and data, it later evolved to present simple graphics and images.
+Hardware advancements in performance and capacity, plus emerging smartphones and social networks caused web based online services go mainstream in network communications, it progressed fast and competes with native platforms.  
+The sudden progress pace in contrast with the concept of keeping it backward compatible with legacy standards, caused some complexity and confusion in the last decade due to workarounds to support new features by vendor prefixes, various 3rd party libs, tools and frameworks to achieve demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatibility of existing sites and old systems while native mobile and desktop platforms had all breaking changes at once to support new hardware. By then 3rd party libs, prefixes and frameworks... were made to solve/patch the issue and provide features that didn't exist in web standards yet.
 
-Good news, the new web standards are available, evolved and solved issues and included the most wanted features, furthermore Frameworks evolved and new Web APIs provide functionality and access to new technologies. Therefore with much flexibility and compatibility Web can now compete with native desktop and mobile platforms.  
+Good news, the new web standards and innovations, improved the situation, furthermore Frameworks evolved and matured including new Web APIs to provide functionality and access to new technologies. Therefore with much flexibility, compatibility and openness, Web eco-system can now compete with native desktop and mobile platforms.  
 
-In summary use the main platform itself whenever you can! some of the old prefixes, 3rd party libs,... are not required anymore...(as explained above) If you are new dev or refreshing your knowledge, be up to date and follow new trends and best practices of time being, not the past... unless required or there is no alternative. The recommended trends mentioned here were handpicked by checking reviews comparison, personal experiments, and what top professionals are using.
+Whenever learning something new, adopt the new web standards and best practices, some of the old prefixes, 3rd party libs,... are not required anymore...(as explained above) unless required or there is no alternative. The recommended trends mentioned here were handpicked by checking reviews comparison, personal experiments, and by looking into new trends top professionals adopt.
 ***
 
 ### [New developer or decision maker?](#new-developer-or-decision-make?)
