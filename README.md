@@ -1,5 +1,6 @@
+  
 # [Perfect-Stack](#perfect-stack--i)  🛠i
-
+<br>  
 
 ### A development guide and an `awesome-list` of recommendations.  
 
@@ -7,13 +8,14 @@
 >- Decide on best available options for the use-case rather than just popularity.  
 >- Welcome to contribute, suggest an update, recommend better options for a review comparison.   
 >- Target users:  *developers, designers, researchers, students, startups, and decision makers*.  
-> 
+>  
 >> -[ Awesome list](#awesome-list)  
    -[ Frameworks - more info/details](#frameworks-information)  
    -[ Extra information and discussion](#extra-information)  
 
 ***
-▪    
+<br>  
+
 ### [To beginners and startups](#to-beginners-and-startups)
 
 > Most developers use popular yet not the best development trends, either due to Job/workplace skill requirements, online article or a senior's advice, which might been the best choice in the past, but a new learner adopting outdated practices is wrong, this cycle repeats few times in many years and old tech and practices get stuck in job/edu systems, therefore instead of choosing only based on poplularity, make decisions which solves the problem in the best way, mostly if you're a new developer or planning a startup, you're not bounded to  specific conditions or eco-system, therefore do your own research, check review comparisons, and finally make decision which benefit you in long-term.  
@@ -21,9 +23,10 @@
 
  ***
 
-#### Which Platforms?
-> Targeting only mobile devices and native functions/apps => use Flutter(cross platform), or any native SDKs of the device...  
-> But if your target is cross-platform or web based, then use the web dev and mobile sdk's as required such as Tauri, or "Capacitor" for web, mobile, desktop development.  
+#### Target Platform
+> `Mobile:` Targeting only mobile devices and native functions/apps => use Flutter(cross platform), or other native SDKs of the devices.  
+> `Web:` But if your development target is web/communication based, not low-level/system dependent, and not under vendor lockin or limitations  then use the web, and mobile SDK's if required such as Tauri or "Capacitor" for web, mobile, desktop development.  
+> `System:` In case you require system/low level processing, high performance processing/capacity(*or to save cost*) then must plan server systems, a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.    
   
   
 #### Learning tips
@@ -34,8 +37,10 @@
 > Make a group, join friends, divide tasks/learning, share your findouts, work as a team,... is too much to handle by only one person.
 
 ***
-  
+<br>  
+
 # [Awesome list]  
+<br>
 
 ### [Frameworks](#frameworks--)  >>
  - **`Mobile`**: Flutter(pure native)......Capacitor 3 (android, ios... but under web development)  
@@ -43,7 +48,8 @@
  - **`Front-end`**: Svelte(best overall, best DX),  Vue(older, a bit more popular, more jobs).  
  - **`Back-end`**: -Deno/Bun.js ___  -Svelte-kit(svelte.js) ___  -Node.js(KOA, Polka, nest).  
  - **`Programming Languages`**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile).  
-  
+<br>  
+
 ### [UI](#ui-) >>  
 **`Standard CSS`**:
 >
@@ -51,7 +57,7 @@
  - new CSS standards solve much issuess developers had in the past.  
  - recommended for: small projects and teams, in any case you must master it to use libs effectively.  
  
- **`UI Lib/kit`** - main advantages* >> less text instructions(+readability), uniform design model in team, faster development and prototyping, tools automation.  
+ **`UI Lib/kit`** - *main advantages* >> less text instructions(+readability), uniform design model in team, faster development and prototyping, tools automation.  
  
  ### [UI categories](#ui-categories)
  
@@ -68,8 +74,7 @@
  - `picoCSS` - best for predefined styling of standard HTML Tags.  
  - `DaisyUI` - best a CSS UI lib can achieve without using JS or being a components kit.  
  - `Skeleton`- best UI components Kit for Svelte fraamework.  
- 
-
+<br>  
 
 ### [Cloud platforms](#cloud-platforms):  
 - `Free Personal`: Gun.js, free, encrypted, serverless and distributed(web torrent).  
@@ -86,7 +91,7 @@
 - `Innovative`: (graphQLish+DX): - EdgeDB  - Dgraph - SurrealDB  
 - `Open Source`: Arango DB,  multi-model solution for self hosted open source local server setup.
 - `Recommendation` >> **` EdgeDB `**  
-
+<br>  
 
 ### [Other stuff](#other-stuff):
 - **`Programming Languages`**:
@@ -100,15 +105,17 @@
 - **`Dev tools`**:  CLI tools(GIT, bash, npm...), vs-code, emmet, skypack...  
 - **`Other stuff`**: find useful online tools, use bundlers: vite, snowpack......  
 ***
-  
+<br>  
+
 ## [Frameworks information](#frameworks-information)  
+<br>  
 
 ### [Frontend](#frontend):  
  - **1. `Svelte`**: (Best overall), DX+, integrates and compiles to standard web, long term strategic choice.  
  - **2. `Solid`**: (Minimal), fast, efficient, reliable, fine tuned core structure, migration choice for react developers.  
  - **3. `Vue`**: (popular). ....  Angular / React / .net** (GG/FB/MS company platforms, Job offers/forced/required).  
+<br>  
 
-.  
 ### [Backend](#backend):
 
 #### JavaScript Runtimes:  
@@ -116,17 +123,17 @@
   - **`Node.js`**:  most libs, support, popular eco-system. 
   - **`Bun.js`**: Node.js compatible but higher performance.  
 
-.  
+## Python eco-system:  jobs, popularity, AI libs, ease of usage, beginners, resources...  
+
+<br>  
 
 ### [Fullstack](#fullstack): 
 **`Sveltekit`**: current recommendation due to the fact it's strong on both frontend and backend.  
 > *a complete web/app framework, scalable, stable release of latest innovations in web ecosystem.*  
 
 **`Node.js frameworks`**:  Next(Vercel, React), Nuxt(VUE), Astro(multi platform), JS(polka, koa).  
+<br>  
 
-**`Python eco-system`**:  jobs, popularity, AI libs, ease of usage, beginners, resources...  
-
-  
 ### [Svelte framework pros](#svelte-framework-pros):  
 **`Developer Experience`**: write less code, concentrate on your ideas, not development complexity.  
 **`Standard`**: the code is compiled to standard JS. Fast/optimized, can be used anywhere, reusable.  
@@ -139,11 +146,12 @@
 
 ***
 ***
-***
-  
-  
+<br>  
+
+
 # [Extra Information](#extra-information)  
-***
+<br>  
+
 ## **Web Development - about definitions**   
 - `Front-end`: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
 - `Back-end`: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
@@ -172,23 +180,24 @@
  **11.Summary**: Be an expert in one field, pro on few more, know the rest. Fullstack: Frontend + Backend + Eco-system + Experience.  
  
  ### [Work Tips](#work-tips):
- - Better: learn neccessary stuff, use best new tech, Exp++, do remote work/freelancing. start a team company.
- - Easier: take relevant internship, Exp++, 
+ - Better: learn best new tech options, practice, freelance, get hired, build an idea startup team.
+ - Easier: take a positive internship, learn, collab, you either get hired or improve portfolio/experience.  
  - Collaborate: Learn/Use collaboration tools/platforms like GitHub.  
  - Job: find a job or startup a new team.  Wish you the best.  
 
 *** 
- 
- 
+<br>  
+
 ## [The Web - status summary](#the-web-status-summary)
 The web was originally made to communicate with text and data, it later evolved to present simple graphics and images.
 Hardware advancements in performance and capacity, plus emerging smartphones and social networks caused web based online services go mainstream in network communications, it progressed fast and competes with native platforms.  
-The sudden progress pace in contrast with the concept of keeping it backward compatible with legacy standards, caused some complexity and confusion in the last decade due to workarounds to support new features by vendor prefixes, various 3rd party libs, tools and frameworks to achieve demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatibility of existing sites and old systems while native mobile and desktop platforms had all breaking changes at once to support new hardware. By then 3rd party libs, prefixes and frameworks... were made to solve/patch the issue and provide features that didn't exist in web standards yet.
+The sudden progress pace in contrast with the concept of keeping it backward compatible with legacy standards, caused some complexity and confusion in the last decade due to workarounds to support new features by vendor prefixes, various 3rd party libs, tools and frameworks to achieve demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatibility of existing sites and old systems while native mobile and desktop platforms had all breaking changes at once to support new hardware. By then 3rd party libs, prefixes and frameworks... were made to solve/patch the issue and provide features that didn't exist in web standards yet.  
 
 Good news, the new web standards and innovations, improved the situation, furthermore Frameworks evolved and matured including new Web APIs to provide functionality and access to new technologies. Therefore with much flexibility, compatibility and openness, Web eco-system can now compete with native desktop and mobile platforms.  
 
-Whenever learning something new, adopt the new web standards and best practices, some of the old prefixes, 3rd party libs,... are not required anymore...(as explained above) unless required or there is no alternative. The recommended trends mentioned here were handpicked by checking reviews comparison, personal experiments, and by looking into new trends top professionals adopt.
+Whenever learning something, learn latest stable standards and best practices, some of the old prefixes, 3rd party libs,... are not required anymore...(as explained above) unless required or there is no alternative. The recommended trends mentioned here were handpicked by checking reviews comparison, personal experiments, and by looking into new trends top professionals adopt.  
 ***
+<br>  
 
 ### [New developer or decision maker?](#new-developer-or-decision-make?)
 
@@ -212,5 +221,6 @@ Whenever learning something new, adopt the new web standards and best practices,
 - As old devs retire,  new ones might add new layers of abstraction instead of fixing the original code, these issues cause
  extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...  
 ***
+<br>  
 
 **Todo**:   remote work, Security, Web API’s, AI/ML.
