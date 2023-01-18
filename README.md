@@ -129,7 +129,7 @@
   - **`Node.js`**:  most libs, support, popular eco-system. 
   - **`Bun.js`**: Node.js compatible but higher performance.  
 
-## Python eco-system:  jobs, popularity, AI libs, ease of usage, beginners, resources...  
+#### Python eco-system:  jobs, popularity, AI libs, ease of usage, beginners, resources...  
 
 <br>  
 
