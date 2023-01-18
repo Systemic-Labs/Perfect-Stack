@@ -2,28 +2,29 @@
 # [Perfect-Stack](#perfect-stack--i)  🛠i
 <br>  
 
-### A development guide and an `awesome-list` of recommendations.  
+## `A development guide and an awesome-list of recommendations.`  
 
->- This document covers information for best practices, libs, tech stack, platforms, tools,...  
->- Decide on best available options for the use-case rather than just popularity.  
->- Welcome to contribute, suggest an update, recommend better options for a review comparison.   
->- Target users:  *developers, designers, researchers, students, startups, and decision makers*.  
+- This document covers information for best practices, libs, tech stack, platforms, tools,...  
+- Decide on best options for your use-case rather than being a conformist folowing popular trends.  
+>- Contribution, to recommend an obvious better option or to improve this document, with clear reason.  
+>- Target users:  *developers, designers, researchers, students, startups, any decision maker*.  
 >  
->> -[ Awesome list](#awesome-list)  
-   -[ Frameworks - more info/details](#frameworks-information)  
-   -[ Extra information and discussion](#extra-information)  
+## [`Shortcuts`](#shotcuts)
+>  ### [ Awesome list](#awesome-list)  
+>  ### [ Frameworks - more info/details](#frameworks-information)  
+>  ### [ Extra information and discussion](#extra-information)  
 
 ***
 <br>  
 
-### [To beginners and startups](#to-beginners-and-startups)
+## [`To beginners and startups`](#to-beginners-and-startups)
 
 > Most developers use popular yet not the best development trends, either due to Job/workplace skill requirements, online article or a senior's advice, which might been the best choice in the past, but a new learner adopting outdated practices is wrong, this cycle repeats few times in many years and old tech and practices get stuck in job/edu systems, therefore instead of choosing only based on poplularity, make decisions which solves the problem in the best way, mostly if you're a new developer or planning a startup, you're not bounded to  specific conditions or eco-system, therefore do your own research, check review comparisons, and finally make decision which benefit you in long-term.  
 - [*...Information details, definitions and extra discussion on this topic...*](#new-developer-or-decision-maker)  
 
  ***
 
-#### Target Platform
+### `Target Platform`  
 > `Mobile:` Targeting only mobile devices and native functions/apps => use Flutter(cross platform), or other native SDKs of the devices.  
 > `Web:` But if your development target is web/communication based, not low-level/system dependent, and not under vendor lockin or limitations  then use the web, and mobile SDK's if required such as Tauri or "Capacitor" for web, mobile, desktop development.  
 > `System:` In case you require system/low level processing, high performance processing/capacity(*or to save cost*) then must plan server systems, a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.    
@@ -45,7 +46,7 @@
 ### [Frameworks](#frameworks--)  >>
  - **`Mobile`**: Flutter(pure native)......Capacitor 3 (android, ios... but under web development)  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
- - **`Front-end`**: Svelte(best overall, best DX),  Vue(older, a bit more popular, more jobs).  
+ - **`Front-end`**: Svelte(best overall, best DX),  Vue(past populary=> more jobs), Solid(React replacement).  
  - **`Back-end`**: -Deno/Bun.js ___  -Svelte-kit(svelte.js) ___  -Node.js(KOA, Polka, nest).  
  - **`Programming Languages`**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile).  
 <br>  
@@ -61,7 +62,8 @@
  
  ### [UI categories](#ui-categories)
  
-  - **`UI Structure`** (minimal): renderless, headless ui.......  
+  - **`CSS utility framework`**: (short codes, presets, functions) Tailwind, UnoCSS.  
+  - **`UI structure`** (you do custom style): renderless, headless ui.  
   - **`CSS UI Libs`**: pico css, milligram, DaisyUI.  
   
   - **`CSS toolkit`**:  UnoCSS - compiles other CSS frameworks into standard CSS.  
@@ -70,27 +72,31 @@
   
   
  ### [UI Recommendations](#ui-recommendations--reason) + `reason`:
- - `UnoCSS`  - best toolset for available lib presets, use your Lib instructions yet behaves as standard CSS.  
+ - `UnoCSS`  - best tool for presets. (code as other Libs yet it builds to standard CSS)  
  - `picoCSS` - best for predefined styling of standard HTML Tags.  
  - `DaisyUI` - best a CSS UI lib can achieve without using JS or being a components kit.  
- - `Skeleton`- best UI components Kit for Svelte fraamework.  
+ - `Skeleton UI`- best UI components Kit for Svelte fraamework.  
+ - `Agnostic UI`- various pros, in case it benefit your work.  
+ - `BeerCSS` - better option in case you're into material design concept.  
 <br>  
 
 ### [Cloud platforms](#cloud-platforms):  
 - `Free Personal`: Gun.js, free, encrypted, serverless and distributed(web torrent).  
 - `Cloudflare`: best business class option, performant, advanced networking platform and services.  
 - `Hosting clouds`:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...  
-- `Enterprise` (cloud functions server):  1. Amazon AWS ..... 2. Firebase (Google) ..... 3. Azure (Microsoft)  
+- `Enterprise` (cloud functions/services):  1. Amazon AWS -- 2. Firebase (Google) -- 3. Azure (Microsoft)  
 - `Alternatives`: web based-> Vercel, simple cloud-> Supabase,  Self hosted-> PocketBase.  
-- `Redis`: in case redis modules and cloud services are required, a complete customizable database solution.  
+- `Fullstack App servers` + free basic pricing: cyclic.sh(full options +S3 +DynamoDB)  railway.app (+postgreSQL)
+- `Redis`: if redis modules and cloud services are required, a complete customizable database solution.  
 
 
 ### [Database](#database):
 - `Personal`: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store.  
 - `Performance` and features: Redis + Redis modules.  
-- `Innovative`: (graphQLish+DX): - EdgeDB  - Dgraph - SurrealDB  
+- `Innovative`: (graphQLish+DX): - EdgeDB - SurrealDB - Dgraph 
 - `Open Source`: Arango DB,  multi-model solution for self hosted open source local server setup.
-- `Recommendation` >> **` EdgeDB `**  
+- `Recommendation`:  
+  > **` EdgeDB `**: simple, you prefer EdgeQL -  **` SurrealDB`**: more advanced, customization and options.  
 <br>  
 
 ### [Other stuff](#other-stuff):
@@ -128,8 +134,8 @@
 <br>  
 
 ### [Fullstack](#fullstack): 
-**`Sveltekit`**: current recommendation due to the fact it's strong on both frontend and backend.  
-> *a complete web/app framework, scalable, stable release of latest innovations in web ecosystem.*  
+**`Sveltekit`**: complete yet custom scalable solution, flexible use of frontend + backend.  
+> *Best web/app framework + DX, combined best practices and innovations in web ecosystem.*  
 
 **`Node.js frameworks`**:  Next(Vercel, React), Nuxt(VUE), Astro(multi platform), JS(polka, koa).  
 <br>  
@@ -158,7 +164,7 @@
 - `DevOps`: Admin, analytics, control, process, automation tools.  
 - `Cloud solutions`: provides process, memory and ready functions as a service.  
 - `Cloud services` usecase: 1- hosting if you don't have your own server. 2- require API/Apps/services from amazon, google,... 
-- `Svelte Framework`: best way to code web, DevExperice+, compiles to JS (less dependencies/overhead).  
+- `Developer Experience`: (DX) satisfaction rate of developer, plus how empowering, practical, direct, and unambiguous it be.  
 - `Correct development method` ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
 - `Software Engineering`:  use engineering principles and process-methods to approach the issue/task.  
 - `Solution Architect`: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations.  
