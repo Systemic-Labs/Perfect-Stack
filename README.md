@@ -25,9 +25,9 @@
  ***
 
 ### `Target Platform`  
-> `Mobile:` Targeting only mobile devices and native functions/apps => use Flutter(cross platform), or other native SDKs of the devices.  
-> `Web:` But if your development target is web/communication based, not low-level/system dependent, and not under vendor lockin or limitations  then use the web, and mobile SDK's if required such as Tauri or "Capacitor" for web, mobile, desktop development.  
-> `System:` In case you require system/low level processing, high performance processing/capacity(*or to save cost*) then must plan server systems, a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.    
+> `Native/Mobile:`  SDK's of Android, iOS,... such as Flutter. if you highly focused on new abilities and specific devices, usecase Ex: 3D games.  
+> `Web:` If the development target is web/communication based, not low-level/system dependent, and not under vendor lockin or limitations then use the web platform, which has most use cases, most open and is cross-platform. server, web, mobile, desktop development.  
+> `System:` In case you require system/low level processing, high performance processing/capacity(*or to save cost*) then must plan server systems, a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.  
   
   
 #### Learning tips
