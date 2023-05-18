@@ -81,22 +81,29 @@
 <br>  
 
 ### [Cloud platforms](#cloud-platforms):  
-- `Free Personal`: Gun.js, free, encrypted, serverless and distributed(web torrent).  
+
 - `Cloudflare`: best business class option, performant, advanced networking platform and services.  
 - `Hosting clouds`:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...  
-- `Enterprise` (cloud functions/services):  1. Amazon AWS -- 2. Firebase (Google) -- 3. Azure (Microsoft)  
-- `Alternatives`: web based-> Vercel, simple cloud-> Supabase,  Self hosted-> PocketBase.  
-- `Fullstack App servers` + free basic pricing: cyclic.sh(full options +S3 +DynamoDB)  railway.app (+postgreSQL)
-- `Redis`: if redis modules and cloud services are required, a complete customizable database solution.  
+- `Enterprise`: (for more features+scale - extra cloud functions/services)  
+> 1. Amazon AWS .... 2. Google/Firebase  .... 3. Azure (Microsoft)  
+> 4. Redis: more of a DB, fast, if redis modules/services are required, a complete customizable DB solution.  
+
+- `Alternatives`: 
+> Serverless/web based -> Vercel, simple cloud-> Supabase,  Self hosted-> PocketBase.  
+> Decentralised -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
+> Personal -> Gun.js, free, encrypted, serverless and distributed(web torrent).  
+> Fullstack App servers free basic plan: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)
 
 
 ### [Database](#database):
-- `Personal`: Gun.js, is fast, free, simple, encrypted, auth with a semi graphQL data store.  
-- `Performance` and features: Redis + Redis modules.  
-- `Innovative`: (graphQLish+DX): - EdgeDB - SurrealDB - Dgraph 
+- `Next-Gen`: Nostr, AT protocol, Gun.js - decentrlized, secure, extra features(DB+SN/COMM).  
+- `Performance`: cloud edge KVDBs such as and features: Redis + Redis modules.  
+- `Innovative`: EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vetor Databases (AI use-cases).  
 - `Open Source`: Arango DB,  multi-model solution for self hosted open source local server setup.
 - `Recommendation`:  
-  > **` EdgeDB `**: simple, you prefer EdgeQL -  **` SurrealDB`**: more advanced, customization and options.  
+  > **`Nostr`** : decentralized, free, secure, privacy, best social/chat/communication DB store.  
+  > **` EdgeDB `**: simple + you prefer EdgeQL.  
+  > **` SurrealDB`**: more advanced, customization and options.  
 <br>  
 
 ### [Other stuff](#other-stuff):
@@ -105,11 +112,11 @@
   - **(Low level)** - **`Rust`**: Web std / Safe / Precise / System / Performance / by Mozilla / support.  
   - **(High level)**: **Platforms ecosystem**: `JS/ESNext`, `Python`, `Swift`, `Dart`.  
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
-- **`Static Site Generator`**: .. Astro(js, React, Vue, Svelte), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
-- **`Content Management System`**: .. Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
-- **`Dev/Repo/Collab` Platforms**: Github, Gitpod, Gitlab, notion.  
-- **`Dev tools`**:  CLI tools(GIT, bash, npm...), vs-code, emmet, skypack...  
-- **`Other stuff`**: find useful online tools, use bundlers: vite, snowpack......  
+- **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
+- **`Content Management System`**:  Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
+- **`Dev/Repo` Platforms**: Github, Gitlab, Gitea, notion, Collab...  
+- **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...  
+- **`Other stuff`**: find useful libs, online tools, AI tools, which help and improve DX.  
 ***
 <br>  
 
