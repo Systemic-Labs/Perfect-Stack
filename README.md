@@ -47,9 +47,20 @@
  - **`Mobile`**: Flutter(pure native)......Capacitor 3 (android, ios... but under web development)  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
  - **`Front-end`**: Svelte(best overall, best DX),  Vue(past populary=> more jobs), Solid(React replacement).  
- - **`Back-end`**: -Deno/Bun.js ___  -Svelte-kit(svelte.js) ___  -Node.js(KOA, Polka, nest).  
- - **`Programming Languages`**:  Rust, Go, Nim, Dart, Swift... - (each specific use-case, SSP, Backend, Mobile).  
+ - **`Back-end`**: JS runtime-> Deno, Node.js/Bun + specific requirements -> platform, programming language...  
+ - **`Full-stack`**: Svelte-kit  
+ - **`Crossplatform`**: Socket.io (Desktop, Mobile, Storage)  
+ - **`Programming Languages`**:  Rust, Go, Nim, Dart, Swift... (per use-case, SSP, Backend, Mobile app).  
 <br>  
+
+### [AI](#ai-) >> 
+- `Current trends`: OpenAI API, Hugging face systems(open source, variaty, value)  
+- `ready to use AI` as apps, API, cloud services from Google, Amazon, Microsoft...   
+- `AGI models`: ____ GPT4 ____ Falcon 40B (open-source).  
+- `AGI chat/prompt`: ____ ChatGPT ____ Hugging Chat.  
+
+*`AGI` -> (Artificial General Intelligence)   ____ (`Todo Soon`: Awesome AI list repo)*  
+<br>
 
 ### [UI](#ui-) >>  
 **`Standard CSS`**:
