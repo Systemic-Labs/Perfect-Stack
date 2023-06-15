@@ -54,12 +54,13 @@
 <br>  
 
 ### [AI](#ai-) >> 
-- `Current trends`: OpenAI API, Hugging face systems(open source, variaty, value)  
-- `ready to use AI` as apps, API, cloud services from Google, Amazon, Microsoft...   
-- `AGI models`: ____ GPT4 ____ Falcon 40B (open-source).  
-- `AGI chat/prompt`: ____ ChatGPT ____ Hugging Chat.  
+- `Dev top trends`: OpenAI API, Hugging face systems(open source, variaty, value)  
+- `Ready to use`: as apps, API, cloud services from Google, Amazon, Microsoft...   
+- `AGI models`: ____ GPT4 ____ InternLM ____ Falcon 40B (open-source).  
+- `AGI chat/prompt`: ____ ChatGPT ____ Hugging Chat.
+- `Image Diffusion by Prompt`:  Raphael (Trained on 5B select dataset, light, precise, optimized)  
 
-*`AGI` -> (Artificial General Intelligence)   ____ (`Todo Soon`: Awesome AI list repo)*  
+*`AGI` -> (Artificial General Intelligence)   ____ (`Todo`: AI Awesome list repo)*  
 <br>
 
 ### [UI](#ui-) >>  
