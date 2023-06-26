@@ -109,7 +109,7 @@
 
 ### [Database](#database):
 - `Next-Gen`: Nostr, AT protocol, Gun.js - decentrlized, secure, extra features(DB+SN/COMM).  
-- `Performance`: cloud edge KVDBs such as and features: Redis + Redis modules.  
+- `Performance`: cloud edge KVDBs such as Cloudflare/Deno KV. Full DB: Redis + Redis modules.  
 - `Innovative`: EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vetor Databases (AI use-cases).  
 - `Open Source`: Arango DB,  multi-model solution for self hosted open source local server setup.
 - `Recommendation`:  
