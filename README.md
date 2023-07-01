@@ -43,6 +43,17 @@
 # [Awesome list]  
 <br>
 
+### [AI](#ai-) >> 
+- `Dev top trends`: OpenAI API, Hugging face systems(open source, variaty, value)  
+- `Ready to use`: as apps, API, cloud services from Google, Amazon, Microsoft...   
+- `AGI models`: ____ GPT4 ____ InternLM ____ `open-source`: Falcon 40B ____ Orca LLM.  
+- `AGI chat/prompt`: ____ ChatGPT ____ Hugging Chat.
+- `Autonomous AGI agent`: ____ SuperAGI ____ MultiON ____ AutoGPT
+- `Image Diffusion by Prompt`:  Raphael (Trained on 5B select dataset, light, precise, optimized)  
+
+*`AGI` -> (Artificial General Intelligence)   ____ (`Todo`: AI Awesome list repo)*  
+<br>
+
 ### [Frameworks](#frameworks--)  >>
  - **`Mobile`**: Flutter(pure native)......Capacitor 3 (android, ios... but under web development)  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
@@ -52,16 +63,6 @@
  - **`Crossplatform`**: Socket.io (Desktop, Mobile, Storage)  
  - **`Programming Languages`**:  Rust, Go, Nim, Dart, Swift... (per use-case, SSP, Backend, Mobile app).  
 <br>  
-
-### [AI](#ai-) >> 
-- `Dev top trends`: OpenAI API, Hugging face systems(open source, variaty, value)  
-- `Ready to use`: as apps, API, cloud services from Google, Amazon, Microsoft...   
-- `AGI models`: ____ GPT4 ____ InternLM ____ Falcon 40B (open-source).  
-- `AGI chat/prompt`: ____ ChatGPT ____ Hugging Chat.
-- `Image Diffusion by Prompt`:  Raphael (Trained on 5B select dataset, light, precise, optimized)  
-
-*`AGI` -> (Artificial General Intelligence)   ____ (`Todo`: AI Awesome list repo)*  
-<br>
 
 ### [UI](#ui-) >>  
 **`Standard CSS`**:
