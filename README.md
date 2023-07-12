@@ -19,14 +19,16 @@
 
 ## [`To beginners and startups`](#to-beginners-and-startups)
 
-> Most developers use popular yet not the best development trends, either due to Job/workplace skill requirements, online article or a senior's advice, which might been the best choice in the past, but a new learner adopting outdated practices is wrong, this cycle repeats few times in many years and old tech and practices get stuck in job/edu systems, therefore instead of choosing only based on poplularity, make decisions which solves the problem in the best way, mostly if you're a new developer or planning a startup, you're not bounded to  specific conditions or eco-system, therefore do your own research, check review comparisons, and finally make decision which benefit you in long-term.  
+> Majority of developers use an older popular tech, instead of best dev trends. Reasons vary from adoption time to Job/workplace skill requirements, or just based on a guide/senior advice, which might been a valid option for them in the past years, but not the best option by now, this cycle repeats and non optimal tech get stuck in job/edu systems, then if you adopt this outdated tech, by the time you get pro in it, the tech lifetime might be near end and you need to migrate to something else.
+
+Therefore instead of just poplularity, make decisions based on facts, use whatever solves the task best, mostly if you're doing your own business or planning a startup, you're not bound to a legacy eco-system, specific setup or conditions, so do your own research, check review comparisons, and finally make decision which benefit you in long-term. ` Wish you good luck! `
 - [*...Information details, definitions and extra discussion on this topic...*](#new-developer-or-decision-maker)  
 
  ***
 
 ### `Target Platform`  
-> `Native/Mobile:`  SDK's of Android, iOS,... such as Flutter. if you highly focused on new abilities and specific devices, usecase Ex: 3D games.  
-> `Web:` If the development target is web/communication based, not low-level/system dependent, and not under vendor lockin or limitations then use the web platform, which has most use cases, most open and is cross-platform. server, web, mobile, desktop development.  
+> `Native SDK`: Android, iOS,... if highly focused on new abilities of specific devices, usecase Ex: custom functions of a VR headset.  
+> `Web:` If the development target is general, multi-platform, web/communication based, and not limited by vendor lockin, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.  
 > `System:` In case you require system/low level processing, high performance processing/capacity(*or to save cost*) then must plan server systems, a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.  
   
   
@@ -58,10 +60,10 @@
  - **`Mobile`**: Flutter(pure native)......Capacitor 3 (android, ios... but under web development)  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
  - **`Front-end`**: Svelte(best overall, best DX),  Vue(past populary=> more jobs), Solid(React replacement).  
- - **`Back-end`**: JS runtime-> Deno, Node.js/Bun + specific requirements -> platform, programming language...  
+ - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages...  
  - **`Full-stack`**: Svelte-kit  
- - **`Crossplatform`**: Socket.io (Desktop, Mobile, Storage)  
- - **`Programming Languages`**:  Rust, Go, Nim, Dart, Swift... (per use-case, SSP, Backend, Mobile app).  
+ - **`Crossplatform`**: Socket runtime (Desktop, Mobile, P2P net/storage)  
+ - **`Programming Languages`**:  Zig, Rust, Go, Nim, Python, Swift... (per use-case, SSP, Backend, AI, Mobile app).  
 <br>  
 
 ### [UI](#ui-) >>  
