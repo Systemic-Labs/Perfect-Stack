@@ -103,11 +103,11 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 > 1. Amazon AWS .... 2. Google/Firebase  .... 3. Azure (Microsoft)  
 > 4. Redis: more of a DB, fast, if redis modules/services are required, a complete customizable DB solution.  
 
-- `Alternatives`: 
-> Serverless/web based -> Vercel, simple cloud-> Supabase,  > .  
-> Decentralised -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
-> Self hosted PocketBase ... `Basic/Dapp` -> Gun.js, free, encrypted, serverless and distributed(web torrent).  
-> Fullstack App servers free basic plan: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)
+- #### [`Alternatives`](#alternatives): 
+  - `Serverless/web based` -> Vercel, simple cloud-> Supabase, PocketBase .  
+  - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
+  - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js, free, encrypted, serverless and distributed(web torrent).  
+  - `Fullstack servers` + `free basic plan`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
 
 
 ### [Database](#database):
