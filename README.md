@@ -48,7 +48,7 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 ### [AI](#ai-) >> 
 - `Dev top trends`: OpenAI API, Hugging face systems(open source, variaty, value)  
 - `Ready to use`: as apps, API, cloud services from Google, Amazon, Microsoft...   
-- `AGI models`: ____ GPT4 ____ InternLM ____ `open-source`: Falcon 40B ____ Orca LLM.  
+- `AGI models`: __ GPT4 __ InternLM __ `open-source`: Falcon 40B __ Meta LLAMA v2 __ Orca LLM.  
 - `AGI chat/prompt`: ____ ChatGPT ____ Hugging Chat.
 - `Autonomous AGI agent`: ____ SuperAGI ____ MultiON ____ AutoGPT
 - `Image Diffusion by Prompt`:  Raphael (Trained on 5B select dataset, light, precise, optimized)  
@@ -97,16 +97,16 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 
 ### [Cloud platforms](#cloud-platforms):  
 
-- `Cloudflare`: best business class option, performant, advanced networking platform and services.  
-- `Hosting clouds`:  more of a hosting platform yet offer some cloud functions, such as Vercel, Netlify...  
+- `Cloudflare`: most professional option, reliable, advanced network system and services.  
+- `Hosting clouds`: used to host site/app, but now offer many cloud functions/solutions Ex: Vercel or Netlify  
 - `Enterprise`: (for more features+scale - extra cloud functions/services)  
 > 1. Amazon AWS .... 2. Google/Firebase  .... 3. Azure (Microsoft)  
 > 4. Redis: more of a DB, fast, if redis modules/services are required, a complete customizable DB solution.  
 
 - `Alternatives`: 
-> Serverless/web based -> Vercel, simple cloud-> Supabase,  Self hosted-> PocketBase.  
+> Serverless/web based -> Vercel, simple cloud-> Supabase,  > .  
 > Decentralised -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
-> Personal -> Gun.js, free, encrypted, serverless and distributed(web torrent).  
+> Self hosted PocketBase ... `Basic/Dapp` -> Gun.js, free, encrypted, serverless and distributed(web torrent).  
 > Fullstack App servers free basic plan: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)
 
 
@@ -127,7 +127,7 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
   - **(Low level)** - **`Rust`**: Web std / Safe / Precise / System / Performance / by Mozilla / support.  
   - **(High level)**: **Platforms ecosystem**: `JS/ESNext`, `Python`, `Swift`, `Dart`.  
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.
-- **`Store/e-commerce`**: free open source + developer -> `Medusa`  __ ready solution for non-devs? `Shopify`.
+- **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **`Content Management System`**:  Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
 - **`Dev/Repo` Platforms**: Github, Gitlab, Gitea, notion, Collab...  
