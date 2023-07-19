@@ -126,7 +126,8 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
   - **(Low level)** - **`Carbon`**(C++ replacement), `Zig`,  `Nim`(DX/semi python syntax).  
   - **(Low level)** - **`Rust`**: Web std / Safe / Precise / System / Performance / by Mozilla / support.  
   - **(High level)**: **Platforms ecosystem**: `JS/ESNext`, `Python`, `Swift`, `Dart`.  
-- **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
+- **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.
+- **`Store/e-commerce`**: free open source + developer -> `Medusa`  __ ready solution for non-devs? `Shopify`.
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **`Content Management System`**:  Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
 - **`Dev/Repo` Platforms**: Github, Gitlab, Gitea, notion, Collab...  
