@@ -129,8 +129,9 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.
 - **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
-- **`Content Management System`**:  Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).  
-- **`Dev/Repo` Platforms**: Github, Gitlab, Gitea, notion, Collab...  
+- **`Content Management System`**:  Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).
+- **`Audio API`**: Tone.JS(free, all round audio API),  Twilio(Call communication, speech).  
+- **`Dev/Repo` Platforms**: Github, Gitlab, Gitea (self-host), Stackblitz, Notion, Collab...  
 - **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...  
 - **`Other stuff`**: find useful libs, online tools, AI tools, which help and improve DX.  
 ***
