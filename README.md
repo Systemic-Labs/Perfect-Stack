@@ -53,7 +53,8 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 - `Autonomous AGI agent`: ____ SuperAGI ____ MultiON ____ AutoGPT
 - `Image Diffusion by Prompt`:  Raphael (Trained on 5B select dataset, light, precise, optimized)  
 
-*`AGI` -> (Artificial General Intelligence)   ____ (`Todo`: AI Awesome list repo)*  
+*`AGI` -> (Artificial General Intelligence)  
+[`AI Awesome list repo`](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760) 
 <br>
 
 ### [Frameworks](#frameworks--)  >>
