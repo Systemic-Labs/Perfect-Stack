@@ -267,4 +267,4 @@ Whenever learning something, learn latest stable standards and best practices, s
 ***
 <br>  
 
-**Todo**:   remote work, Security, Web API’s, AI/ML.
+**Todo**:   remote work, Security, Web API’s.
