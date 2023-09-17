@@ -46,12 +46,24 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 <br>
 
 ### [AI](#ai-) >> 
-- `Dev top trends`: OpenAI API, Hugging face systems(open source, variaty, value)  
-- `Ready to use`: as apps, API, cloud services from Google, Amazon, Microsoft...   
-- `AGI models`: __ GPT4 __ InternLM __ `open-source`: Falcon 40B __ Meta LLAMA v2 __ Orca LLM.  
-- `AGI chat/prompt`: ____ ChatGPT ____ Hugging Chat.
-- `Autonomous AGI agent`: ____ SuperAGI ____ MultiON ____ AutoGPT
-- `Image Diffusion by Prompt`:  Raphael (Trained on 5B select dataset, light, precise, optimized)  
+#### `Top trends`
+> OpenAI API, Hugging face systems(open source, variaty, value)  
+
+#### `Ready to use`
+> Use in apps with API, cloud services, etc...
+Clarifi, Web-AI, Google, Amazon, Microsoft...   
+
+#### `AGI models`: __ GPT4 __ InternLM
+#### `opensource` <sub> Falcon 40B _ LLAMA2 _ Orca LLM </sub>  
+
+#### `AGI chat/prompt` <sub> ChatGPT _ Hugging Chat </sub>
+
+#### `Autonomous AGI agent`
+> SuperAGI _ MultiON _ AutoGPT
+  
+#### `Image Diffusion by Prompt`
+> Raphael (Trained on 5B select dataset, light, precise, optimized)
+.
 
 #### [Check AI Awesome list for more information on this topic.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)  
 #### `AGI` -> (Artificial General Intelligence)
