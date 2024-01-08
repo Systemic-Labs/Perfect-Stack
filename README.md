@@ -27,7 +27,7 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
  ***
 
 ### `Target Platform`  
-> `Native SDK`: Android, iOS,... if highly focused on new abilities of specific devices, usecase Ex: custom functions of a VR headset.  
+> `Native SDK`: Android, iOS,... if highly focused on new abilities of specific devices, usecase Ex: new functions of a VR headset.  
 > `Web:` If the development target is general, multi-platform, web/communication based, and not limited by vendor lockin, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.  
 > `System:` In case you require system/low level processing, high performance processing/capacity(*or to save cost*) then must plan server systems, a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.  
   
@@ -47,7 +47,7 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 
 ### [AI](#ai-) >>  
 
-### `Top trends`
+### `Top AI trends`
 > OpenAI API and Hugging face systems, inference EP...(open source, variaty, value)  
 
 ### `Ready to use`
@@ -62,16 +62,16 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 ### `Autonomous AGI agent`: <sub> _ SuperAGI _ MultiON _ AutoGPT </sub>  
   
 #### `Image Diffusion by Prompt`
-> DALL-E 3, Raphael (trained on select dataset, light, precise, optimized)
+> DALL-E 4, Raphael (trained on select dataset, light, precise, optimized)
 .
 
-#### [Check AI Awesome list for more information on this topic.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)  
-#### `AGI` -> <sub> (Artificial General Intelligence) </sub>
+#### [Check AI Awesome list for more information on this topic.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760) Up to date for DEC 2023.  
+####   `AGI` -> <sub> (Artificial General Intelligence) </sub>
 ---
 <br>
 
 ### [Frameworks](#frameworks--)  >>
- - **`Mobile`**: Flutter(pure native)......Capacitor 3 (android, ios... but under web development)  
+ - **`Mobile`**: Native device SDK......Open Web based (multi-platform): Socket, Tauri, Capacitor  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
  - **`Front-end`**: Svelte(best overall, best DX),  Vue(past populary=> more jobs), Solid(React replacement).  
  - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages...  
@@ -103,7 +103,7 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
  ### [UI Recommendations](#ui-recommendations--reason) + `reason`:
  - `UnoCSS`  - best tool for presets. (code as other Libs yet it builds to standard CSS)  
  - `picoCSS` - best for predefined styling of standard HTML Tags.  
- - `DaisyUI` - best a CSS UI lib can achieve without using JS or being a components kit.  
+ - `DaisyUI` - best CSS UI lib you can get while JS is optional and pre-components kit.  
  - `Skeleton UI`- best UI components Kit for Svelte fraamework.  
  - `Agnostic UI`- various pros, in case it benefit your work.  
  - `BeerCSS` - better option in case you're into material design concept.  
@@ -118,7 +118,7 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 > 4. Redis: more of a DB, fast, if redis modules/services are required, a complete customizable DB solution.  
 
 - #### [`Alternatives`](#alternatives): 
-  - `Serverless/web based` -> Vercel, simple cloud-> Supabase, PocketBase .  
+  - `Serverless/web based` -> Vercel, simpler cloud-> Supabase, PocketBase .  
   - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
   - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js, free, encrypted, serverless and distributed(web torrent).  
   - `Fullstack servers` + `free basic plan`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
@@ -127,12 +127,12 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 ### [Database](#database):
 - `Next-Gen`: Nostr, AT protocol, Gun.js - decentrlized, secure, extra features(DB+SN/COMM).  
 - `Performance`: cloud edge KVDBs such as Cloudflare/Deno KV. Full DB: Redis + Redis modules.  
-- `Innovative`: EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vetor Databases (AI use-cases).  
+- `Innovative`: EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vector Databases (AI use-cases).  
 - `Open Source`: Arango DB,  multi-model solution for self hosted open source local server setup.
 - `Recommendation`:  
   > **`Nostr`** : decentralized, free, secure, privacy, best social/chat/communication DB store.  
   > **` EdgeDB `**: simple + you prefer EdgeQL.  
-  > **` SurrealDB`**: more advanced, customization and options.  
+  > **` SurrealDB`**: more advanced, lots of features, customization and options.  
 <br>  
 
 ### [Other stuff](#other-stuff):
@@ -214,14 +214,15 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
  **1. Learn the base web standards** -> (HTML, CSS, Javascript) follow/practice tutorials. Make few apps.(ex: Todo)  
  **2. New web standards** -> ES6/next, new HTML, new CSS (grid,...)  practice/try what you learn.  
  **3. Update the previous apps you made**, using new things you learned. make a game and a blog site.  
- **4. Deploy**: learn how to host/deploy your site.  Host on cloudflare pages, deno deploy, begin, netlify, github/gitlab pages,...  
+ **4. Deploy**: learn how to host/deploy your site.  Host on cloudflare pages, deno deploy, begin, netlify, github pages,...  
  **5. Learn a Framework**s: Svelte. current best Dev Experience. Light, simple, fast, code compiles to standard JS (not limited).  
- **6. Learn stuff when is required** learn extra stuff afterwards when is needed.(ex: DB, AI, backend, cloud, tools...)  
+ **6. Learn only when required** learn extra stuff once you require(or predict) it. (Ex: DB, AI, specific tools/libs...)  
  **7. Learn Design**: Patterns, tools, UI/UX(user interface/experience). Concepts: visual clarity, visual effects, utility 1st.  
  **8. Responsive design**: native looks, any device, clear focus, usability/accessibility. CSS flex, grid...  
  **9. Backend**: 1. Sveltekit(if using svelte) ___ 2. Deno: new js-runtime replacement for Node.js by its creator.  
  **10.Personal** various experiences, use GIT, github, Make a portfolio site (show case). a social profile: Linkedin + twitter.  
- **11.Summary**: Be an expert in one field, pro on few more, know the rest. Fullstack: Frontend + Backend + Eco-system + Experience.  
+ **11.Testing/Typing**: only if neccessary and: in large teams on complex projects with security risk or much new/junior/outsourced devs.  
+ **12.Summary**: Be an expert in one field, pro on few more, know about the rest. Fullstack: Frontend + Backend + Eco-system + Experience.  
  
  ### [Work Tips](#work-tips):
  - Better: learn best new tech options, practice, freelance, get hired, build an idea startup team.
@@ -245,9 +246,9 @@ Whenever learning something, learn latest stable standards and best practices, s
 
 ### [New developer or decision maker?](#new-developer-or-decision-make?)
 
-*"Details of Why you must not choose a tech only by popularity and general statistics"*
+*"Details of Why you must not choose a tech only based on popularity and general statistics"*
 
-- Avoid learning ~10+ years old stuff if a better alternative is available.
+- Avoid learning 6 ~ 10+ years old stuff if a better alternative is available.
  old tech was made for past era ecosystem, development model and HW/SW/issues.  
 
 - Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, later new developers are forced to follow them. This process might repeat multiple times...   
@@ -255,14 +256,13 @@ Whenever learning something, learn latest stable standards and best practices, s
 - The old popular tech nature: ___ it works, is popular and has big community and resources, yet in time it becomes more complex, due to extensions, compatibility patches and conflict solving layers to make both the original and new syntax/tools/requirements work together...  Aside of that each time a new feature is added, this process might repeat, and the platform gets large, complex, multiple different revisions.(Ex: MS SDKs, .net framework,...)  
 
 - Breaking changes and migration: ___ when a new feature that contradicts something in the system which can't be solved, the devs will decide to either give up on the feature, add extra flags/configs or make a breaking change, thus you must stay on old branch or learn + update your previous codes or totally migrate if is hopeless.  
+  - Each time a breaking change shows up, you might need to repeat this process. this makes multiple dev branches in a company if the team can't / won't follow.  
 
-- Each time a breaking change shows up, you might need to repeat this process. this makes multiple dev branches in a company if the team can't / won't follow.  
+- Prevent Issues:  an old legacy target which depends on layers of other legacy tech, will encounter conflicts, compatibility, deprecated dependencies, which will cost time + resources + man power to solve them. 
 
-- Issues:  an old legacy target which depends on layers of other legacy tech, will encounter conflicts, comptiblity, deprecated dependencies, which will cost time + resources + man power to solve them. 
+- Lower level coding is not much affected by the mentioned issues. they rarely change, and if so, is about new features, compatibility and stability.  
 
-- Lower level coding is not much affected by the mentioned issues. they rarely change, and if so, is about efficiency and stability.  
-
-- As old devs retire,  new ones might add new layers of abstraction instead of fixing the original code, these issues cause
+- Unnessecary overhead: as old devs retire,  new ones might add extra layers of abstraction instead of updating the original code, these issues cause
  extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...  
 ***
 <br>  
