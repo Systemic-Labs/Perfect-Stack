@@ -130,18 +130,22 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 - `Innovative`: Drizzle - EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vector Databases (AI use-cases).  
 - `Open Source`: Arango DB,  multi-model solution for self hosted open source local server setup.
 - `Recommendation`:  
-  > **` Nostr`** : decentralized, free, secure, privacy, best social/chat/communication DB store.
+  > **` Nostr`** : decentralized, free, secure, privacy, best social/chat/communication DB store.  
   > **` Drizzle`**: the only ORM model worth using, Reason: ORM into various DB formats.  
-  > **` EdgeDB `**: simple + you prefer EdgeQL, no need for seperate ORM layer.  
+  > **` EdgeDB`**: simple + you prefer EdgeQL, no need for seperate ORM layer.  
   > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.  
 <br>  
 
 ### [Other stuff](#other-stuff):
 - **`Programming Languages`**:
-  - **(Low level)** - **`Carbon`**(C++ replacement), `Zig`,  `Nim`(DX/semi python syntax).  
-  - **(Low level)** - **`Rust`**: Web std / Safe / Precise / System / Performance / by Mozilla / support.  
-  - **(High level)**: **Platforms ecosystem**: `JS/ESNext`, `Python`, `Swift`, `Dart`.  
-- **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.
+  - **(Low level)**
+    - **`Carbon`**(semi C++), `Zig`,  `Nim`(DX/semi python syntax).  
+    - **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources / Big Community, Support.  
+    - **`Go`**: (Low/Med level): simple good syntax, well developed/maturity, good for backend.  
+  - **(Med level)** - **`Mojo`**: Performance, near python syntax (compatiblity, resources, AI, Devs...).  
+  - **(High level)**: **Platforms ecosystem**: `Web: JS/ES`, `AI: Python`, `IOS: Swift`, `etc: Elixir, Haskel, Julia`.  
+  - 
+- **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
 - **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **`Content Management System`**:  Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).
