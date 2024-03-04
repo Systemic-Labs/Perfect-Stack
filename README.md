@@ -126,13 +126,14 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 
 ### [Database](#database):
 - `Next-Gen`: Nostr, AT protocol, Gun.js - decentrlized, secure, extra features(DB+SN/COMM).  
-- `Performance`: cloud edge KVDBs such as Cloudflare/Deno KV. Full DB: Redis + Redis modules.  
-- `Innovative`: EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vector Databases (AI use-cases).  
+- `Performance`: cloud edge KVDBs such as Cloudflare/Deno KV. `Full DB`: Redis + Redis modules.  
+- `Innovative`: Drizzle - EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vector Databases (AI use-cases).  
 - `Open Source`: Arango DB,  multi-model solution for self hosted open source local server setup.
 - `Recommendation`:  
-  > **`Nostr`** : decentralized, free, secure, privacy, best social/chat/communication DB store.  
-  > **` EdgeDB `**: simple + you prefer EdgeQL.  
-  > **` SurrealDB`**: more advanced, lots of features, customization and options.  
+  > **` Nostr`** : decentralized, free, secure, privacy, best social/chat/communication DB store.
+  > **` Drizzle`**: the only ORM model worth using, Reason: ORM into various DB formats.  
+  > **` EdgeDB `**: simple + you prefer EdgeQL, no need for seperate ORM layer.  
+  > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.  
 <br>  
 
 ### [Other stuff](#other-stuff):
