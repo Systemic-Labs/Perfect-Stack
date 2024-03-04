@@ -92,8 +92,8 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
  ### [UI categories](#ui-categories)
  
   - **`CSS utility framework`**: (short codes, presets, functions) Tailwind, UnoCSS.  
-  - **`UI structure`** (you do custom style): renderless, headless ui.  
-  - **`CSS UI Libs`**: pico css, milligram, DaisyUI.  
+  - **`UI structure`** (you do custom style): renderless, headless ui, Melt UI, Bits UI (Svelte).  
+  - **`Minimal UI Libs`**: pico css, BeerCSS, DaisyUI(CSS lib).  
   
   - **`CSS toolkit`**:  UnoCSS - compiles other CSS frameworks into standard CSS.  
   - **`UI-Kits`**: Daisy UI(CSS) .... fully functional components:  Skeleton, flowbite...  
