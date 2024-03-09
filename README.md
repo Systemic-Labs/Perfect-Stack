@@ -19,11 +19,10 @@
 
 ## [`To beginners and startups`](#to-beginners-and-startups)
 
-> `Don't Adapt based on market hype...`
-- majority of developers use older popular tech, instead of best possible tools. Reasons: adoption time, Job/workplace skill requirements, or just due to common hype, popularity, senior advice..., it might been valid in the past or the 1st/only option in that category, in the past, but not the best choice at the present. This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, and survive on community, which holds to legacy patterns, and copatibility patches to make it survive.  
+`Don't Adapt based on market hype...`
+> majority of developers use older popular tech, instead of best possible tools. Reasons: adoption time, Job/workplace skill requirements, or just due to common hype, popularity, senior advice..., it might been valid in the past or the 1st/only option in that category, in the past, but not the best choice at the present. This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, and survive on community, which holds to legacy patterns, and copatibility patches to make it survive.  
 
-Therefore instead of pop trends, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`, better tech and decisions, results in efficiency, saves cost. If you're not bound to a legacy eco-system, specific setup or conditions, do research, review, comparison, and make decision which benefit you in long-term. ` Wish you good luck! `
-- [*...Information details, definitions and extra discussion on this topic...*](#new-developer-or-decision-maker)  
+Therefore instead of pop trends, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`, better tech and decisions, results in efficiency, saves cost. If you're not bound to a legacy eco-system, specific setup or conditions, do research, review comparison, and make decision which benefit you in long-term. ` Wish you good luck! ` [*...Information details, definitions, extra discussion on this topic...*](#new-developer-or-decision-maker)  
 
  ***
 
@@ -33,12 +32,12 @@ Therefore instead of pop trends, make decisions based on facts, use whatever is 
 > `System:` In case you require system/low level processing, high performance processing/capacity(*or to save cost*) then must plan server systems, a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.  
   
   
-#### Learning tips
-> Development is not easy, it takes time, effort, practice and experience to gain real skills, as there are many things to cover.  
-> 1st learn the basics including the new updates. Ex:  for web >> Basics and new additions of JS, HTML, CSS. [Web-Dev guideline](#web-development-guideline)  
-  
-> Learn from best tutorials/courses, search for recent materials from an experienced tutor with high views/stats, Ex: Fireship.io  
-> Make a group, join friends, divide tasks/learning, share your findouts, work as a team,... is too much to handle by only one person.
+### `Learning tips`
+- Being a Dev is not easy, takes time, effort, practice and experience to gain practical skills, much to cover.  
+- 1st learn the basics including the new updates. Ex:  for web >> Basics and new additions of JS, HTML, CSS.  
+- Learn from best resources, search for recent materials with high views/stats on youtube, compare and choose best tutors.  
+- Group work, join friends, divide tasks/learning, share your findouts, practice as a team, is too much for one person.  
+> ` Continue the Dev guideline `-> [Web-Dev guideline](#web-development-guideline)  
 
 ***
 <br>  
