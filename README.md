@@ -19,9 +19,10 @@
 
 ## [`To beginners and startups`](#to-beginners-and-startups)
 
-> Majority of developers use an older popular tech, instead of best dev trends. Reasons vary from adoption time to Job/workplace skill requirements, or just based on a guide/senior advice, which might been a valid option for them in the past years, but not the best option by now, this cycle repeats and non optimal tech get stuck in job/edu systems, then if you adopt this outdated tech, by the time you get pro in it, the tech lifetime might be near end and you need to migrate to something else.
+> `Don't Adapt based on market hype...`
+- majority of developers use older popular tech, instead of best possible tools. Reasons: adoption time, Job/workplace skill requirements, or just due to common hype, popularity, senior advice..., it might been valid in the past or the 1st/only option in that category, in the past, but not the best choice at the present. This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, and survive on community, which holds to legacy patterns, and copatibility patches to make it survive.  
 
-Therefore instead of just poplularity, make decisions based on facts, use whatever solves the task best, mostly if you're doing your own business or planning a startup, you're not bound to a legacy eco-system, specific setup or conditions, so do your own research, check review comparisons, and finally make decision which benefit you in long-term. ` Wish you good luck! `
+Therefore instead of pop trends, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`, better tech and decisions, results in efficiency, saves cost. If you're not bound to a legacy eco-system, specific setup or conditions, do research, review, comparison, and make decision which benefit you in long-term. ` Wish you good luck! `
 - [*...Information details, definitions and extra discussion on this topic...*](#new-developer-or-decision-maker)  
 
  ***
@@ -34,7 +35,7 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
   
 #### Learning tips
 > Development is not easy, it takes time, effort, practice and experience to gain real skills, as there are many things to cover.  
-> 1st learn the basics including the new updates. Ex:  for web >> Basics and new additions of JS, HTML, CSS. [Web-Dev guideline](#web-development-guideline-tips)  
+> 1st learn the basics including the new updates. Ex:  for web >> Basics and new additions of JS, HTML, CSS. [Web-Dev guideline](#web-development-guideline)  
   
 > Learn from best tutorials/courses, search for recent materials from an experienced tutor with high views/stats, Ex: Fireship.io  
 > Make a group, join friends, divide tasks/learning, share your findouts, work as a team,... is too much to handle by only one person.
