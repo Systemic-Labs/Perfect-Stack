@@ -2,11 +2,11 @@
 # [Perfect-Stack](#perfect-stack--i)  🛠i
 <br>  
 
-## `A development guide and an awesome-list of recommendations.`  
+### `A development guide` - `a precise DevTech Award` - `awesome-list of recommendations`  
 
 - This document covers information for best practices, libs, tech stack, platforms, tools,...  
-- Decide on best options for your use-case rather than being a conformist folowing popular trends.  
->- Contribution, to recommend an obvious better option or to improve this document, with clear reason.  
+- Decide best options for your use-case, not a conformist who only follows popularity.  
+>- To contribute: link items,  recommend/reason an obvious better option, improve the document.  
 >- Target users:  *developers, designers, researchers, students, startups, any decision maker*.  
 >  
 ## [`Shortcuts`](#shotcuts)
@@ -103,7 +103,7 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
  ### [UI Recommendations](#ui-recommendations--reason) + `reason`:
  - `UnoCSS`  - best tool for presets. (code as other Libs yet it builds to standard CSS)  
  - `picoCSS` - best for predefined styling of standard HTML Tags.  
- - `DaisyUI` - best CSS UI lib you can get while JS is optional and pre-components kit.  
+ - `DaisyUI` - best CSS UI lib you can get where JS is optional (pre UI kit).  
  - `Skeleton UI`- best UI components Kit for Svelte fraamework.  
  - `Agnostic UI`- various pros, in case it benefit your work.  
  - `BeerCSS` - better option in case you're into material design concept.  
@@ -120,19 +120,20 @@ Therefore instead of just poplularity, make decisions based on facts, use whatev
 - #### [`Alternatives`](#alternatives): 
   - `Serverless/web based` -> Vercel, simpler cloud-> Supabase, PocketBase .  
   - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
-  - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js, free, encrypted, serverless and distributed(web torrent).  
+  - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js, free, encryption, distributed(web torrent).  
   - `Fullstack servers` + `free basic plan`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
 
 
 ### [Database](#database):
-- `Next-Gen`: Nostr, AT protocol, Gun.js - decentrlized, secure, extra features(DB+SN/COMM).  
-- `Performance`: cloud edge KVDBs such as Cloudflare/Deno KV. `Full DB`: Redis + Redis modules.  
-- `Innovative`: Drizzle - EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vector Databases (AI use-cases).  
-- `Open Source`: Arango DB,  multi-model solution for self hosted open source local server setup.
-- `Recommendation`:  
-  > **` Nostr`** : decentralized, free, secure, privacy, best social/chat/communication DB store.  
-  > **` Drizzle`**: the only ORM model worth using, Reason: ORM into various DB formats.  
-  > **` EdgeDB`**: simple + you prefer EdgeQL, no need for seperate ORM layer.  
+- `Next-Gen`: Nostr, AT protocol, GunDB - decentrlized, secure, extra features(DB+SN/COMM).  
+- `Performance`: cloud edge DBs `->` Turso(libSQL), Cloudflare/DenoDeploy(KV). `multi-model`: Redis + modules.  
+- `Innovative `: Drizzle + Turso - EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vector DBs (AI use-cases).  
+- `Open Source`: `libSQL` (fastest SQL on edge), `Arango DB` (multi-model) both can self host or cloud.    
+- `Recommendations`:  
+  > **` Nostr`** : decentralized, free, secure, privacy, best social/chat/communication protocol and DB store.  
+  > **` Turso`** : edge networks,  using libSQL the open source fork of SQLite.  
+  > **` Drizzle`**: the only ORM worth using, **`Reason`**: work with various DB formats without knowing them.  
+  > **` EdgeDB`**: simple + you prefer EdgeQL + includes ORM/graphQL-ish model (no need for seperate ORM).  
   > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.  
 <br>  
 
