@@ -19,10 +19,12 @@
 
 ## [`To beginners and startups`](#to-beginners-and-startups)
 
-`Don't Adapt based on market hype...`
+`Don't Adapt tech/make decisions just per market hype...` instead, decide your options based on multiple factors, such as pros/cons, developers / customers impact, best fit solution, stable maturity, milestone, active support, and finally consider popularity.  
+
 > majority of developers use older popular tech, instead of best possible tools. Reasons: adoption time, Job/workplace skill requirements, or just due to common hype, popularity, senior advice..., it might been valid in the past or the 1st/only option in that category, in the past, but not the best choice at the present. This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, and survive on community, which holds to legacy patterns, and copatibility patches to make it survive.  
 
-Therefore instead of pop trends, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`, better tech and decisions, results in efficiency, saves cost. If you're not bound to a legacy eco-system, specific setup or conditions, do research, review comparison, and make decision which benefit you in long-term. ` Wish you good luck! ` [*...Information details, definitions, extra discussion on this topic...*](#new-developer-or-decision-maker)  
+Therefore instead of pop trends, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`, better tech and decisions, results in efficiency, saves cost.  
+Therefore If you're not forced or bound to a legacy eco-system, specific rules/conditions, do research, compare options, and make decision which benefit in long-term. ` Wish you good luck! ` [*...Information details, definitions, extra discussion on this topic...*](#new-developer-or-decision-maker)  
 
  ***
 
@@ -141,7 +143,7 @@ Therefore instead of pop trends, make decisions based on facts, use whatever is 
 ### [API / Communication models](#api):
 
 - `REST `... a client request data/information... from a server, which responds with state+data.  
-- `GraphQL`. similar to rest but query a specific set of data, not less, not more (+ only correct effective usage).
+- `GraphQL`. similar to rest but query a specific set of data, not less, not more (good only if used correctly).
 - `gRPC` ...
 - `WebSocket`
 - `WebRTC / WebTorrent`
