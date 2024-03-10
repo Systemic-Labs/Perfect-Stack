@@ -91,10 +91,11 @@ Therefore instead of pop trends, make decisions based on facts, use whatever is 
  
  ### [UI categories](#ui-categories)
  
-  - **`CSS utility framework`**: (short codes, presets, functions) Tailwind, UnoCSS.  
+  - **`CSS utility framework`**:  
+   > `UnoCSS` (short codes, presets, functions)  
+   > `Lightening CSS` (tooling, optimizing, speed, new tech)  
   - **`UI structure`** (you do custom style): renderless, headless ui, Melt UI, Bits UI (Svelte).  
   - **`Minimal UI Libs`**: pico css, BeerCSS, DaisyUI(CSS lib).  
-  
   - **`CSS toolkit`**:  UnoCSS - compiles other CSS frameworks into standard CSS.  
   - **`UI-Kits`**: Daisy UI(CSS) .... fully functional components:  Skeleton, flowbite...  
   - **`3D (WebGL/GPU)`**:  Spline, Babylone.js, Three.js(lower level), Threlte(Svelte+three), Unity Tiny.  
@@ -137,6 +138,14 @@ Therefore instead of pop trends, make decisions based on facts, use whatever is 
   > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.  
 <br>  
 
+### [API / Communication models](#api):
+
+- `REST `... a client request data/information... from a server, which responds with state+data.  
+- `GraphQL`. similar to rest but query a specific set of data, not less, not more (+ only correct effective usage).
+- `gRPC` ...
+- `WebSocket`
+- `WebRTC / WebTorrent`
+
 ### [Other stuff](#other-stuff):
 - **`Programming Languages`**:
   - **(Low level)**
@@ -169,9 +178,9 @@ Therefore instead of pop trends, make decisions based on facts, use whatever is 
 ### [Backend](#backend):
 
 #### JavaScript Runtimes:  
-  - **`Deno.js`**:  secure by default, lighter, faster, Wasm, better concept, +DX. *(recommended)*  
-  - **`Node.js`**:  most libs, support, popular eco-system. 
-  - **`Bun.js`**: Node.js compatible but higher performance.  
+  - **`Deno.js`**: secure by default, lighter, faster, Wasm, better concept, +DX. *(recommended)*  
+  - **`Node.js`**: most libs, support, popular eco-system. 
+  - **`Bun.js`** : Node.js compatible but higher performance.  
 
 #### Python eco-system:  jobs, popularity, AI libs, ease of usage, beginners, resources...  
 
