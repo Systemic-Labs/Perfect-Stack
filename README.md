@@ -7,7 +7,7 @@
 - This document covers information for best practices, libs, tech stack, platforms, tools,...  
 - Decide best options for your use-case, not a conformist who only follows popularity.  
 >- To contribute: link items,  recommend/reason an obvious better option, improve the document.  
->- Target users:  *developers, designers, researchers, students, startups, any decision maker*.  
+>- Target users:  *developers, designers, researchers, students, startups, decision makers*.  
 >  
 ## [`Shortcuts`](#shotcuts)
 >  ### [ Awesome list](#awesome-list)  
@@ -140,13 +140,14 @@ Therefore If you're not forced or bound to a legacy eco-system, specific rules/c
   > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.  
 <br>  
 
-### [API / Communication models](#api):
+### [API / Communication patterns](#api):
 
 - `REST `... a client request data/information... from a server, which responds with state+data.  
-- `GraphQL`. similar to rest but query a specific set of data, not less, not more (good only if used correctly).
-- `gRPC` ...
-- `WebSocket`
-- `WebRTC / WebTorrent`
+- `GraphQL`. similar to rest but query a specific set of data, only effective if correctly queried(not less, not more).  
+- `gRPC` ... binary data, prioritise performance, volume, and security. next generation of protobuffers.  
+- `WebSocket` For real time, low latency applications.  
+- `WebRTC / WebTorrent`  applications of distributed net, shared, p2p, serverless, save cost, user privacy/annonymity.  
+- `ORM / DB communications type` for more control, relational behavior, custom schema and stored data.  
 
 ### [Other stuff](#other-stuff):
 - **`Programming Languages`**:
