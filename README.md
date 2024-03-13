@@ -47,27 +47,23 @@ Therefore If you're not forced or bound to a legacy eco-system, specific rules/c
 # [Awesome list]  
 <br>
 
-### [AI](#ai-) >>  
+## [`AI top trends`](#ai-top-trends)  
 
-### `Top AI trends`
-> OpenAI API and Hugging face systems, inference EP...(open source, variaty, value)  
+### Ready for development  
+#### `Browser/client-side/Native`<sub> Web LLM / Web-AI / MLC-LLM / +other Ai APIs, tools.</sub>  
+#### `Cloud services`<sub> OpenAI(chatgpt+plugins), Clarifi(AI APIs), `Platforms`: Google, Amazon, Microsoft.</sub>  
+#### `Personal usage / prompting`<sub> (Nvidia) chat with RTX. `opensource LLM`: Mistral 7B instruct.</sub>  
 
-### `Ready to use`
-> Browser/client-side/Native on Mobile,...: Web LLM / Web-AI / MLC-LLM  
-> Cloud services: Clarifi(AI specific), Google, Amazon, Microsoft...
+#### `AGI models` <sub> __ GPT4 __ Claude 3 __ InternLM </sub>  
+#### `Opensource` <sub> __ Mistral 7B LLM __ LLAMA2 13B </sub>  
+#### `Best benchmarks` <sub> Claude 3, `+`Coding, `+`Results, `+`less halucination `-`less extras.</sub>  
 
-### `AGI models`: <sub> __ GPT4 __ InternLM </sub>
-### `opensource`: <sub> __ Mistral 7B LLM __ LLAMA2 13B </sub>  
-
-### `AGI chat/prompt`: <sub> ChatGPT __ Hugging Chat __ Mistral 7B instruct(opensource LLM) </sub>  
-
-### `Autonomous AGI agent`: <sub> _ SuperAGI _ MultiON _ AutoGPT </sub>  
+#### `Autonomous AGI agent` <sub> _ SuperAGI _ MultiON _ AutoGPT </sub>  
   
-#### `Image Diffusion by Prompt`
-> DALL-E 4, Raphael (trained on select dataset, light, precise, optimized)
-.
+#### `Visual, Image and video`
+`Sora `most realistic videos produced. `Diffusion `DALL-E 4, Raphael(optimized/better dataset, lighter)  
 
-#### [Check AI Awesome list for more information on this topic.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760) Up to date for DEC 2023.  
+#### [Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)  
 ####   `AGI` -> <sub> (Artificial General Intelligence) </sub>
 ---
 <br>
