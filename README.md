@@ -19,7 +19,7 @@
 
 ## [`To beginners and startups`](#to-beginners-and-startups)
 
-`Don't Adapt tech/make decisions just per market hype...` instead, decide your options based on multiple factors, such as pros/cons, developers / customers impact, best fit solution, stable maturity, milestone, active support, and finally consider popularity.  
+`Don't Adapt tech(or make decisions) just per market hype...` instead, decide your options based on multiple factors, such as pros/cons, comparisons, Biz model(startup or jobs, scale), dev/team/user impact, best fit solution, stablity milestone, active support, and finally consider popularity.  
 
 > majority of developers use older popular tech, instead of best possible tools. Reasons: adoption time, Job/workplace skill requirements, or just due to common hype, popularity, senior advice..., it might been valid in the past or the 1st/only option in that category, in the past, but not the best choice at the present. This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, and survive on community, which holds to legacy patterns, and copatibility patches to make it survive.  
 
@@ -148,11 +148,11 @@ Therefore If you're not forced or bound to a legacy eco-system, specific rules/c
 ### [Other stuff](#other-stuff):
 - **`Programming Languages`**:
   - **(Low level)**
-    - **`Carbon`**(semi C++), `Zig`,  `Nim`(DX/semi python syntax).  
+    - **`Carbon`**(semi C++), `Zig`, **`Julia`**: LL Performance, HL syntax.     
     - **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources / Big Community, Support.  
     - **`Go`**: (Low/Med level): simple good syntax, well developed/maturity, good for backend.  
-  - **(Med level)** - **`Mojo`**: Performance, near python syntax (compatiblity, resources, AI, Devs...).  
-  - **(High level)**: **Platforms ecosystem**: `Web: JS/ES`, `AI: Python`, `IOS: Swift`, `etc: Elixir, Haskel, Julia`.  
+    - **`Nim`**(speed/semi python syntax). **`Mojo`**: similar to python(compatible, resources, AI, Devs).  
+  - **(High level)**: **Platforms ecosystem**: `Web: JS/ES`, `AI: Python`, `IOS: Swift`, **other**: `Elixir, Haskel`.  
   - 
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
 - **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
