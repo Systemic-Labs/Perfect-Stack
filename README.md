@@ -31,8 +31,8 @@ Therefore If you're not forced or bound to a legacy eco-system, specific rules/c
 ### `Target Platform`  
 > `Native SDK` Android, iOS, embeded runtimes... target is only a specific device/abilities, Ex: inclusive functions of an embeded or a VR headset.  
 > `Web` If the development target is general, multi-platform, web/communication based, and not limited by vendor lock-in, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.  
-> `System` In case you require full control/privacy, physical hardware access, performance/capacity(*per cost*) then must plan server system, to provide a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.
-> `Cloud` A complete or custom system solution on web/network. You subscribe to a managed virtual system, in different levels from VPS, API, Host... much features, managed/maintained. All pros, only cons: not full private, no physical control/access(unless self hosted)  
+> `System` In case you require full control/privacy, physical hardware access, performance/capacity(*per cost*) then must plan server system, to provide a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.  
+> `Cloud` A complete or custom system solution on web/network. You subscribe to a managed virtual system, in different levels from VPS, API, Host... much features, managed/maintained. All pros, only cons: no physical control/access/privacy(unless self hosted)  
   
   
 ### `Learning tips`
@@ -238,7 +238,30 @@ Therefore If you're not forced or bound to a legacy eco-system, specific rules/c
  **10.Personal** various experiences, use GIT, github, Make a portfolio site (show case). a social profile: Linkedin + twitter.  
  **11.Testing/Typing**: only if neccessary and: in large teams on complex projects with security risk or much new/junior/outsourced devs.  
  **12.Summary**: Be an expert in one field, pro on few more, know about the rest. Fullstack: Frontend + Backend + Eco-system + Experience.  
- 
+
+
+## **[About AI - Generations](about-ai---generations)**
+
+`Past AI`: Machine Learning + Data/algorithms.  
+Output results such as detection/decision/states... are made from a defined input processed by Machine Learning + Data science tools/patterns to extract meaningful data/states, using specific algorithms and models.  
+
+`Pre/Current`: Generative AI, builds result from input data.  
+- input can befrom single or multiple sources such as: files/DB/web/user prompt/system/parameters...  
+- input/User describes a composed request: question/s, problem/s, statement prompt/s, data.  
+- then Ai model process all to construct/expand/difuse/compose/conclude... Finally it generates the result based on request/objective.  
+
+`Present`: Generative AGI. Is the same as above, but more accurate, matured and efficient.
+- multi-modal, multi-tooling, larger models, improved data quality and training, higher performance hardware.  
+- various methods and techniques used to improve results.
+- increase precision/performance, reduce hallucination/mistakes, iterative pipelines to improve/abstract/clean/test data, verify, validate results.  
+
+`Future Ai`: is a systemic AGI.  It creates custom composed advanced solutions, adding real-time autonomuos abilities.  
+The past generation recognise, detect, compose a result, This new generation understands (input + general concept + you).  
+- focused concepts and Results processed in realtime cycle, by a general purpose dynamic multi-model.  
+- the output iterates/evolves based on all defined parameters, whatever interacts with it.  
+- time-scalable, includes a history record, remember and relates, process past and current events, consider future.  
+- optional autonomous act: triggers new events or impact external entities, based on various factors/parameters + input/sensor data.  
+
  ### [Work Tips](#work-tips):
  - Better: learn best new tech options, practice, freelance, get hired, build an idea startup team.
  - Easier: take a positive internship, learn, collab, you either get hired or improve portfolio/experience.  
