@@ -29,9 +29,10 @@ Therefore If you're not forced or bound to a legacy eco-system, specific rules/c
  ***
 
 ### `Target Platform`  
-> `Native SDK`: Android, iOS,... if highly focused on new abilities of specific devices, usecase Ex: new functions of a VR headset.  
-> `Web:` If the development target is general, multi-platform, web/communication based, and not limited by vendor lockin, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.  
-> `System:` In case you require system/low level processing, high performance processing/capacity(*or to save cost*) then must plan server systems, a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.  
+> `Native SDK` Android, iOS, embeded runtimes... target is only a specific device/abilities, Ex: inclusive functions of an embeded or a VR headset.  
+> `Web` If the development target is general, multi-platform, web/communication based, and not limited by vendor lock-in, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.  
+> `System` In case you require full control/privacy, physical hardware access, performance/capacity(*per cost*) then must plan server system, to provide a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.
+> `Cloud` A complete or custom system solution on web/network. You subscribe to a managed virtual system, in different levels from VPS, API, Host... much features, managed/maintained. All pros, only cons: not full private, no physical control/access(unless self hosted)  
   
   
 ### `Learning tips`
@@ -55,7 +56,7 @@ Therefore If you're not forced or bound to a legacy eco-system, specific rules/c
 #### `Personal usage / prompting`<sub> (Nvidia) chat with RTX. `opensource LLM`: Mistral 7B instruct.</sub>  
 
 #### `AGI models` <sub> __ GPT4 __ Claude 3 __ InternLM </sub>  
-#### `Opensource` <sub> __ Mistral 7B LLM __ LLAMA2 13B </sub>  
+#### `Opensource` <sub> __ Mistral 7B LLM __ Mixtral(without limits) __ LLAMA2 13B </sub>  
 #### `Best benchmarks` <sub> Claude 3, `+`Coding, `+`Results, `+`less halucination `-`less extras.</sub>  
 
 #### `Autonomous AGI agent` <sub> _ SuperAGI _ MultiON _ AutoGPT </sub>  
