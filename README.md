@@ -35,20 +35,22 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 
  ***
 
-### `Target Platform`  
-> `Native SDK` Android, iOS, embeded runtimes... target is only a specific device/abilities, Ex: inclusive functions of an embeded or a VR headset.  
-> `Web` If the development target is general, multi-platform, web/communication based, and not limited by vendor lock-in, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.  
-> `System` In case you require full control/privacy, physical hardware access, performance/capacity(*per cost*) then must plan server system, to provide a custom solution best fit the job, a custom HW/SW stack, programming languages, libs,... a best fit eco-system for the job.  
-> `Cloud` A complete or custom system solution on web/network. You subscribe to a managed virtual system, in different levels from VPS, API, Host... much features, managed/maintained. All pros, only cons: no physical control/access/privacy(unless self hosted)  
+### `Target Platform`   
+
+- [Native SDK]() `Android, iOS, embeded runtimes... target is only a specific device/abilities, Ex: inclusive functions of an embeded or a VR headset.`
+
+- [Web]() `if the development target is general, multi-platform, web/communication based, and not limited by vendor lock-in, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.`
   
+- [System]() `in case lower level control/privacy/system access is required, or direct Hardware/OS access and high performance at scale, then a server/workstation system/s plus a custom software stack (low/mid level programming languages, SDK, runtimes...) is more suitable.`
+
+- [Cloud]() `A complete or custom system solution on web/network. You subscribe to a managed virtual system, in different levels from VPS, API, Host... much features, managed/maintained. All pros, only cons: no physical control/access/privacy(unless self hosted)`  
   
 ### `Learning tips`
 - Being a Dev is not easy, takes time, effort, practice and experience to gain practical skills, much to cover.  
 - 1st learn the basics including the new updates. Ex:  for web >> Basics and new additions of JS, HTML, CSS.  
-- Learn from best resources, search for recent materials with high views/stats on youtube, compare and choose best tutors.  
+- Learn the main skill from Docs, or best resources, search for recent materials with high views/stats on youtube.  
 - Group work, join friends, divide tasks/learning, share your findouts, practice as a team, is too much for one person.  
-> ` Continue the Dev guideline `-> [Web-Dev guideline](#web-development-guideline)  
-
+> ` Go to beginner guideline details `-> [Web-Dev guideline](#web-development-guideline)  
 ***
 <br>  
 
