@@ -18,13 +18,20 @@
 <br>  
 
 ## [`To beginners and startups`](#to-beginners-and-startups)
+ 
 
-`Don't Adapt tech(or make decisions) just per market hype...` instead, decide your options based on multiple factors, such as pros/cons, comparisons, Biz model(startup or jobs, scale), dev/team/user impact, best fit solution, stablity milestone, active support, and finally consider popularity.  
+`Don't Adapt tech or make decisions just per market hype...` 
+> instead, decide based on multiple factors, such as: pros/cons, comparisons, Your work(startup/job/personal), work_focus_(start/scale/migrate), dev/team/user impact, best fit solution, stablity, milestone, active develpment, completeness, community support, and popularity.  
+<details> <summary>...(more details) </summary>  
+Majority of developers adapted older popular tech/methods by the circumstances in past, either guided/dictated to use, by workplace/education requirements, or just due to common hype, popularity, senior advice..., or the 1st/only option in that category, in the past, but not the best choice now.  
+This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, or bad/slow pace, as it holds to legacy patterns, and compatibility patches to make it work with ongoing needs of the users.  
 
-> majority of developers use older popular tech, instead of best possible tools. Reasons: adoption time, Job/workplace skill requirements, or just due to common hype, popularity, senior advice..., it might been valid in the past or the 1st/only option in that category, in the past, but not the best choice at the present. This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, and survive on community, which holds to legacy patterns, and copatibility patches to make it survive.  
+Therefore instead of pop trends, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`,  deciding better tech/methods, results in productivity, efficiency and saves cost.  
 
-Therefore instead of pop trends, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`, better tech and decisions, results in efficiency, saves cost.  
-Therefore If you're not forced or bound to a legacy eco-system, specific rules/conditions, do research, compare options, and make decision which benefit in long-term. ` Wish you good luck! ` [*...Information details, definitions, extra discussion on this topic...*](#new-developer-or-decision-maker)  
+Therefore If you're not forced or bound to a legacy eco-system or specific rules/conditions, do your research, compare options, and make decision which benefit in long-term.
+</details>  
+
+` Wish you good luck! ` [*...Information details, definitions, extra discussion on this topic...*](#new-developer-or-decision-maker)  
 
  ***
 
