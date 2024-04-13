@@ -17,8 +17,7 @@
 ***
 <br>  
 
-## [`To beginners and startups`](#to-beginners-and-startups)
- 
+## [`To beginners and startups`](#to-beginners-and-startups)  
 
 `Don't Adapt tech or make decisions just per market hype...` 
 > instead, decide based on multiple factors, such as: pros/cons, comparisons, Your work(startup/job/personal), work_focus_(start/scale/migrate), dev/team/user impact, best fit solution, stablity, milestone, active develpment, completeness, community support, and popularity.  
@@ -60,18 +59,20 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ## [`AI top trends`](#ai-top-trends)  
 
 ### Ready for development  
-#### `Browser/client-side/Native`<sub> Web LLM / Web-AI / MLC-LLM / +other Ai APIs, tools.</sub>  
+#### `Browser/client-side/Native`<sub> Web LLM / Web-AI / MLC-LLM + Ai APIs/tools.</sub>  
 #### `Cloud services`<sub> OpenAI(chatgpt+plugins), Clarifi(AI APIs), `Platforms`: Google, Amazon, Microsoft.</sub>  
-#### `Personal usage / prompting`<sub> (Nvidia) chat with RTX. `opensource LLM`: Mistral 7B instruct.</sub>  
+#### `Personal usage/prompt`<sub>  Online: `Groq` - Local: `chat with RTX` - `Open Source`: Open Devin - Devika.
+`opensource LLM`: Mistral 7B instruct.</sub>  
 
-#### `AGI models` <sub> __ GPT4 __ Claude 3 __ InternLM </sub>  
-#### `Opensource` <sub> __ Mistral 7B LLM __ Mixtral(without limits) __ LLAMA2 13B </sub>  
+#### `AGI models` <sub>  __ Claude 3 __ GPT4-next __ Grok __ InternLM </sub>  
+#### `Opensource` <sub> __ Mistral 7B LLM __ Mixtral(no-limitations) __ DBRX </sub>  
 #### `Best benchmarks` <sub> Claude 3, `+`Coding, `+`Results, `+`less halucination `-`less extras.</sub>  
 
 #### `Autonomous AGI agent` <sub> _ SuperAGI _ MultiON _ AutoGPT </sub>  
   
 #### `Visual, Image and video`
-`Sora `most realistic videos produced. `Diffusion `DALL-E 4, Raphael(optimized/better dataset, lighter)  
+`Udio ` text to music __ `PlayHT` - `ElevenLabs`  text to speach __ `Deepgram ` speech to text  
+`Sora ` most realistic videos produced. `Diffusion `DALL-E 4, Raphael(optimized+efficient dataset)  
 
 #### [Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)  
 ####   `AGI` -> <sub> (Artificial General Intelligence) </sub>
@@ -187,11 +188,11 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ### [Backend](#backend):
 
 #### JavaScript Runtimes:  
-  - **`Deno.js`**: secure by default, lighter, faster, Wasm, better concept, +DX. *(recommended)*  
-  - **`Node.js`**: most libs, support, popular eco-system. 
-  - **`Bun.js`** : Node.js compatible but higher performance.  
+  - **`Deno`**: secure by default, lighter, faster, Wasm, better concept, +DX. *(recommended)*  
+  - **`Node`**: most libs, support, popular eco-system. 
+  - **`Bun`** : Node.js compatible but higher performance.  
 
-#### Python eco-system:  jobs, popularity, AI libs, ease of usage, beginners, resources...  
+#### Python eco-system:  jobs, popularity, AI libs, ease of usage, good for beginners, resources.  
 
 <br>  
 
@@ -224,8 +225,8 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 - `Front-end`: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
 - `Back-end`: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
 - `DevOps`: Admin, analytics, control, process, automation tools.  
-- `Cloud solutions`: provides process, memory and ready functions as a service.  
-- `Cloud services` usecase: 1- hosting if you don't have your own server. 2- require API/Apps/services from amazon, google,... 
+- `Cloud`: online server platforms, you can subscribe to services: process, storage, resources, ready made functions.  
+- `Cloud services`:  when you don't have a scalable server/resources. 2- require API/Apps/services from amazon, google,... 
 - `Developer Experience`: (DX) satisfaction rate of developer, plus how empowering, practical, direct, and unambiguous it be.  
 - `Correct development method` ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
 - `Software Engineering`:  use engineering principles and process-methods to approach the issue/task.  
@@ -281,20 +282,22 @@ The past generation recognise, detect, compose a result, This new generation und
 <br>  
 
 ## [The Web - status summary](#the-web-status-summary)
-The web was originally made to communicate with text and data, it later evolved to present simple graphics and images.
+The web was originally made to communicate with text and data, it later evolved to present simple graphics and images.  
+<details> <summary>...press to expand. </summary>  
 Hardware advancements in performance and capacity, plus emerging smartphones and social networks caused web based online services go mainstream in network communications, it progressed fast and competes with native platforms.  
 The sudden progress pace in contrast with the concept of keeping it backward compatible with legacy standards, caused some complexity and confusion in the last decade due to workarounds to support new features by vendor prefixes, various 3rd party libs, tools and frameworks to achieve demands of dev/user/market. The slow adoption of new trends was caused by issues with backward compatibility of existing sites and old systems while native mobile and desktop platforms had all breaking changes at once to support new hardware. By then 3rd party libs, prefixes and frameworks... were made to solve/patch the issue and provide features that didn't exist in web standards yet.  
 
 Good news, the new web standards and innovations, improved the situation, furthermore Frameworks evolved and matured including new Web APIs to provide functionality and access to new technologies. Therefore with much flexibility, compatibility and openness, Web eco-system can now compete with native desktop and mobile platforms.  
 
-Whenever learning something, learn latest stable standards and best practices, some of the old prefixes, 3rd party libs,... are not required anymore...(as explained above) unless required or there is no alternative. The recommended trends mentioned here were handpicked by checking reviews comparison, personal experiments, and by looking into new trends top professionals adopt.  
+Whenever learning something, learn latest stable standards and best practices, some of the old prefixes, 3rd party libs,... are not required anymore...(as explained above) unless is justified, mandatory or no alternatives. The recommended trends mentioned here were handpicked by checking reviews comparison, personal experiments, and by looking into new trends top professionals adopt.  
+</details>
 ***
 <br>  
 
 ### [New developer or decision maker?](#new-developer-or-decision-make?)
-
-*"Details of Why you must not choose a tech only based on popularity and general statistics"*
-
+<details>
+<summary> ...Details - Reasons and Pointers on choosing tech stack/methods... (press to expand)  
+</summary>
 - Avoid learning 6 ~ 10+ years old stuff if a better alternative is available.
  old tech was made for past era ecosystem, development model and HW/SW/issues.  
 
@@ -307,11 +310,12 @@ Whenever learning something, learn latest stable standards and best practices, s
 
 - Prevent Issues:  an old legacy target which depends on layers of other legacy tech, will encounter conflicts, compatibility, deprecated dependencies, which will cost time + resources + man power to solve them. 
 
-- Lower level coding is not much affected by the mentioned issues. they rarely change, and if so, is about new features, compatibility and stability.  
+- Low level coding is not affected much by the mentioned issues. they rarely change, and if so, is about new features, compatibility and stability.  
 
-- Unnessecary overhead: as old devs retire,  new ones might add extra layers of abstraction instead of updating the original code, these issues cause
- extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...  
+- Unnessecary overhead: as old devs retire,  new ones might add extra layers of abstraction instead of updating the original code, these issues cause: extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...
+
+</details>
 ***
 <br>  
 
-**Todo**:   remote work, Security, Web API’s.
+**Todo**:  remote work, Security, Web API’s.
