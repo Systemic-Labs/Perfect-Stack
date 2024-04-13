@@ -30,7 +30,7 @@ Therefore instead of pop trends, make decisions based on facts, use whatever is 
 Therefore If you're not forced or bound to a legacy eco-system or specific rules/conditions, do your research, compare options, and make decision which benefit in long-term.
 </details>  
 
-` Wish you good luck! ` [*...Information details, definitions, extra discussion on this topic...*](#new-developer-or-decision-maker)  
+` Wish you good luck! ` [*>>...more details, extra pointers on this topic...>>*](#new-developer-or-decision-maker)  
 
  ***
 
@@ -71,7 +71,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 #### `Autonomous AGI agent` <sub> _ SuperAGI _ MultiON _ AutoGPT </sub>  
   
 #### `Visual, Image and video`
-`Udio ` text to music __ `PlayHT` - `ElevenLabs`  text to speach __ `Deepgram ` speech to text  
+`Udio ` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
 `Sora ` most realistic videos produced. `Diffusion `DALL-E 4, Raphael(optimized+efficient dataset)  
 
 #### [Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)  
@@ -114,7 +114,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
  - `UnoCSS`  - best tool for presets. (code as other Libs yet it builds to standard CSS)  
  - `picoCSS` - best for predefined styling of standard HTML Tags.  
  - `DaisyUI` - best CSS UI lib you can get where JS is optional (pre UI kit).  
- - `Skeleton UI`- best UI components Kit for Svelte fraamework.  
+ - `Skeleton UI`- best UI components Kit for Svelte framework.  
  - `Agnostic UI`- various pros, in case it benefit your work.  
  - `BeerCSS` - better option in case you're into material design concept.  
 <br>  
