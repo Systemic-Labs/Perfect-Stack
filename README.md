@@ -64,7 +64,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 #### `Personal usage/prompt`<sub>  Online: `Groq` - Local: `chat with RTX` - `Open Source`: Open Devin - Devika.
 `opensource LLM`: Mistral 7B instruct.</sub>  
 
-#### `AGI models` <sub>  __ Claude 3 __ GPT4-next __ Grok __ InternLM </sub>  
+#### `AGI models` <sub>  __ Claude 3 __ GPT4-next __ Grok __ LLAMA3 instruct __ InternLM </sub>  
 #### `Opensource` <sub> __ Mistral 7B LLM __ Mixtral(no-limitations) __ DBRX </sub>  
 #### `Best benchmarks` <sub> Claude 3, `+`Coding, `+`Results, `+`less halucination `-`less extras.</sub>  
 
@@ -123,12 +123,11 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 
 - `Cloudflare`: most professional option, reliable, advanced network system and services.  
 - `Hosting clouds`: used to host site/app, but now offer many cloud functions/solutions Ex: Vercel or Netlify  
-- `Enterprise`: (for more features+scale - extra cloud functions/services)  
+- `Enterprise`: (more features+scale - extra cloud functions/services)  
 > 1. Amazon AWS .... 2. Google/Firebase  .... 3. Azure (Microsoft)  
-> 4. Redis: more of a DB, fast, if redis modules/services are required, a complete customizable DB solution.  
 
 - #### [`Alternatives`](#alternatives): 
-  - `Serverless/web based` -> Vercel, simpler cloud-> Supabase, PocketBase .  
+  - `Cloud/Server/CMS` -> Vercel -`simpler`: Supabase, Prismic -`Self host`: PocketBase, Sveltia.  
   - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
   - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js, free, encryption, distributed(web torrent).  
   - `Fullstack servers` + `free basic plan`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
@@ -162,9 +161,9 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
     - **`Carbon`**(semi C++), `Zig`, **`Julia`**: LL Performance, HL syntax.     
     - **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources / Big Community, Support.  
     - **`Go`**: (Low/Med level): simple good syntax, well developed/maturity, good for backend.  
-    - **`Nim`**(speed/semi python syntax). **`Mojo`**: similar to python(compatible, resources, AI, Devs).  
-  - **(High level)**: **Platforms ecosystem**: `Web: JS/ES`, `AI: Python`, `IOS: Swift`, **other**: `Elixir, Haskel`.  
-  - 
+    - **`Nim`**(speed/semi python syntax). **`Mojo`**: (+semi-python, resources, AI, Devs).  
+  - **(High level)**: **Platforms ecosystem**: `Web: JS/ES`, `AI: Python`, `IOS: Swift`,
+  - **other**: `Elixir, Haskel`.  
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
 - **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
