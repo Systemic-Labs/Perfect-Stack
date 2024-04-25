@@ -30,11 +30,11 @@ This cycle repeats and non optimal tech get stuck in social, market, and job/edu
 
 Therefore instead of pop trends, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`,  deciding better tech/methods, results in productivity, efficiency and saves cost.  
 
-Therefore If you're not forced or bound to a legacy eco-system or specific rules/conditions, do your research, compare options, and make decision which benefit in long-term.
+Therefore If you're not forced or bound to a legacy eco-system or specific rules/conditions, do your research, compare options, and make decision which benefit in long-term.  
+[*...extra pointers on this topic...>>*](#new-developer-or-decision-maker)  
 </details>  
 
-` Wish you good luck! ` [*>>...extra info/pointers on this topic...>>*](#new-developer-or-decision-maker)  
-
+` Wish you good luck! `  
  ***
 
 ### `Target Platform`   
@@ -59,7 +59,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 # [Awesome list]  
 <br>
 
-## [`AI top trends`](#ai-top-trends)  
+## [`AI top list`](#ai-top-trends)  
 
 ### General Purpose  
 [Browser/client-side/Native]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Ai APIs/tools`.  
@@ -77,8 +77,11 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 [Image](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney`, [App](): `Adobe Firefly`  
 [Video](): `Sora ` most realistic to date.  
 
-[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)  
-<sub> * `AGI` (Artificial General Intelligence) </sub>
+<sub> * `AGI` (Artificial General Intelligence) </sub>  
+
+##### *[About: Different AI generations](#about-ai---generations)* >>  
+##### *[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  
+
 ---
 <br>
 
