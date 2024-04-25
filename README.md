@@ -58,21 +58,21 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 
 ## [`AI top trends`](#ai-top-trends)  
 
-### Ready for development  
-#### `Browser/client-side/Native`<sub> Web LLM / Web-AI / MLC-LLM + Ai APIs/tools.</sub>  
-#### `Cloud services`<sub> OpenAI(chatgpt+plugins), Clarifi(AI APIs), `Platforms`: Google, Amazon, Microsoft.</sub>  
-#### `Personal usage/prompt`<sub>  Online: `Groq` - Local: `chat with RTX` - `Open Source`: Open Devin - Devika.
-`opensource LLM`: Mistral 7B instruct.</sub>  
+### General Purpose  
+[Browser/client-side/Native]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Ai APIs/tools`.  
+[Cloud services](): `OpenAI(chatgpt+plugins)` _ `Clarifi(AI API)`, [Platforms](): `Google`, `Amazon`, `Microsoft`  
+[Personal usage/prompt]()   Online: `Groq` - Local: `chat with RTX` - `Open Source dev`: Open Devin - Devika.    
 
-#### `AGI models` <sub>  __ Claude 3 __ GPT4-next __ Grok __ LLAMA3 instruct __ InternLM </sub>  
-#### `Opensource` <sub> __ Mistral 7B LLM __ Mixtral(no-limitations) __ DBRX </sub>  
-#### `Best benchmarks` <sub> Claude 3, `+`Coding, `+`Results, `+`less halucination `-`less extras.</sub>  
+### AGI - LLM models
+[Top Rank]():  `Claude 3` _ `GPT4-next` _ `Grok` _ `LLAMA 3 instruct`  
+[Opensource](): `Mistral`/`Mixtral(non-censored)` _ `Command R+` _ `LLama3` _ `DBRX`  
 
-#### `Autonomous AGI agent` <sub> _ SuperAGI _ MultiON _ AutoGPT </sub>  
   
-#### `Visual, Image and video`
-`Udio ` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
-`Sora ` most realistic videos produced. `Diffusion `DALL-E 4, Raphael(optimized+efficient dataset)  
+### AI Tools, Visual, Image and video`
+- [Autonomous AI Agents]() _ MemGPT(long-term memory) _ SuperAGI _ MultiON _ AutoGPT  
+- [Audio](): `Udio ` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
+- [Video](): `Sora ` most realistic videos produced. 
+- [Diffusion](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney`
 
 #### [Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)  
 ####   `AGI` -> <sub> (Artificial General Intelligence) </sub>
