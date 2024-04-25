@@ -19,9 +19,12 @@
 
 ## [`To beginners and startups`](#to-beginners-and-startups)  
 
-`Don't Adapt tech or make decisions just per market hype...` 
-> instead, decide based on multiple factors, such as: pros/cons, comparisons, Your work(startup/job/personal), work_focus_(start/scale/migrate), dev/team/user impact, best fit solution, stablity, milestone, active develpment, completeness, community support, and popularity.
-<details> <summary>...>> press to expand topic </summary>  
+> Don't Adapt tech or make decisions just based on popularity hype...  
+...instead, decide based on multiple factors, such as:  
+[Pros]()/[Cons](), [Comparisons](), [Best fit for task](), [Problem solves]() [Rate/Popularity]()  
+[Goals](): `work-type`: startup/job/personal __ `focus target`: start, scale, migrate, profit.  
+[Impacts](): team, users, dev-cycle, stablity, milestone, cost, completeness...
+<details> <summary>... expand topic ↴ </summary>  
 Majority of developers adapted older popular tech/methods by the circumstances in past, either guided/dictated to use, by workplace/education requirements, or just due to common hype, popularity, senior advice..., or the 1st/only option in that category, in the past, but not the best choice now.  
 This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, or bad/slow pace, as it holds to legacy patterns, and compatibility patches to make it work with ongoing needs of the users.  
 
@@ -36,13 +39,13 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 
 ### `Target Platform`   
 
-- [Native SDK]() `Android, iOS, embeded runtimes... target is only a specific device/abilities, Ex: inclusive functions of an embeded or a VR headset.`
+[Native SDK]() `Android, iOS, embeded runtimes... target is only a specific device/abilities, Ex: inclusive functions of an embeded or a VR headset.`
 
-- [Web]() `if the development target is general, multi-platform, web/communication based, and not limited by vendor lock-in, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.`
+[Web]() `if the development target is general, multi-platform, web/communication based, and not limited by vendor lock-in, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.`
   
-- [System]() `in case lower level control/privacy/system access is required, or direct Hardware/OS access and high performance at scale, then a server/workstation system/s plus a custom software stack (low/mid level programming languages, SDK, runtimes...) is more suitable.`
+[System]() `in case lower level control/privacy/system access is required, or direct Hardware/OS access and high performance at scale, then a server/workstation system/s plus a custom software stack (low/mid level programming languages, SDK, runtimes...) is more suitable.`
 
-- [Cloud]() `A complete or custom system solution on web/network. You subscribe to a managed virtual system, in different levels from VPS, API, Host... much features, managed/maintained. All pros, only cons: no physical control/access/privacy(unless self hosted)`  
+[Cloud]() `A complete or custom system solution on web/network. You subscribe to a managed virtual system, in different levels from VPS, API, Host... much features, managed/maintained. All pros, only cons: no physical control/access/privacy(unless self hosted)`  
   
 ### `Learning tips`
 - Being a Dev is not easy, takes time, effort, practice and experience to gain practical skills, much to cover.  
@@ -60,22 +63,22 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 
 ### General Purpose  
 [Browser/client-side/Native]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Ai APIs/tools`.  
-[Cloud services](): `OpenAI(chatgpt+plugins)` _ `Clarifi(AI API)`, [Platforms](): `Google`, `Amazon`, `Microsoft`  
-[Personal usage/prompt]()   Online: `Groq` - Local: `chat with RTX` - `Open Source dev`: Open Devin - Devika.    
+[Cloud services - API](): `Nvidia NIM` _ `OpenAI` _ `Clarifi(various)`, `Google`, `Microsoft`, `amazon`.  
+[Personal use / Prompt](): Online: `Groq` - Local: `chat with RTX` - Open Source dev: `Open Devin` - `Devika`.  
 
 ### AGI - LLM models
 [Top Rank]():  `Claude 3` _ `GPT4-next` _ `Grok` _ `LLAMA 3 instruct`  
 [Opensource](): `Mistral`/`Mixtral(non-censored)` _ `Command R+` _ `LLama3` _ `DBRX`  
 
   
-### AI Tools, Visual, Image and video`
-- [Autonomous AI Agents]() _ MemGPT(long-term memory) _ SuperAGI _ MultiON _ AutoGPT  
-- [Audio](): `Udio ` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
-- [Video](): `Sora ` most realistic videos produced. 
-- [Diffusion](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney`
+### Tools, Visual, Image and video`
+[Autonomous AI Agents]() _ MemGPT(long-term memory) _ SuperAGI _ MultiON _ AutoGPT  
+[Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
+[Image](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney`, [App](): `Adobe Firefly`  
+[Video](): `Sora ` most realistic to date.  
 
-#### [Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)  
-####   `AGI` -> <sub> (Artificial General Intelligence) </sub>
+[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)  
+<sub> * `AGI` (Artificial General Intelligence) </sub>
 ---
 <br>
 
