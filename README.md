@@ -39,7 +39,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 
 ### `Target Platform`   
 
-[Native SDK]() `Android, iOS, embeded runtimes... target is only a specific device/abilities, Ex: inclusive functions of an embeded or a VR headset.`
+[Native SDK]() `Android, iOS, embeded runtimes... if targeting specific device abilities or inclusive native functions of an embeded device, phones or a VR headset.`
 
 [Web]() `if the development target is general, multi-platform, web/communication based, and not limited by vendor lock-in, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.`
   
@@ -85,14 +85,14 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ---
 <br>
 
-### [Frameworks](#frameworks--)  >>
+## [Frameworks](#frameworks--)  >>
  - **`Mobile`**: Native device SDK......Open Web based (multi-platform): Socket, Tauri, Capacitor  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
  - **`Front-end`**: Svelte(best overall, best DX),  Vue(past populary=> more jobs), Solid(React replacement).  
  - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages...  
- - **`Full-stack`**: Svelte-kit  
+ - **`Full-stack`**: Svelte-kit (true fullstack) - Astro(many frameworks) - Next/Nuxt (popular backends)  
  - **`Crossplatform`**: Socket runtime (Desktop, Mobile, P2P net/storage)  
- - **`Programming Languages`**:  Zig, Rust, Go, Nim, Python, Swift... (per use-case, SSP, Backend, AI, Mobile app).  
+ - **`Programming Languages`**:  Zig, Rust, Go, Mojo, Swift... (per use-case: Server/Backend, AI, Mobile).  
 <br>  
 
 ### [UI](#ui-) >>  
@@ -164,12 +164,12 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ### [Other stuff](#other-stuff):
 - **`Programming Languages`**:
   - **(Low level)**
-    - **`Carbon`**(semi C++), `Zig`, **`Julia`**: LL Performance, HL syntax.     
+    - **`Carbon`**(semi C++), `Zig`, **`Julia`**: LL Performance, High-Level syntax.  
     - **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources / Big Community, Support.  
     - **`Go`**: (Low/Med level): simple good syntax, well developed/maturity, good for backend.  
     - **`Nim`**(speed/semi python syntax). **`Mojo`**: (+semi-python, resources, AI, Devs).  
-  - **(High level)**: **Platforms ecosystem**: `Web: JS/ES`, `AI: Python`, `IOS: Swift`,
-  - **other**: `Elixir, Haskel`.  
+  - **(High level)**: **Platforms ecosystem**: `All: Web/JS`, `AI: Python`, `Mac/IOS: Swift`.  
+  - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`.  
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
 - **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
