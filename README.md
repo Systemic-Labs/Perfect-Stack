@@ -6,9 +6,13 @@
 
 - This document covers information for best practices, libs, tech stack, platforms, tools,...  
 - Decide best options for your use-case, not a conformist who only follows popularity.  
->- To contribute: link items,  recommend/reason an obvious better option, improve the document.  
->- Target users:  *developers, designers, researchers, students, startups, decision makers*.  
->  
+- [To Contribute]() >> `add links` to items, `reason/prove` an obviously better option, `improve doc`.  
+
+> <sub> * target users: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
+
+>.
+  
+  
 ## [`Shortcuts`](#shotcuts) >>
 >  ### [ Awesome list](#awesome-list)  
 >  ### [ Frameworks - more info/details](#frameworks-information)  
@@ -36,8 +40,8 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 
 ` Wish you good luck! `  
  ***
-
-### `Target Platform`   
+.  
+## Target Platform   
 
 [Native SDK]() `Android, iOS, embeded runtimes... if targeting specific device abilities or inclusive native functions of an embeded device, phones or a VR headset.`
 
@@ -62,9 +66,9 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ## [`AI top list`](#ai-top-trends)  
 
 ### General Purpose  
-[Browser/client-side/Native]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Ai APIs/tools`.  
+[Personal use/prompt](): Online: `Groq` - Local: `chat with RTX` - [Dev assist](): `Open Devin` - `Devika`.  
 [Cloud services - API](): `Nvidia NIM` _ `OpenAI` _ `Clarifi(various)`, `Google`, `Microsoft`, `amazon`.  
-[Personal use / Prompt](): Online: `Groq` - Local: `chat with RTX` - Open Source dev: `Open Devin` - `Devika`.  
+[Browser/Runtime (client/user side)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Ai APIs/tools`.  
 
 ### AGI - LLM models
 [Top Ranked]():  `Claude 3` _ `GPT4-next` _ `Grok` _ `LLAMA 3 instruct`  
@@ -322,5 +326,3 @@ Whenever learning something, learn latest stable standards and best practices, s
 </details>
 ***
 <br>  
-
-**Todo**:  remote work, Security, Web API’s.
