@@ -9,7 +9,7 @@
 >- To contribute: link items,  recommend/reason an obvious better option, improve the document.  
 >- Target users:  *developers, designers, researchers, students, startups, decision makers*.  
 >  
-## [`Shortcuts`](#shotcuts)
+## [`Shortcuts`](#shotcuts) >>
 >  ### [ Awesome list](#awesome-list)  
 >  ### [ Frameworks - more info/details](#frameworks-information)  
 >  ### [ Extra information and discussion](#extra-information)  
@@ -67,15 +67,15 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 [Personal use / Prompt](): Online: `Groq` - Local: `chat with RTX` - Open Source dev: `Open Devin` - `Devika`.  
 
 ### AGI - LLM models
-[Top Rank]():  `Claude 3` _ `GPT4-next` _ `Grok` _ `LLAMA 3 instruct`  
-[Opensource](): `Mistral`/`Mixtral(non-censored)` _ `Command R+` _ `LLama3` _ `DBRX`  
-
+[Top Ranked]():  `Claude 3` _ `GPT4-next` _ `Grok` _ `LLAMA 3 instruct`  
+[Opensource](): `Phi3` _ `LLama3` _ `Mixtral` _ `Command R+` _ `DBRX`  
+[Run Local device](): Mobile: `Phi3-mini-3.8B` _ Desktop: `LLama 3 instruct`  
   
 ### Tools, Visual, Image and video`
 [Autonomous AI Agents]() _ MemGPT(long-term memory) _ SuperAGI _ MultiON _ AutoGPT  
 [Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
 [Image](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney`, [App](): `Adobe Firefly`  
-[Video](): `Sora ` most realistic to date.  
+[Video](): `Sora ` most realistic videos by now.  
 
 <sub> * `AGI` (Artificial General Intelligence) </sub>  
 
