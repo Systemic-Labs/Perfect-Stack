@@ -66,15 +66,15 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ## [AI](#ai)
 
 ### General Purpose  
-- [Personal use/prompt](): Online: `Groq` - Local: `chat with RTX` -    
-- [Cloud services - API](): `Nvidia NIM` _ `OpenAI` _ `Clarifi(various)`, `Google`, `Microsoft`, `amazon`.  
+- [Personal use/prompt](): Online: `Groq` - Local: `chat with RTX` -  `LM Studio`.  
+- [Platform / API](): `Nvidia NIM`, `OpenAI`, `Clarifi(various)`, `Google`, `Microsoft`, `x.ai`.  
 - [Browser/Runtime (client/user side)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Ai APIs/tools`.
 <br>
 
 ### AGI - LLM models
-- [Top Ranked]():  `Claude-3-Opus`, `GPT4-next`, `Grok`, `Llama-3-400B+ instruct`  
-- [Opensource](): `Phi3` _ `LLama3` _ `Mixtral` _ `Command R+` _ `DBRX`  
-- [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3-8B instruct`  
+- [Top Ranked]():  `Claude-3-Opus`, `GPT4-next`, `Grok`, `Llama-3-400B+ instruct`.  
+- [Opensource](): `Phi3` _ `LLama3` _ `Mixtral` _ `Command R+` _ `DBRX`.  
+- [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3-8B instruct`.  
 
 <sub> * `AGI` (Artificial General Intelligence) </sub>  
 <br>
