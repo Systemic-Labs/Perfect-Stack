@@ -9,8 +9,7 @@
 - [To Contribute]() >> `add links` to items, `reason/prove` an obviously better option, `improve doc`.  
 
 > <sub> * target users: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
-
->.
+<br>
   
   
 ## [`Shortcuts`](#shotcuts) >>
@@ -40,8 +39,9 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 
 ` Wish you good luck! `  
  ***
-.  
-## Target Platform   
+<br>
+
+## Target Platforms  
 
 [Native SDK]() `Android, iOS, embeded runtimes... if targeting specific device abilities or inclusive native functions of an embeded device, phones or a VR headset.`
 
@@ -60,30 +60,37 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ***
 <br>  
 
-# [Awesome list]  
+# Awesome list  
 <br>
 
-## [`AI top list`](#ai-top-trends)  
+## [AI](#ai)
 
 ### General Purpose  
-[Personal use/prompt](): Online: `Groq` - Local: `chat with RTX` - [Dev assist](): `Open Devin` - `Devika`.  
-[Cloud services - API](): `Nvidia NIM` _ `OpenAI` _ `Clarifi(various)`, `Google`, `Microsoft`, `amazon`.  
-[Browser/Runtime (client/user side)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Ai APIs/tools`.  
+- [Personal use/prompt](): Online: `Groq` - Local: `chat with RTX` -    
+- [Cloud services - API](): `Nvidia NIM` _ `OpenAI` _ `Clarifi(various)`, `Google`, `Microsoft`, `amazon`.  
+- [Browser/Runtime (client/user side)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Ai APIs/tools`.
+<br>
 
 ### AGI - LLM models
-[Top Ranked]():  `Claude 3` _ `GPT4-next` _ `Grok` _ `LLAMA 3 instruct`  
-[Opensource](): `Phi3` _ `LLama3` _ `Mixtral` _ `Command R+` _ `DBRX`  
-[Run Local device](): Mobile: `Phi3-mini-3.8B` _ Desktop: `LLama 3 instruct`  
-  
-### Tools, Visual, Image and video`
-[Autonomous AI Agents]() _ MemGPT(long-term memory) _ SuperAGI _ MultiON _ AutoGPT  
-[Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
-[Image](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney`, [App](): `Adobe Firefly`  
-[Video](): `Sora ` most realistic videos by now.  
+- [Top Ranked]():  `Claude-3-Opus`, `GPT4-next`, `Grok`, `Llama-3-400B+ instruct`  
+- [Opensource](): `Phi3` _ `LLama3` _ `Mixtral` _ `Command R+` _ `DBRX`  
+- [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3-8B instruct`  
 
 <sub> * `AGI` (Artificial General Intelligence) </sub>  
+<br>
 
-##### *[About: Different AI generations](#about-ai---generations)* >>  
+### Tools, Audio, Video...
+- [Autonomous AI Agents]() _ MemGPT(long-term memory) _ SuperAGI _ MultiON _ AutoGPT  
+- [Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
+- [Image](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney`, [App](): `Adobe Firefly`
+- [Visual input](): `Grok vision` - [Video creation](): `Sora ` most realistic videos by now.
+- [Dev assist](): `Github Copilot` - `GPT-4 Chat/API` - [open-source](): `Open Devin` - `Devika`.  
+<br>
+
+Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai Jason](https://www.youtube.com/@AIJasonZ/videos) - [Matthew Berman](https://www.youtube.com/@matthew_berman/featured) 
+<br>  
+
+##### `About ` [Different AI generations](#about-ai---generations) >>  
 ##### *[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  
 
 ---
