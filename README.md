@@ -68,8 +68,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ### General  
 - [Personal use/prompt](): Online: `Groq` - Local: `chat with RTX` -  `LM Studio` - `Jan`.  
 - [Platform / API](): `Nvidia NIM`, `OpenAI`, `Clarifi(various)`, `Google`, `Microsoft`, `x.ai`.  
-- [Browser/Runtime (client/local)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Jan/Nitro`
-- `Ai APIs/tools`
+- [Browser/Runtime (client/local)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Jan/Nitro`  
 <br>
 
 ### AGI - LLM models
@@ -81,7 +80,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 <br>
 
 ### Tools, Audio, Video...
-- [Autonomous Agents]() _ long-term memory: `MemGPT` - `CrewAI` _ Agent`+`toolchain: `Langchain` - `AutoGPT`  
+- [Autonomous Agents]() _ `long-term mem`: [MemGPT]() - [CrewAI]() _ `+toolchain`: [Langchain]() - `AutoGPT`  
 - [Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
 - [Image](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney` - [App](): `Adobe Firefly`.  
 - [Visual input](): `Grok vision` - [Video creation](): `Sora ` most realistic videos by now.
@@ -168,10 +167,10 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 
 - `REST `... a client request data/information... from a server, which responds with state+data.  
 - `GraphQL`. similar to rest but query a specific set of data, only effective if correctly queried(not less, not more).  
-- `gRPC` ... binary data, prioritise performance, volume, and security. next generation of protobuffers.  
+- `gRPC / tRPC` . binary data, prioritise performance, volume, and security. next generation of protobuffers.  
 - `WebSocket` For real time, low latency applications.  
 - `WebRTC / WebTorrent`  applications of distributed net, shared, p2p, serverless, save cost, user privacy/annonymity.  
-- `ORM / DB communications type` for more control, relational behavior, custom schema and stored data.  
+- `ORM (DB interaction model)` custom SQL/nonSQL query access method. custom relational behavior, code to DB interfacing.  
 
 ### [Other stuff](#other-stuff):
 - **`Programming Languages`**:
@@ -188,7 +187,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - **`Content Management System`**:  Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).
 - **`Audio API`**: Tone.JS(free, all round audio API),  Twilio(Call communication, speech).  
 - **`Dev/Repo` Platforms**: Github, Gitlab, Gitea (self-host), Stackblitz, Notion, Collab...  
-- **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...  
+- **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...
+- **`Kubernetes`**: Fault Taulerant application containers to manage scale, monitor, resources.  
 - **`Other stuff`**: find useful libs, online tools, AI tools, which help and improve DX.  
 ***
 <br>  
