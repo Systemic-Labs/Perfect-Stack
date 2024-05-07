@@ -65,10 +65,11 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 
 ## [AI](#ai)
 
-### General Purpose  
-- [Personal use/prompt](): Online: `Groq` - Local: `chat with RTX` -  `LM Studio`.  
+### General  
+- [Personal use/prompt](): Online: `Groq` - Local: `chat with RTX` -  `LM Studio` - `Jan`.  
 - [Platform / API](): `Nvidia NIM`, `OpenAI`, `Clarifi(various)`, `Google`, `Microsoft`, `x.ai`.  
-- [Browser/Runtime (client/user side)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Ai APIs/tools`.
+- [Browser/Runtime (client/local)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Jan/Nitro`
+- `Ai APIs/tools`
 <br>
 
 ### AGI - LLM models
@@ -80,9 +81,9 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 <br>
 
 ### Tools, Audio, Video...
-- [Autonomous AI Agents]() _ MemGPT(long-term memory) _ SuperAGI _ MultiON _ AutoGPT  
+- [Autonomous Agents]() _ long-term memory: `MemGPT` - `CrewAI` _ Agent`+`toolchain: `Langchain` - `AutoGPT`  
 - [Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
-- [Image](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney`, [App](): `Adobe Firefly`
+- [Image](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney` - [App](): `Adobe Firefly`.  
 - [Visual input](): `Grok vision` - [Video creation](): `Sora ` most realistic videos by now.
 - [Dev assist](): `Github Copilot` - `GPT-4 Chat/API` - [open-source](): `Open Devin` - `Devika`.  
 <br>
