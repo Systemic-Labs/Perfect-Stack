@@ -66,7 +66,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ## [AI](#ai)
 
 ### General  
-- [Personal use/prompt](): Online: `Groq` - Local: `chat with RTX` -  `LM Studio` - `Jan`.  
+- [Chat/Prompt](): Online: `Groq` - `ChatGPT` - Local: `chat with RTX` - `Jan`.  
 - [Platform / API](): `Nvidia NIM`, `OpenAI`, `Clarifi(various)`, `Google`, `Microsoft`, `x.ai`.  
 - [Browser/Runtime (client/local)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Jan/Nitro`  
 <br>
@@ -82,9 +82,10 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ### Tools, Audio, Video...
 - [Autonomous Agents]() _ `long-term mem`: [MemGPT]() - [CrewAI]() _ `+toolchain`: [Langchain]() - `AutoGPT`  
 - [Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
-- [Image](): `DALL-E`, `Stable Diffusion`, `Imagen`, `MidJourney` - [App](): `Adobe Firefly`.  
+- [Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP: `MidJourney`, `FreePik`, `Adobe Firefly`  
 - [Visual input](): `Grok vision` - [Video creation](): `Sora ` most realistic videos by now.
-- [Dev assist](): `Github Copilot` - `GPT-4 Chat/API` - [open-source](): `Open Devin` - `Devika`.  
+- [Code assist](): `Github Copilot` - `GPT-4 Chat/API` - [open-source](): `Open Devin` - `Devika`.
+- [Dev Assist](): interact with a website: `GPT Crawler` - Local AI Hub: `LM-studio` - `Jan` 
 <br>
 
 Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai Jason](https://www.youtube.com/@AIJasonZ/videos) - [Matthew Berman](https://www.youtube.com/@matthew_berman/featured) 
@@ -144,10 +145,10 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 > 1. Amazon AWS .... 2. Google/Firebase  .... 3. Azure (Microsoft)  
 
 - #### [`Alternatives`](#alternatives): 
-  - `Cloud/Server/CMS` -> Vercel -`simpler`: Supabase, Prismic -`Self host`: PocketBase, Sveltia.  
+  - `Cloud/CMS/Server` -> Vercel, Supabase `|` Prismic, Builder.io `|` `Self host`: PocketBase, Sveltia.  
   - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
-  - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js, free, encryption, distributed(web torrent).  
-  - `Fullstack servers` + `free basic plan`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
+  - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js => free, encrypted, distributed(web torrent).  
+  - `Fullstack servers` + `default options`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
 
 
 ### [Database](#database):
