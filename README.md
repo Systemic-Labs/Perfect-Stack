@@ -76,7 +76,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 - [Opensource](): `Phi3` _ `LLama3` _ `Mixtral` _ `Command R+` _ `DBRX`.  
 - [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3-8B instruct`.  
 
-<sub> * `AGI` (Artificial General Intelligence) </sub>  
+<sub> * `AGI`(Artificial General Intelligence) .... `MoE`(Mixture of Experts) </sub>  
 <br>
 
 ### Tools, Audio, Video...
@@ -100,7 +100,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 ## [Frameworks](#frameworks--)  >>
  - **`Mobile`**: Native device SDK......Open Web based (multi-platform): Socket, Tauri, Capacitor  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
- - **`Front-end`**: Svelte(best overall, best DX),  Vue(past populary=> more jobs), Solid(React replacement).  
+ - **`Front-end`**: Svelte(best overall, best DX),  Vue(past populary, jobs), Solid(React replacement).  
  - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages...  
  - **`Full-stack`**: Svelte-kit (true fullstack) - Astro(many frameworks) - Next/Nuxt (popular backends)  
  - **`Crossplatform`**: Socket runtime (Desktop, Mobile, P2P net/storage)  
@@ -198,33 +198,35 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 <br>  
 
 ### [Frontend](#frontend):  
- - **1. `Svelte`**: (Best overall), DX+, integrates and compiles to standard web, long term strategic choice.  
- - **2. `Solid`**: (Minimal), fast, efficient, reliable, fine tuned core structure, migration choice for react developers.  
- - **3. `Vue`**: (popular). ....  Angular / React / .net** (GG/FB/MS company platforms, Job offers/forced/required).  
+ - **1. `Svelte`**: (Best overall), DX+, innovative, compiles to standard web, long term strategic choice.  
+ - **2. `Solid`**: (Minimal) fast, efficient, reliable, fine tuned reactivity, react devs alternative.  
+ - **3. `Vue`**: (community) __ `Angular` / `React` / `.Net` (GG/FB/MS company platforms), Job offers/forced/required.  
 <br>  
 
 ### [Backend](#backend):
 
 #### JavaScript Runtimes:  
   - **`Deno`**: secure by default, lighter, faster, Wasm, better concept, +DX. *(recommended)*  
-  - **`Node`**: most libs, support, popular eco-system. 
+  - **`Node`**: core JS Runtime most libs, support, popular. Node.JS BE frameworks: `hono`, `polka`, `koa`  
   - **`Bun`** : Node.js compatible but higher performance.  
 
-#### Python eco-system:  jobs, popularity, AI libs, ease of usage, good for beginners, resources.  
+#### Python eco-system:  jobs, popularity, AI libs/community, resources, ease of usage, +beginners.  
 
 <br>  
 
 ### [Fullstack](#fullstack): 
 **`Sveltekit`**: complete yet custom scalable solution, flexible use of frontend + backend.  
-> *Best web/app framework + DX, combined best practices and innovations in web ecosystem.*  
+> *Best web/app framework + DX, combined best practices and innovations in web ecosystem.*
+**`Phoenix`**: Live view generative FE + Elixir BE. highly focused on server/backend oriented dev.
+**`Astro`**: your frontend of choice + a unified good set of patterns on backend, predifined tools, DB!  
 
-**`Node.js frameworks`**:  Next(Vercel, React), Nuxt(VUE), Astro(multi platform), JS(polka, koa).  
+**`Node.js cloudish frameworks`**:  Next(Vercel/React), Nuxt(VUE), Astro(multi platform).  
 <br>  
 
 ### [Svelte framework pros](#svelte-framework-pros):  
 **`Developer Experience`**: write less code, concentrate on your ideas, not development complexity.  
 **`Standard`**: the code is compiled to standard JS. Fast/optimized, can be used anywhere, reusable.  
-**`Less complexity`**: easier to read code, compiled and no online build process, no framework issues at runtime.  
+**`Less complexity`**: easier to read code, compiled, no v-dom overhead, no framework caused issues at runtime.  
 > less Testing/Dependency issues:  unexpected reactions, conflicts, misunderstanding source of issues.  
 > less Errors: due to not having runtime dependencies, or external factors except your own code.  
 
@@ -240,9 +242,9 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 <br>  
 
 ## **Web Development - about definitions**   
-- `Front-end`: Web app/site, Develop/Design of client side. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
-- `Back-end`: Processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
-- `DevOps`: Admin, analytics, control, process, automation tools.  
+- `Front-end`: Dev/Design of client side web app/site, dev/Design. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
+- `Back-end`: processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
+- `DevOps`: manage and process dev/product ecosystem. analytics, control, automation on Local, remote, distributed systems  
 - `Cloud`: online server platforms, you can subscribe to services: process, storage, resources, ready made functions.  
 - `Cloud services`:  when you don't have a scalable server/resources. 2- require API/Apps/services from amazon, google,... 
 - `Developer Experience`: (DX) satisfaction rate of developer, plus how empowering, practical, direct, and unambiguous it be.  
@@ -258,8 +260,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  **2. New web standards** -> ES6/next, new HTML, new CSS (grid,...)  practice/try what you learn.  
  **3. Update the previous apps you made**, using new things you learned. make a game and a blog site.  
  **4. Deploy**: learn how to host/deploy your site.  Host on cloudflare pages, deno deploy, begin, netlify, github pages,...  
- **5. Learn a Framework**s: Svelte. current best Dev Experience. Light, simple, fast, code compiles to standard JS (not limited).  
- **6. Learn only when required** learn extra stuff once you require(or predict) it. (Ex: DB, AI, specific tools/libs...)  
+ **5. Learning decision**: learn extra stuff once is required(predict it). (Ex: DB, AI, specific tools/libs...)  
+ **6. Learn a Framework**: better Dev-eXp & scoping. composable, reusable components, structure and configuration.  
  **7. Learn Design**: Patterns, tools, UI/UX(user interface/experience). Concepts: visual clarity, visual effects, utility 1st.  
  **8. Responsive design**: native looks, any device, clear focus, usability/accessibility. CSS flex, grid...  
  **9. Backend**: 1. Sveltekit(if using svelte) ___ 2. Deno: new js-runtime replacement for Node.js by its creator.  
