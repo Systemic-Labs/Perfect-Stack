@@ -74,7 +74,8 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ### AGI - LLM models
 - [Top Ranked]():  `Claude-3-Opus`, `GPT4-next`, `Grok`, `Llama-3-400B+ instruct`.  
 - [Opensource](): `Phi3` _ `LLama3` _ `Mixtral` _ `Command R+` _ `DBRX`.  
-- [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3-8B instruct`.  
+- [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3-8B instruct`.
+- [Vision/LM](): `PaliGemma` combined visual+text LLM + good fine-tunning on specific use-case.  
 
 <sub> * `AGI`(Artificial General Intelligence) .... `MoE`(Mixture of Experts) </sub>  
 <br>
@@ -83,7 +84,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 - [Autonomous Agents]() _ `long-term mem`: [MemGPT]() - [CrewAI]() _ `+toolchain`: [Langchain]() - `AutoGPT`  
 - [Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
 - [Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP: `MidJourney`, `FreePik`, `Adobe Firefly`  
-- [Visual input](): `Grok vision` - [Video creation](): `Sora ` most realistic videos by now.
+- [Visual input](): `Grok vision` - [Video creation](): `Sora ` most realistic videos bythe mean time.
 - [Code assist](): `Github Copilot` - `GPT-4 Chat/API` - [open-source](): `Open Devin` - `Devika`.
 - [Dev Assist](): interact with a website: `GPT Crawler` - Local AI Hub: `LM-studio` - `Jan` 
 <br>
@@ -157,8 +158,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - `Innovative `: Drizzle + Turso - EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vector DBs (AI use-cases).  
 - `Open Source`: `libSQL` (fastest SQL on edge), `Arango DB` (multi-model) both can self host or cloud.    
 - `Recommendations`:  
-  > **` Nostr`** : decentralized, free, secure, privacy, best social/chat/communication protocol and DB store.  
-  > **` Turso`** : edge networks,  using libSQL the open source fork of SQLite.  
+  > **` Nostr`** : decentralized communication protocol. user ownership of data, privacy and sharing.  
+  > **` Turso`** : libSQL DB on cloud/edge networks, libSQL is a fork of SQLite but both local, remote and server.  
   > **` Drizzle`**: the only ORM worth using, **`Reason`**: work with various DB formats without knowing them.  
   > **` EdgeDB`**: simple + you prefer EdgeQL + includes ORM/graphQL-ish model (no need for seperate ORM).  
   > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.  
