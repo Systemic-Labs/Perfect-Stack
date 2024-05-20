@@ -75,7 +75,7 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 - [Top Ranked]():  `Claude-3-Opus`, `GPT4-next`, `Grok`, `Llama-3-400B+ instruct`.  
 - [Opensource](): `Phi3` _ `LLama3` _ `Mixtral` _ `Command R+` _ `DBRX`.  
 - [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3-8B instruct`.
-- [Vision/LM](): `PaliGemma` combined visual+text LLM + good fine-tunning on specific use-case.  
+- [Vision/LM](): `PaliGemma` combined visual+text LLM + can fine-tune well for specific use-case.  
 
 <sub> * `AGI`(Artificial General Intelligence) .... `MoE`(Mixture of Experts) </sub>  
 <br>
@@ -83,10 +83,10 @@ Therefore If you're not forced or bound to a legacy eco-system or specific rules
 ### Tools, Audio, Video...
 - [Autonomous Agents]() _ `long-term mem`: [MemGPT]() - [CrewAI]() _ `+toolchain`: [Langchain]() - `AutoGPT`  
 - [Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
-- [Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP: `MidJourney`, `FreePik`, `Adobe Firefly`  
+- [Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP-(user): `MidJourney`, `FreePik`, `Adobe Firefly`  
 - [Visual input](): `Grok vision` - [Video creation](): `Sora ` most realistic videos bythe mean time.
 - [Code assist](): `Github Copilot` - `GPT-4 Chat/API` - [open-source](): `Open Devin` - `Devika`.
-- [Dev Assist](): interact with a website: `GPT Crawler` - Local AI Hub: `LM-studio` - `Jan` 
+- [Dev Assist](): - Local AI Hub: `Ollama UI` `LM-studio` `Jan` - interact with a website: `GPT Crawler`  
 <br>
 
 Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai Jason](https://www.youtube.com/@AIJasonZ/videos) - [Matthew Berman](https://www.youtube.com/@matthew_berman/featured) 
@@ -181,8 +181,10 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
     - **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources / Big Community, Support.  
     - **`Go`**: (Low/Med level): simple good syntax, well developed/maturity, good for backend.  
     - **`Nim`**(speed/semi python syntax). **`Mojo`**: (+semi-python, resources, AI, Devs).  
-  - **(High level)**: **Platforms ecosystem**: `All: Web/JS`, `AI: Python`, `Mac/IOS: Swift`.  
-  - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`.  
+  - **(High level)**: **Platforms ecosystem**: `All: Web/JS`, `AI: Python, Any(APIs)`, `Mac/IOS: Swift`.  
+  - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.
+  - **`Bend`**: Parallel process computation that utilize CPU/GPU cores without specific/Low-level methods (Cuda, Metal,...)  
+
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
 - **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
