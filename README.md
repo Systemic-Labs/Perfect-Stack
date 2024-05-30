@@ -134,9 +134,9 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
    > `UnoCSS` (short codes, presets, functions)  
    > `Lightening CSS` (tooling, optimizing, speed, new tech)  
   - **`UI structure`** (you do custom style): renderless, headless ui, Melt UI, Bits UI (Svelte).  
-  - **`Minimal UI Libs`**: pico css, BeerCSS, DaisyUI(CSS lib).  
+  - **`Minimal UI Libs`**: pico css, BeerCSS, DaisyUI(pure CSS lib),   
   - **`CSS toolkit`**:  UnoCSS - compiles other CSS frameworks into standard CSS.  
-  - **`UI-Kits`**: Daisy UI(CSS) .... fully functional components:  Skeleton, flowbite...  
+  - **`UI-Kits`**: Daisy UI(CSS) .... `functional components`:  Skeleton, flowbite, ShadCN.  
   - **`3D (WebGL/GPU)`**:  Spline, Babylone.js, Three.js(lower level), Threlte(Svelte+three), Unity Tiny.  
   
   
@@ -231,9 +231,10 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 
 ### [Fullstack](#fullstack): 
 **`Sveltekit`**: complete yet custom scalable solution, flexible use of frontend + backend.  
-> *Best web/app framework + DX, combined best practices and innovations in web ecosystem.*
+> *Best web/app framework + DX, combined best practices and innovations in web ecosystem.*  
 **`Phoenix`**: Live view generative FE + Elixir BE. highly focused on server/backend oriented dev.
-**`Astro`**: your frontend of choice + a unified good set of patterns on backend, predifined tools, DB!  
+**`Astro`**: your frontend of choice + a unified good set of patterns on backend, predifined tools, DB!
+**`Custom Build`**: `Vite(bundler/dev-server)` + `Nitro(Server)` + `Vinxi(Router)` + `FE framework/tools`  
 
 **`Node.js cloudish frameworks`**:  Next(Vercel/React), Nuxt(VUE), Astro(multi platform).  
 <br>  
