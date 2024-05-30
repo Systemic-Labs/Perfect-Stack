@@ -5,11 +5,14 @@
 ### `A precise developer tech guide` + `Awesome-list of recommendations`  
 
 - This document covers information for best practices, libs, tech stack, platforms, tools,...  
-- Decisions have long-term impact. Your dev-stack/toolchain + work plan/method/strategy is the building base of your goal.  
-- Making right choices per goals, and progress forward, is self-respecting yourself and your skills.  
-- Nothing is perfect, yet better options helps. The recommendations are based on multiple factors, either tested or reviewed by the most expert in the field.   
-- [To Contribute]() >> `add links` to items, `reason/prove` an obviously better option, `improve doc`.  
+- The multiple options in each category, are for you to decide based on your goals.(compare X vs Y, pros/cons, use-case)  
+- Recommendations made based on various factors, using or try/test some items and compared reviews of experts in the field.  
+> Decisions have long-term impacts. Dev-stack/toolchain + working method/strategy impacts your progress.  
+> Making right choices early on, increase success and progress chances, self-respecting your skills.  
+> Nothing's perfect, yet better options/methods improves DX, workflow, structure, progress, efficiency.  
+ 
 
+> [To Contribute]() >> `add links` to items, `reason/prove` an obvious better option, `improve doc`.  
 > <sub> * target users: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
 <br>
   
@@ -24,18 +27,23 @@
 
 ## [`To beginners and startups`](#to-beginners-and-startups)  
 
-> Don't Adapt tech or make decisions just based on popularity hype...  
-...instead, decide based on multiple factors, such as:  
-[Pros]()/[Cons](), [Comparisons](), [Best fit for task](), [Problem solves]() [Rate/Popularity]()  
+> Don't adopt tech/skill options just based on current market hype or job search...  
+...instead, decide based on multiple factors, such as:
+
+### Checklists:  
+
+[Pros]()/[Cons]() - [Compare/Reviews]() - [Best fit for task](),
+[Problem solves]() - [Use-case/Goal]() - [Rate/Popularity]()
+
 [Goals](): `work-type`: startup/job/personal __ `focus target`: start, scale, migrate, profit.  
 [Impacts](): team, users, dev-cycle, stablity, milestone, cost, completeness...
 <details> <summary>... expand topic ↴ </summary>  
-Majority of developers adapted older popular tech/methods by the circumstances in past, either guided/dictated to use, by workplace/education requirements, or just due to common hype, popularity, senior advice..., or the 1st/only option in that category, in the past, but not the best choice now.  
+Majority of developers adopted older popular tech/methods by the circumstances in past, by workplace/education requirements job offers, senior advice, or the 1st option encountered, or just due to common hype, in the past, but not the best choice now.  
 This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, or bad/slow pace, as it holds to legacy patterns, and compatibility patches to make it work with ongoing needs of the users.  
 
-Therefore instead of pop trends, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`,  deciding better tech/methods, results in productivity, efficiency and saves cost.  
+Therefore instead of market hype, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`, deciding better tech/methods, results in productivity, efficiency and saves time/cost.  
 
-Therefore If you're not forced or bound to a legacy eco-system or specific rules/conditions, do your research, compare options, and make decision which benefit in long-term.  
+Therefore If you're not forced or bound by a legacy eco-system or specific rules/conditions, do your research, compare options, and make decisions you benefit.  
 [*...extra pointers on this topic...>>*](#new-developer-or-decision-maker)  
 </details>  
 
