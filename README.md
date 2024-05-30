@@ -4,10 +4,10 @@
 
 ### `A precise developer tech guide` + `Awesome-list of recommendations`  
 
-- This document covers information for best practices, libs, tech stack, platforms, tools,...  
-- The multiple options in each category, are for you to decide based on your goals.(compare X vs Y, pros/cons, use-case)  
-- Recommendations made based on various factors, using or try/test some items and compared reviews of experts in the field.  
-> Decisions have long-term impacts. Dev-stack/toolchain + working method/strategy impacts your progress.  
+- This article covers about: `best practices` + `awesome list of`: libs, tech stack, platforms, tools...  
+- The multiple options are for you to decide based on your goals.(compare X vs Y, pros/cons, use-case..)  
+- Recommendations made based on various factors summary, by comparing reviews of few expert on the field.  
+> Decisions have long-term impact. Dev-stack/toolchain + working method/strategy impacts your progress.  
 > Making right choices early on, increase success and progress chances, self-respecting your skills.  
 > Nothing's perfect, yet better options/methods improves DX, workflow, structure, progress, efficiency.  
  
@@ -78,12 +78,13 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 ### General  
 - [Chat/Prompt](): Online: `Groq` - `ChatGPT` - Local: `chat with RTX` - `Jan`.  
 - [Platform / API](): `Nvidia NIM`, `OpenAI`, `Clarifi(various)`, `Google`, `Microsoft`, `x.ai`.  
-- [Browser/Runtime (client/local)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Jan/Nitro`  
+- [Browser/Runtime (client/local)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Jan/Nitro`
+- [AI Strategy](): `first local`, `Specific`, `in-context learning > fine-tuning EiF to usecase > RAG`  
 <br>
 
 ### AGI - LLM models
-- [Top Ranked]():  `Claude-3-Opus`, `GPT4-next`, `Grok`, `Llama-3-400B+ instruct`.  
-- [Opensource](): `Phi3` _ `LLama3` _ `Mixtral` _ `Command R+` _ `DBRX`.  
+- [Top Ranked]():  `Claude-3-Opus`, `GPT4-o-next`, `Grok`, `Llama-3-400B+ instruct`.  
+- [Opensource](): `Phi3` _ `Mixtral MoE` _ `Command R+` _ `DBRX`.  
 - [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3-8B instruct`.
 - [Vision/LM](): `PaliGemma` combined visual+text LLM + can fine-tune well for specific use-case.  
 
@@ -156,7 +157,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 > 1. Amazon AWS .... 2. Google/Firebase  .... 3. Azure (Microsoft)  
 
 - #### [`Alternatives`](#alternatives): 
-  - `Cloud/CMS/Server` -> Vercel, Supabase `|` Prismic, Builder.io `|` `Self host`: PocketBase, Sveltia.  
+  - `Cloud`: Vercel, Supabase - `CMS`: Prismic, Builder.io
+  - `Self-host`: [Cloud](): Coolify - [CMS](): Sveltia - [Server](): `PocketBase`  
   - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
   - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js => free, encrypted, distributed(web torrent).  
   - `Fullstack servers` + `default options`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
