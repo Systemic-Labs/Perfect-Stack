@@ -2,10 +2,12 @@
 # [Perfect-Stack](#perfect-stack--i)  🛠i
 <br>  
 
-### `A development guide` - `a precise DevTech Award` - `awesome-list of recommendations`  
+### `A precise developer tech guide` + `Awesome-list of recommendations`  
 
 - This document covers information for best practices, libs, tech stack, platforms, tools,...  
-- Decide best options for your use-case, not a conformist who only follows popularity.  
+- Decisions have long-term impact. Your dev-stack/toolchain + work plan/method/strategy is the building base of your goal.  
+- Making right choices per goals, and progress forward, is self-respecting yourself and your skills.  
+- Nothing is perfect, yet better options helps. The recommendations are based on multiple factors, either tested or reviewed by the most expert in the field.   
 - [To Contribute]() >> `add links` to items, `reason/prove` an obviously better option, `improve doc`.  
 
 > <sub> * target users: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
