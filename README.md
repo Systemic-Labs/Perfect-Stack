@@ -2,14 +2,14 @@
 # [Perfect-Stack](#perfect-stack--i)  🛠i
 <br>  
 
-### `A precise developer tech guide` + `Awesome-list of recommendations`  
+### `Awesome-list of recommendations` + `A good developer tech guide`   
 
-- This article covers about: `best practices` + `awesome list of`: libs, tech stack, platforms, tools...  
-- The multiple options are for you to decide based on your goals.(compare X vs Y, pros/cons, use-case..)  
-- Recommendations made based on various factors summary, by comparing reviews of few expert on the field.  
-> Decisions have long-term impact. Dev-stack/toolchain + working method/strategy impacts your progress.  
-> Making right choices early on, increase success and progress chances, self-respecting your skills.  
-> Nothing's perfect, yet better options/methods improves DX, workflow, structure, progress, efficiency.  
+- [Article is about](): `best practices` + `awesome list` of: libs, tech stack, platforms, tools...  
+- [Multiple options](): are for you to decide based on your goals.(compare X vs Y, pros/cons, use-case..)  
+- [Recommendations based on](): various factors summary, by comparing reviews of few expert on the field.  
+> [Decisions](): have long-term impact. Dev-stack/toolchain + working method/strategy impacts your progress.  
+> [Making right choices](): early on, increase success and progress chances, self-respecting your skills.  
+> [Nothing's perfect, yet...]() better options/methods improves DX, workflow, structure, progress, efficiency.  
  
 
 > [To Contribute]() >> `add links` to items, `reason/prove` an obvious better option, `improve doc`.  
@@ -66,6 +66,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - 1st learn the basics including the new updates. Ex:  for web >> Basics and new additions of JS, HTML, CSS.  
 - Learn the main skill from Docs, or best resources, search for recent materials with high views/stats on youtube.  
 - Group work, join friends, divide tasks/learning, share your findouts, practice as a team, is too much for one person.  
+  
 > ` Go to beginner guideline details `-> [Web-Dev guideline](#web-development-guideline)  
 ***
 <br>  
