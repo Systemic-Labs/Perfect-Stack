@@ -2,18 +2,21 @@
 # [Perfect-Stack](#perfect-stack--i)  🛠i
 <br>  
 
-### `Awesome-list of recommendations` + `A good developer tech guide`   
+## *Awesome-list of developer's stack*: `tech` - `tools` - `guide`  
+<br>
 
 - [Article is about](): `best practices` + `awesome list` of: libs, tech stack, platforms, tools...  
 - [Multiple options](): are for you to decide based on your goals.(compare X vs Y, pros/cons, use-case..)  
-- [Recommendations based on](): various factors summary, by comparing reviews of few expert on the field.  
-> [Decisions](): have long-term impact. Dev-stack/toolchain + working method/strategy impacts your progress.  
-> [Making right choices](): early on, increase success and progress chances, self-respecting your skills.  
-> [Nothing's perfect, yet...]() better options/methods improves DX, workflow, structure, progress, efficiency.  
- 
+- [Recommendations based on](): various factors summary, by comparing reviews of few expert on the field.
+<br>
 
-> [To Contribute]() >> `add links` to items, `reason/prove` an obvious better option, `improve doc`.  
-> <sub> * target users: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
+> [*Decisions*](): have long-term impact. Dev-stack/toolchain + working method/strategy impacts your progress.  
+> [*Making right choices*](): early on, increase success and progress chances, self-respecting your skills.  
+> [*Nothing's perfect*, yet...]() better options/methods improves DX, workflow, structure, progress, efficiency.  
+<br>
+
+[To Contribute]() >> `add links` to items, `reason/prove` an obvious better option, `improve doc`.  
+><sub>* target users - keywords: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
 <br>
   
   
