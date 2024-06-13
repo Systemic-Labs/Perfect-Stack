@@ -2,12 +2,12 @@
 # [Perfect-Stack](#perfect-stack--i)  🛠i
 <br>  
 
-## *Awesome-list of developer's stack*: `tech` - `tools` - `guide`  
+## ` The Awesome-list ` <sub> and developer's guide on : `tech` - `tools` - `Libs` - `Frameworks`</sub>  
 <br>
 
-- [Article is about](): `best practices` + `awesome list` of: libs, tech stack, platforms, tools...  
+- [Article is about](): `best practices` + `guide` + `awesome list` of tech-stack(libs,tools...), platforms, workflow.  
 - [Multiple options](): are for you to decide based on your goals.(compare X vs Y, pros/cons, use-case..)  
-- [Recommendations based on](): various factors summary, by comparing reviews of few expert on the field.
+- [Recommendations](): given based on summary of various factors: test or compared reviews of experts on the field.
 <br>
 
 > [*Decisions*](): have long-term impact. Dev-stack/toolchain + working method/strategy impacts your progress.  
@@ -21,26 +21,30 @@
   
   
 ## [`Shortcuts`](#shotcuts) >>
->  ### [ Awesome list](#awesome-list)  
+>  ### [ Starter intro ](#basic-intro)
+>  ### [ Awesome list](#awesome-list)
 >  ### [ Frameworks - more info/details](#frameworks-information)  
 >  ### [ Extra information and discussion](#extra-information)  
 
 ***
 <br>  
 
-## [`To beginners and startups`](#to-beginners-and-startups)  
+##  Starter intro  
 
-> Don't adopt tech/skill options just based on current market hype or job search...  
+### [`To beginners and startups`](#to-beginners-and-startups)  
+
+> Don't make technical decisions just based on what others do, market hype, popular trends...  
 ...instead, decide based on multiple factors, such as:
 
-### Checklists:  
-
-[Pros]()/[Cons]() - [Compare/Reviews]() - [Best fit for task](),
-[Problem solves]() - [Use-case/Goal]() - [Rate/Popularity]()
-
-[Goals](): `work-type`: startup/job/personal __ `focus target`: start, scale, migrate, profit.  
-[Impacts](): team, users, dev-cycle, stablity, milestone, cost, completeness...
-<details> <summary>... expand topic ↴ </summary>  
+[Pros/Cons - Review Comparison]() - [Requirements]()- [Best fit / Integration](),  
+[Problem solves]() - [Feasable / Accessible]() - [High Rated]() - [Popularity](),  
+[Focus / Goals]() - [Priority / Importance]() - [Stable Eco-system]()  
+and finalize your decision considering: 
+- `Main Priority` - `Best fitting` - `Feasable?`(Can be done? adopt/implement/execute)  
+- `Work type`: startup/job/personal - `State`: start, scale, remake/migrate, available.  
+- `Impact`: team, users, cost, dev-cycle, integration, stablity, milestone, completion.  
+  
+<details> <summary>...Why? >> press to expand this topic ↴ </summary>  
 Majority of developers adopted older popular tech/methods by the circumstances in past, by workplace/education requirements job offers, senior advice, or the 1st option encountered, or just due to common hype, in the past, but not the best choice now.  
 This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, or bad/slow pace, as it holds to legacy patterns, and compatibility patches to make it work with ongoing needs of the users.  
 
