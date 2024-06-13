@@ -21,7 +21,7 @@
   
   
 ## [`Shortcuts`](#shotcuts) >>
->  ### [ Starter intro ](#basic-intro)
+>  ### [ Starter intro ](#starter-intro)
 >  ### [ Awesome list](#awesome-list)
 >  ### [ Frameworks - more info/details](#frameworks-information)  
 >  ### [ Extra information and discussion](#extra-information)  
@@ -40,11 +40,12 @@
 [Problem solves]() - [Feasable / Accessible]() - [High Rated]() - [Popularity](),  
 [Focus / Goals]() - [Priority / Importance]() - [Stable Eco-system]()  
 and finalize your decision considering: 
-- `Main Priority` - `Best fitting` - `Feasable?`(Can be done? adopt/implement/execute)  
-- `Work type`: startup/job/personal - `State`: start, scale, remake/migrate, available.  
+- `Main Priority` - `Best fitting` - `Feasable? Can be done? (adopt / implement / execute)`  
+- `Work type`: startup/job/personal - `State`: start / scale / remake / migrate / available.  
 - `Impact`: team, users, cost, dev-cycle, integration, stablity, milestone, completion.  
   
 <details> <summary>...Why? >> press to expand this topic ↴ </summary>  
+  
 Majority of developers adopted older popular tech/methods by the circumstances in past, by workplace/education requirements job offers, senior advice, or the 1st option encountered, or just due to common hype, in the past, but not the best choice now.  
 This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, or bad/slow pace, as it holds to legacy patterns, and compatibility patches to make it work with ongoing needs of the users.  
 
