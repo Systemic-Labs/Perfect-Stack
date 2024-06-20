@@ -23,6 +23,7 @@
 ## [`Shortcuts`](#shotcuts) >>
 >  ### [ Starter intro ](#starter-intro)
 >  ### [ Awesome list](#awesome-list)
+>  ### [_Programming Languages](#programming-languages)  
 >  ### [ Frameworks - more info/details](#frameworks-information)  
 >  ### [ Extra information and discussion](#extra-information)  
 
@@ -119,13 +120,13 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 <br>
 
 ## [Frameworks](#frameworks--)  >>
- - **`Mobile`**: Native device SDK......Open Web based (multi-platform): Socket, Tauri, Capacitor  
+ - **`Mobile`**: [Web based:]() (multi-platform) Tauri, Socket - Capacitor [Native:]() device SDK(only if required)  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
- - **`Front-end`**: Svelte(best overall, best DX),  Vue(past populary, jobs), Solid(React replacement).  
+ - **`Front-end`**: Svelte(best overall, best DX) - Vue(past populary, jobs) - Solid(React replacement).  
  - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages...  
  - **`Full-stack`**: Svelte-kit (true fullstack) - Astro(many frameworks) - Next/Nuxt (popular backends)  
  - **`Crossplatform`**: Socket runtime (Desktop, Mobile, P2P net/storage)  
- - **`Programming Languages`**:  Zig, Rust, Go, Mojo, Swift... (per use-case: Server/Backend, AI, Mobile).  
+ - **`Programming Languages`**:  JS, Zig, Rust, Go, Elixir, Mojo... is based on use-case: client/server, AI, Mobile. [(..more)>>]()  
 <br>  
 
 ### [UI](#ui-) >>  
@@ -195,17 +196,19 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - `WebRTC / WebTorrent`  applications of distributed net, shared, p2p, serverless, save cost, user privacy/annonymity.  
 - `ORM (DB interaction model)` custom SQL/nonSQL query access method. custom relational behavior, code to DB interfacing.  
 
-### [Other stuff](#other-stuff):
-- **`Programming Languages`**:
+
+### [Programming Languages](#programming-languages):
   - **(Low level)**
-    - **`Carbon`**(semi C++), `Zig`, **`Julia`**: LL Performance, High-Level syntax.  
-    - **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources / Big Community, Support.  
+    - **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources/ Community.  
+    - **`Carbon`**(semi C++) - `Zig` - **`Julia`**: low-level Performance, high-level syntax.  
     - **`Go`**: (Low/Med level): simple good syntax, well developed/maturity, good for backend.  
     - **`Nim`**(speed/semi python syntax). **`Mojo`**: (+semi-python, resources, AI, Devs).  
-  - **(High level)**: **Platforms ecosystem**: `All: Web/JS`, `AI: Python, Any(APIs)`, `Mac/IOS: Swift`.  
-  - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.
-  - **`Bend`**: Parallel process computation that utilize CPU/GPU cores without specific/Low-level methods (Cuda, Metal,...)  
+  - **(High level)**
+    - **platform based**: `All: Web/JS`, `AI: Python, Any(APIs)`, `Mac/IOS: Swift`.  
+    - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.  
+    - **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal...)  
 
+  
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
 - **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
