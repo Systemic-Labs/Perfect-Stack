@@ -101,7 +101,6 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - [Vision/LM](): `PaliGemma` combined visual+text LLM + can fine-tune well for specific use-case.  
 
 <sub> * `AGI`(Artificial General Intelligence) .... `MoE`(Mixture of Experts) </sub>  
-[_^_](#shortcuts-)  
 <br>
 
 ### Tools, Audio, Video...
@@ -118,7 +117,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 
 ##### `About ` [Different AI generations](#about-ai---generations) >>  
 ##### *[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  
-
+[_^_](#shortcuts-)  
 ---
 <br>
 
@@ -130,6 +129,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  - **`Full-stack`**: Svelte-kit (true fullstack) - Astro(many frameworks) - Next/Nuxt (popular backends)  
  - **`Crossplatform`**: Socket runtime (Desktop, Mobile, P2P net/storage)  
  - **`Programming Languages`**:  JS, Zig, Rust, Go, Elixir, Mojo... is based on use-case: client/server, AI, Mobile. [(..more)>>]()  
+[_^_](#shortcuts-)  
 <br>  
 
 ### [UI](#ui-) >>  
@@ -160,6 +160,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  - `Skeleton UI`- best UI components Kit for Svelte framework.  
  - `Agnostic UI`- various pros, in case it benefit your work.  
  - `BeerCSS` - better option in case you're into material design concept.  
+[_^_](#shortcuts-)  
 <br>  
 
 ### [Cloud platforms](#cloud-platforms):  
@@ -175,7 +176,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
   - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
   - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js => free, encrypted, distributed(web torrent).  
   - `Fullstack servers` + `default options`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
-
+[_^_](#shortcuts-)  
 
 ### [Database](#database):
 - `Next-Gen`: Nostr, AT protocol, GunDB - decentrlized, secure, extra features(DB+SN/COMM).  
@@ -187,7 +188,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
   > **` Turso`** : libSQL DB on cloud/edge networks, libSQL is a fork of SQLite but both local, remote and server.  
   > **` Drizzle`**: the only ORM worth using, **`Reason`**: work with various DB formats without knowing them.  
   > **` EdgeDB`**: simple + you prefer EdgeQL + includes ORM/graphQL-ish model (no need for seperate ORM).  
-  > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.  
+  > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.
+[_^_](#shortcuts-)  
 <br>  
 
 ### [API / Communication patterns](#api):
@@ -210,8 +212,9 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
     - **platform based**: `All: Web/JS`, `AI: Python, Any(APIs)`, `Mac/IOS: Swift`.  
     - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.  
     - **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal...)  
+[_^_](#shortcuts-)  
 
-  
+### [Other stuff]()  
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
 - **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
@@ -220,7 +223,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - **`Dev/Repo` Platforms**: Github, Gitlab, Gitea (self-host), Stackblitz, Notion, Collab...  
 - **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...
 - **`Kubernetes`**: Fault Taulerant application containers to manage scale, monitor, resources.  
-- **`Other stuff`**: find useful libs, online tools, AI tools, which help and improve DX.  
+- **`Other stuff`**: find useful libs, online tools, AI tools, which help and improve DX.
+[_^_](#shortcuts-)  
 ***
 <br>  
 
@@ -241,7 +245,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
   - **`Bun`** : Node.js compatible but higher performance.  
 
 #### Python eco-system:  jobs, popularity, AI libs/community, resources, ease of usage, +beginners.  
-
+[_^_](#shortcuts-)  
 <br>  
 
 ### [Fullstack](#fullstack): 
@@ -282,7 +286,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - `Correct development method` ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
 - `Software Engineering`:  use engineering principles and process-methods to approach the issue/task.  
 - `Solution Architect`: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations.  
-> A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.  
+> A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.
+[_^_](#shortcuts-)  
 ***
 
 
@@ -299,7 +304,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  **10.Personal** various experiences, use GIT, github, Make a portfolio site (show case). a social profile: Linkedin + twitter.  
  **11.Testing/Typing**: only if neccessary and: in large teams on complex projects with security risk or much new/junior/outsourced devs.  
  **12.Summary**: Be an expert in one field, pro on few more, know about the rest. Fullstack: Frontend + Backend + Eco-system + Experience.  
-
+[_^_](#shortcuts-)  
 
 ## **[About AI - Generations](about-ai---generations)**
 
@@ -322,6 +327,7 @@ The past generation recognise, detect, compose a result, This new generation und
 - the output iterates/evolves based on all defined parameters, whatever interacts with it.  
 - time-scalable, includes a history record, remember and relates, process past and current events, consider future.  
 - optional autonomous act: triggers new events or impact external entities, based on various factors/parameters + input/sensor data.  
+[_^_](#shortcuts-)
 
  ### [Work Tips](#work-tips):
  - Better: learn best new tech options, practice, freelance, get hired, build an idea startup team.
@@ -342,6 +348,8 @@ Good news, the new web standards and innovations, improved the situation, furthe
 
 Whenever learning something, learn latest stable standards and best practices, some of the old prefixes, 3rd party libs,... are not required anymore...(as explained above) unless is justified, mandatory or no alternatives. The recommended trends mentioned here were handpicked by checking reviews comparison, personal experiments, and by looking into new trends top professionals adopt.  
 </details>
+
+[_^_](#shortcuts-)  
 ***
 <br>  
 
@@ -364,7 +372,8 @@ Whenever learning something, learn latest stable standards and best practices, s
 - Low level coding is not affected much by the mentioned issues. they rarely change, and if so, is about new features, compatibility and stability.  
 
 - Unnessecary overhead: as old devs retire,  new ones might add extra layers of abstraction instead of updating the original code, these issues cause: extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...
-
 </details>
+
+[_^_](#shortcuts-)  
 ***
 <br>  
