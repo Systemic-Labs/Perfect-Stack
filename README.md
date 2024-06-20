@@ -117,7 +117,9 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 
 ##### `About ` [Different AI generations](#about-ai---generations) >>  
 ##### *[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  
-[_^_](#shortcuts-)  
+
+[_^_](#shortcuts-)
+
 ---
 <br>
 
@@ -128,7 +130,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages...  
  - **`Full-stack`**: Svelte-kit (true fullstack) - Astro(many frameworks) - Next/Nuxt (popular backends)  
  - **`Crossplatform`**: Socket runtime (Desktop, Mobile, P2P net/storage)  
- - **`Programming Languages`**:  JS, Zig, Rust, Go, Elixir, Mojo... is based on use-case: client/server, AI, Mobile. [(..more)>>]()  
+ - **`Programming Languages`**:  JS, Zig, Rust, Go, Elixir, Mojo... is based on use-case: client/server, AI, Mobile. [(..more)>>]()
+
 [_^_](#shortcuts-)  
 <br>  
 
@@ -159,7 +162,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  - `DaisyUI` - best CSS UI lib you can get where JS is optional (pre UI kit).  
  - `Skeleton UI`- best UI components Kit for Svelte framework.  
  - `Agnostic UI`- various pros, in case it benefit your work.  
- - `BeerCSS` - better option in case you're into material design concept.  
+ - `BeerCSS` - better option in case you're into material design concept.
+
 [_^_](#shortcuts-)  
 <br>  
 
@@ -175,7 +179,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
   - `Self-host`: [Cloud](): Coolify - [CMS](): Sveltia - [Server](): `PocketBase`  
   - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
   - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js => free, encrypted, distributed(web torrent).  
-  - `Fullstack servers` + `default options`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
+  - `Fullstack servers` + `default options`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)
+
 [_^_](#shortcuts-)  
 
 ### [Database](#database):
@@ -189,6 +194,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
   > **` Drizzle`**: the only ORM worth using, **`Reason`**: work with various DB formats without knowing them.  
   > **` EdgeDB`**: simple + you prefer EdgeQL + includes ORM/graphQL-ish model (no need for seperate ORM).  
   > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.
+
 [_^_](#shortcuts-)  
 <br>  
 
@@ -211,7 +217,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
   - **(High level)**
     - **platform based**: `All: Web/JS`, `AI: Python, Any(APIs)`, `Mac/IOS: Swift`.  
     - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.  
-    - **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal...)  
+    - **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal...)
+
 [_^_](#shortcuts-)  
 
 ### [Other stuff]()  
@@ -224,12 +231,22 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...
 - **`Kubernetes`**: Fault Taulerant application containers to manage scale, monitor, resources.  
 - **`Other stuff`**: find useful libs, online tools, AI tools, which help and improve DX.
+
 [_^_](#shortcuts-)  
 ***
 <br>  
 
 ## [Frameworks information](#frameworks-information)  
 <br>  
+
+### [Frameworks Architecture](#frameworks-architecture)  
+
+- `Font-end`(client side) - `Backend`(server-side) - `Fullstack`(Front and back) - `Unified Fullstack`(integrated model).  
+- **SSG** `Static Site Generation` pre-built app/content > host-CDN > page/app delivered on user request > on client side.  
+- **CSR** `Client side rendering` both static and dynamic content on client side. Updates are based on app logic and UI design.  
+- **SSR** `Server Side Rendering` UI > client > user interaction > server > processed real-time on server > new renders > client.  
+- **Modern** `Custom Multi Model` SSG + SSR + custom optimizations, only changes updates/delivers. `+performance` `+efficiency`.  
+- various features: `Reactivity` - `Signals` - `Runtime` - `Compiled` - `Snippets` - `defined structure` - `Event management`.  
 
 ### [Frontend](#frontend):  
  - **1. `Svelte`**: (Best overall), DX+, innovative, compiles to standard web, long term strategic choice.  
@@ -245,6 +262,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
   - **`Bun`** : Node.js compatible but higher performance.  
 
 #### Python eco-system:  jobs, popularity, AI libs/community, resources, ease of usage, +beginners.  
+
 [_^_](#shortcuts-)  
 <br>  
 
@@ -268,7 +286,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 **`Less Cost`**: easier to read code of other devs => continue their work + less bugs + less testing + faster development.  
 **`Smaller bundle size`** (Compiled), without virtual-dom and framework overhead...  
 
-***
+[_^_](#shortcuts-)  
 ***
 <br>  
 
@@ -286,7 +304,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - `Correct development method` ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
 - `Software Engineering`:  use engineering principles and process-methods to approach the issue/task.  
 - `Solution Architect`: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations.  
-> A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.
+> A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.  
+
 [_^_](#shortcuts-)  
 ***
 
@@ -304,7 +323,9 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  **10.Personal** various experiences, use GIT, github, Make a portfolio site (show case). a social profile: Linkedin + twitter.  
  **11.Testing/Typing**: only if neccessary and: in large teams on complex projects with security risk or much new/junior/outsourced devs.  
  **12.Summary**: Be an expert in one field, pro on few more, know about the rest. Fullstack: Frontend + Backend + Eco-system + Experience.  
+
 [_^_](#shortcuts-)  
+
 
 ## **[About AI - Generations](about-ai---generations)**
 
@@ -326,8 +347,10 @@ The past generation recognise, detect, compose a result, This new generation und
 - focused concepts and Results processed in realtime cycle, by a general purpose dynamic multi-model.  
 - the output iterates/evolves based on all defined parameters, whatever interacts with it.  
 - time-scalable, includes a history record, remember and relates, process past and current events, consider future.  
-- optional autonomous act: triggers new events or impact external entities, based on various factors/parameters + input/sensor data.  
+- optional autonomous act: triggers new events or impact external entities, based on various factors/parameters + input/sensor data.
+
 [_^_](#shortcuts-)
+
 
  ### [Work Tips](#work-tips):
  - Better: learn best new tech options, practice, freelance, get hired, build an idea startup team.
