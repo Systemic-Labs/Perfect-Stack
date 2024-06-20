@@ -20,12 +20,12 @@
 <br>
   
   
-## [`Shortcuts`](#shotcuts) >>
+## `Shortcuts` [ >> ](#shortcuts)
 >  ### [ Starter intro ](#starter-intro)
->  ### [ Awesome list](#awesome-list)
->  ### [_Programming Languages](#programming-languages)  
->  ### [ Frameworks - more info/details](#frameworks-information)  
->  ### [ Extra information and discussion](#extra-information)  
+>  ### [ Awesome list ](#awesome-list)
+>  ### [ Programming Languages ](#programming-languages)  
+>  ### [ Frameworks - more info/details ](#frameworks-information)  
+>  ### [ Extra information and discussion ](#extra-information)  
 
 ***
 <br>  
@@ -99,6 +99,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - [Vision/LM](): `PaliGemma` combined visual+text LLM + can fine-tune well for specific use-case.  
 
 <sub> * `AGI`(Artificial General Intelligence) .... `MoE`(Mixture of Experts) </sub>  
+[^](#shortcuts)  
 <br>
 
 ### Tools, Audio, Video...
