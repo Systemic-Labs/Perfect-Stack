@@ -19,8 +19,10 @@
 ><sub>* target users - keywords: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
 <br>
   
+
   
-## `Shortcuts` [ >> ](#shortcuts)
+<h1>Shortcuts </h1>  
+
 >  ### [ Starter intro ](#starter-intro)
 >  ### [ Awesome list ](#awesome-list)
 >  ### [ Programming Languages ](#programming-languages)  
@@ -99,7 +101,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - [Vision/LM](): `PaliGemma` combined visual+text LLM + can fine-tune well for specific use-case.  
 
 <sub> * `AGI`(Artificial General Intelligence) .... `MoE`(Mixture of Experts) </sub>  
-[^](#shortcuts)  
+[_^_](#shortcuts-)  
 <br>
 
 ### Tools, Audio, Video...
