@@ -129,8 +129,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  - **`Front-end`**: Svelte(best overall, best DX) - Vue(past populary, jobs) - Solid(React replacement).  
  - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages...  
  - **`Full-stack`**: Svelte-kit (true fullstack) - Astro(many frameworks) - Next/Nuxt (popular backends)  
- - **`Crossplatform`**: Socket runtime (Desktop, Mobile, P2P net/storage)  
- - **`Programming Languages`**:  JS, Zig, Rust, Go, Elixir, Mojo... is based on use-case: client/server, AI, Mobile. [(..more)>>]()
+ - **`Crossplatform`**: Tauri(desktop, mobile, Rust functions) - Socket runtime (desktop, mobile, P2P data)  
+ - **`Programming Languages`**:  JS, Zig, Rust, Go, Elixir, Mojo, all based on use-case: client/server, AI, Mobile. [(..more)>>]()
 
 [_^_](#shortcuts-)  
 <br>  
@@ -218,7 +218,12 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
     - **platform based**: `All: Web/JS`, `AI: Python, Any(APIs)`, `Mac/IOS: Swift`.  
     - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.  
     - **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal...)
-
+  
+  - **(Type Safety / Typescript)**:
+    - `Typescript`: is a semi language, a superset of JS - a type system for JS - compiles to JS.  
+    - `Valibot`: schema library for validating structural data. also usable after production build.  
+    - `...note`: only use Typescript when the usecase is valid, or required. EX: large teams - random/changing developers - immutable solid structure. Ex: developer engages potential issues/errors, and resolve them before merging or passing it to other devs), yet codebase becomes more complex, is simpler and more efficient to use a validation system, such a `Valibot`, can use it with JS too.  
+  
 [_^_](#shortcuts-)  
 
 ### [Other stuff]()  
@@ -230,7 +235,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - **`Dev/Repo` Platforms**: Github, Gitlab, Gitea (self-host), Stackblitz, Notion, Collab...  
 - **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...
 - **`Kubernetes`**: Fault Taulerant application containers to manage scale, monitor, resources.  
-- **`Other stuff`**: find useful libs, online tools, AI tools, which help and improve DX.
+
 
 [_^_](#shortcuts-)  
 ***
