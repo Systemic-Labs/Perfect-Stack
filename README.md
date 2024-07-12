@@ -182,6 +182,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
   - `Fullstack servers` + `default options`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)
 
 [_^_](#shortcuts-)  
+<br>
 
 ### [Database](#database):
 - `Next-Gen`: Nostr, AT protocol, GunDB - decentrlized, secure, extra features(DB+SN/COMM).  
@@ -206,26 +207,31 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - `WebSocket` For real time, low latency applications.  
 - `WebRTC / WebTorrent`  applications of distributed net, shared, p2p, serverless, save cost, user privacy/annonymity.  
 - `ORM (DB interaction model)` custom SQL/nonSQL query access method. custom relational behavior, code to DB interfacing.  
-
-
-### [Programming Languages](#programming-languages):
-  - **(Low level)**
-    - **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources/ Community.  
-    - **`Carbon`**(semi C++) - `Zig` - **`Julia`**: low-level Performance, high-level syntax.  
-    - **`Go`**: (Low/Med level): simple good syntax, well developed/maturity, good for backend.  
-    - **`Nim`**(speed/semi python syntax). **`Mojo`**: (+semi-python, resources, AI, Devs).  
-  - **(High level)**
-    - **platform based**: `All: Web/JS`, `AI: Python, Any(APIs)`, `Mac/IOS: Swift`.  
-    - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.  
-    - **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal...)
+<br>
   
-  - **(Type Safety / Typescript)**:
-    - `Typescript`: is a semi language, a superset of JS - a type system for JS - compiles to JS.  
-    - `Valibot`: schema library for validating structural data. also usable after production build.  
-    - `...note`: only use Typescript when the usecase is valid, or required. EX: large teams - random/changing developers - immutable solid structure. Ex: developer engages potential issues/errors, and resolve them before merging or passing it to other devs), yet codebase becomes more complex, is simpler and more efficient to use a validation system, such a `Valibot`, can use it with JS too.  
+### [Programming Languages](#programming-languages):  
+
+#### Low level  
+- **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources / Community.  
+- **`Zig`** - **`Carbon`**: C++ alternatives - **`Julia`**: low-level Performance, high-level syntax.  
+- **`Go`**: (Low/Med level): simple good syntax, well developed/maturity, good for backend.  
+- **`Nim`**(+fast, semi python syntax). **`Mojo`**: (+python-like, resources, AI, Devs like it).  
+    
+#### High level
+- **platform based**: `All: Web/JS`, `AI: Python, JS (APIs)`, `Mac/IOS: Swift`.  
+- **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.  
+- **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal...)
+  
+**(Type Safety / Typescript)**:
+  - `Typescript`: Not a language, a superset over JS - a type system for JS - compiles to JS.  
+  - `Valibot`: schema library for validating structural data. also on runtime and integration point.  
+  - `...note`: type safety feature is effective for specific use-case and not universal usage.  <details> <summary>`...more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. For product is only effective if is implemented at runtime and integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as immutable restricted and custom defined data structures. `Ex`: database schemas, configuration, authentication...  
+`more usecases`: large teams - random/changing developers. different developers encounter type restrictions and potential issues/errors, they are forced to resolve type and other restrictions before merging or deliver to other devs. This ensures all follow same guidelines and patterns, getting defined results... yet codebase becomes more complex, takes time and cost. It's simpler and more efficient to use a validation system, such as `Valibot`, can use it in JS too, and in runtime.  
+</details>
   
 [_^_](#shortcuts-)  
-
+<br>
+  
 ### [Other stuff]()  
 - **`Hosting`**: .. Vercel, Cloudflare Pages, Deno Deploy, Begin, Netlify.  
 - **`Store/e-commerce`**: free open-source, best for developers: `Medusa` . best for non-devs: `Shopify`.  
@@ -236,11 +242,11 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...
 - **`Kubernetes`**: Fault Taulerant application containers to manage scale, monitor, resources.  
 
-
 [_^_](#shortcuts-)  
 ***
 <br>  
 
+  
 ## [Frameworks information](#frameworks-information)  
 <br>  
 
@@ -274,8 +280,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 ### [Fullstack](#fullstack): 
 **`Sveltekit`**: complete yet custom scalable solution, flexible use of frontend + backend.  
 > *Best web/app framework + DX, combined best practices and innovations in web ecosystem.*  
-**`Phoenix`**: Live view generative FE + Elixir BE. highly focused on server/backend oriented dev.
-**`Astro`**: your frontend of choice + a unified good set of patterns on backend, predifined tools, DB!
+**`Phoenix`**: Live view generative FE + Elixir BE. Best for server oriented web development.
+**`Astro`**: your frontend of choice + a unified good set of predefined patterns, tools, DB!
 **`Custom Build`**: `Vite(bundler/dev-server)` + `Nitro(Server)` + `Vinxi(Router)` + `FE framework/tools`  
 
 **`Node.js cloudish frameworks`**:  Next(Vercel/React), Nuxt(VUE), Astro(multi platform).  
