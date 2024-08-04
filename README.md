@@ -1,8 +1,6 @@
   
-# [Perfect-Stack](#perfect-stack--i)  🛠i
-<br>  
-
-## ` The Awesome-list ` <sub> and developer's guide on : `tech` - `tools` - `Libs` - `Frameworks`</sub>  
+# `The Perfect Tech-guide & Awesome-list ` 🛠i
+### A developer's info-guide on: `tech` - `tools` - `Libs` - `Frameworks`  
 <br>
 
 - [Article is about](): `best practices` + `guide` + `awesome list` of tech-stack(libs,tools...), platforms, workflow.  
@@ -17,14 +15,13 @@
 
 [To Contribute]() >> `add links` to items, `reason/prove` an obvious better option, `improve doc`.  
 ><sub>* target users - keywords: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
-<br>
-  
+<br> 
 
   
-<h1>Shortcuts </h1>  
+# `Shortcuts `  
 
->  ### [ Starter intro ](#starter-intro)
->  ### [ Awesome list ](#awesome-list)
+>  ### [ Starter intro ](#starter-intro)  
+>  ### [ Awesome list ](#awesome-list)  
 >  ### [ Programming Languages ](#programming-languages)  
 >  ### [ Frameworks - more info/details ](#frameworks-information)  
 >  ### [ Extra information and discussion ](#extra-information)  
@@ -138,31 +135,39 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 ### [UI](#ui-) >>  
 **`Standard CSS`**:
 >
- - when more control, precision and customization or zero dependency is required.   
+ - when more control, precision and customization or zero dependency is required.
+ - Big-picture of system design is clear to a CSS specialist, just by looking at the code.  
  - new CSS standards solve much issuess developers had in the past.  
- - recommended for: small projects and teams, in any case you must master it to use libs effectively.  
+ - recommended for: highly custom UIs, advanced projects,
+ - in any case you must master it to be able to effectively design or use other libs.  
  
- **`UI Lib/kit`** - *main advantages* >> less text instructions(+readability), uniform design model in team, faster development and prototyping, tools automation.  
+ **`UI Lib/kit `** - *main advantages* >>  
+ - reduced text instructions (+readability)  
+ - more uniform design model in teams. (mostly for junior devs)  
+ - faster development and prototyping.  (mostly on abstract components)  
+ - tooling automation, pre/post processing...  
  
  ### [UI categories](#ui-categories)
  
-  - **`CSS utility framework`**:  
-   > `UnoCSS` (short codes, presets, functions)  
-   > `Lightening CSS` (tooling, optimizing, speed, new tech)  
-  - **`UI structure`** (you do custom style): renderless, headless ui, Melt UI, Bits UI (Svelte).  
-  - **`Minimal UI Libs`**: pico css, BeerCSS, DaisyUI(pure CSS lib),   
-  - **`CSS toolkit`**:  UnoCSS - compiles other CSS frameworks into standard CSS.  
-  - **`UI-Kits`**: Daisy UI(CSS) .... `functional components`:  Skeleton, flowbite, ShadCN.  
-  - **`3D (WebGL/GPU)`**:  Spline, Babylone.js, Three.js(lower level), Threlte(Svelte+three), Unity Tiny.  
+  - **`CSS utility framework`** - such as: `UnoCSS` or `Lightening CSS`(used in Tailwind)
+   > toolkit, short codes, presets, functions, optimizing, speed, minifier)  
+  - **`Headless/Structure`** (you do custom style): headless ui, Melt UI, Bits UI (Svelte)
+  - **`Tailwind CSS`**: has pro/cons, yet from v3 (mostly 4) I confirm general use-case to be valid  
+  - **`Minimal Libs`**: Melt UI(basics), Pico CSS(default styled), BeerCSS, DaisyUI(pure CSS lib)  
+  - **`CSS toolkit`**:  Tailwind or UnoCSS - build available CSS presets/syntax into standard CSS  
+  - **`UI-Kits`**: Daisy UI(CSS) .... `functional components`:  Skeleton, flowbite, ShadCN
+  - **`Icon-sets`**: `unplugin-icons` : best way of using icons, no deps, vite plugin tooling
+  - **`3D (WebGL/GPU)`**:  Spline, Babylone.js(FW), Three.js(lib), Threlte(Svelte+three), Unity Tiny  
   
   
  ### [UI Recommendations](#ui-recommendations--reason) + `reason`:
- - `UnoCSS`  - best tool for presets. (code as other Libs yet it builds to standard CSS)  
+ - `UnoCSS`  - best toolkit and  presets. (code in other Lib, compiled into standard CSS)  
  - `picoCSS` - best for predefined styling of standard HTML Tags.  
  - `DaisyUI` - best CSS UI lib you can get where JS is optional (pre UI kit).  
- - `Skeleton UI`- best UI components Kit for Svelte framework.  
- - `Agnostic UI`- various pros, in case it benefit your work.  
  - `BeerCSS` - better option in case you're into material design concept.
+ - `Shadcn`  - best customizable components kit (mostly in Shadcn-Svelte).
+ - `Skeleton UI`- best UI components kit for Svelte framework.
+ - `Agnostic UI`- various pros, in case it benefit your work.  
 
 [_^_](#shortcuts-)  
 <br>  
