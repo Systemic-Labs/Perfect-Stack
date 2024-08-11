@@ -115,8 +115,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 
 ![AI-Services-1](https://github.com/user-attachments/assets/69c474ce-51e5-43bf-9365-8b7a423dfe34)
 
-##### `About ` [Different AI generations](#about-ai---generations) >>  (outdated..)
-##### *[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  
+##### `About ` [Different AI generations](#about-ai---generations) >>  
+##### *[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  (...needs update)
 
 [_^_](#shortcuts-)
 
