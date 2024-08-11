@@ -86,15 +86,16 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 
 ### General  
 - [Chat/Prompt](): Online: `Groq` - `ChatGPT` - Local: `chat with RTX` - `Jan`.  
-- [Platform / API](): `Nvidia NIM`, `OpenAI`, `Clarifi(various)`, `Google`, `Microsoft`, `x.ai`.  
+- [Platform / API](): `Nvidia NIM`, `OpenAI`, `Clarifi(api)`, `Google`, `Microsoft`, `x.ai`  
+- [Inference Providers](): `Fireworks (best value)` - `Together.Ai` - `Repliccate` - `OctoAI`  
 - [Browser/Runtime (client/local)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Jan/Nitro`
 - [AI Strategy](): `first local`, `Specific`, `in-context learning > fine-tuning EiF to usecase > RAG`  
 <br>
 
 ### AGI - LLM models
-- [Top Ranked]():  `Claude-3-Opus`, `GPT4-o-next`, `Grok`, `Llama-3-400B+ instruct`.  
-- [Opensource](): `Phi3` _ `Mixtral MoE` _ `Command R+` _ `DBRX`.  
-- [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3-8B instruct`.
+- [Top Ranked](): `Llama-3.1-405B+ instruct`, `Claude-3-Opus`, `GPT4-o-next`, `Grok`.  
+- [Full Opensource](): `Phi3` _ `Mixtral MoE` _ `Command R+` _ `DBRX`.  
+- [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3.1-8B instruct`.
 - [Vision/LM](): `PaliGemma` combined visual+text LLM + can fine-tune well for specific use-case.  
 
 <sub> * `AGI`(Artificial General Intelligence) .... `MoE`(Mixture of Experts) </sub>  
@@ -102,7 +103,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 
 ### Tools, Audio, Video...
 - [Autonomous Agents]() _ `long-term mem`: [MemGPT]() - [CrewAI]() _ `+toolchain`: [Langchain]() - `AutoGPT`  
-- [Audio](): `Udio` text to music _ `PlayHT` or `ElevenLabs` text to speach _ `Deepgram ` speech to text  
+- [Audio](): text to music: `Udio` _ TTS: `Parler TTS` `PlayHT` `ElevenLabs` _ speech to text: `Deepgram`  
 - [Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP-(user): `MidJourney`, `FreePik`, `Adobe Firefly`  
 - [Visual input](): `Grok vision` - [Video creation](): `Sora ` most realistic videos bythe mean time.
 - [Code assist](): `Github Copilot` - `GPT-4 Chat/API` - [open-source](): `Open Devin` - `Devika`.
@@ -112,7 +113,9 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai Jason](https://www.youtube.com/@AIJasonZ/videos) - [Matthew Berman](https://www.youtube.com/@matthew_berman/featured) 
 <br>  
 
-##### `About ` [Different AI generations](#about-ai---generations) >>  
+![AI-Services-1](https://github.com/user-attachments/assets/69c474ce-51e5-43bf-9365-8b7a423dfe34)
+
+##### `About ` [Different AI generations](#about-ai---generations) >>  (outdated..)
 ##### *[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  
 
 [_^_](#shortcuts-)
