@@ -113,7 +113,8 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai Jason](https://www.youtube.com/@AIJasonZ/videos) - [Matthew Berman](https://www.youtube.com/@matthew_berman/featured) 
 <br>  
 
-![AI-Services-1](https://github.com/user-attachments/assets/69c474ce-51e5-43bf-9365-8b7a423dfe34)
+![InkedAI-Srvc11](https://github.com/user-attachments/assets/32b1a202-f94a-4eab-bdd7-5462ea415e27)
+
 
 ##### `About ` [Different AI generations](#about-ai---generations) >>  
 ##### *[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  (...needs update)
@@ -144,7 +145,7 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  - recommended for: highly custom UIs, advanced projects,
  - in any case you must master it to be able to effectively design or use other libs.  
  
- **`UI Lib/kit `** - *main advantages* >>  
+ **`UI Lib / Kit `** - *main advantages* >>  
  - reduced text instructions (+readability)  
  - more uniform design model in teams. (mostly for junior devs)  
  - faster development and prototyping.  (mostly on abstract components)  
@@ -248,7 +249,9 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - **`Audio API`**: Tone.JS(free, all round audio API),  Twilio(Call communication, speech).  
 - **`Dev/Repo` Platforms**: Github, Gitlab, Gitea (self-host), Stackblitz, Notion, Collab...  
 - **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...
-- **`Kubernetes`**: Fault Taulerant application containers to manage scale, monitor, resources.  
+- **`Kubernetes`**: Fault Taulerant application containers to manage scale, monitor, resources.
+- **Photo/Image**: format -> `Avif`, compress/encode-> `Avif encoder (best from: AOM, lovell, rav1)`  
+  - Libs: `Sharp`, `lib-vips`, `lib-heif`, `ImageMagic (good as online tool/ or cloud usage...)`  
 
 [_^_](#shortcuts-)  
 ***
@@ -288,9 +291,9 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 ### [Fullstack](#fullstack): 
 **`Sveltekit`**: complete yet custom scalable solution, flexible use of frontend + backend.  
 > *Best web/app framework + DX, combined best practices and innovations in web ecosystem.*  
-**`Phoenix`**: Live view generative FE + Elixir BE. Best for server oriented web development.
-**`Astro`**: your frontend of choice + a unified good set of predefined patterns, tools, DB!
-**`Custom Build`**: `Vite(bundler/dev-server)` + `Nitro(Server)` + `Vinxi(Router)` + `FE framework/tools`  
+**`Phoenix`**: Live view generative FE + Elixir BE. Best for server oriented web development.  
+**`Astro`**: your frontend of choice + a unified good set of predefined patterns, tools, DB!  
+**`Custom Build`**: `Vite(bundler/dev-server)` + `Nitro(Server)` + `Vinxi(Router)` + `FE UI/interface`  
 
 **`Node.js cloudish frameworks`**:  Next(Vercel/React), Nuxt(VUE), Astro(multi platform).  
 <br>  
