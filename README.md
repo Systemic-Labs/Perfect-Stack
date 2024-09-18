@@ -151,23 +151,24 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
  - faster development and prototyping.  (mostly on abstract components)  
  - tooling automation, pre/post processing...  
  
- ### [UI categories](#ui-categories)
- 
-  - **`CSS utility framework`** - such as: `UnoCSS` or `Lightening CSS`(used in Tailwind)
-   > toolkit, short codes, presets, functions, optimizing, speed, minifier)  
-  - **`Headless/Structure`** (you do custom style): headless ui, Melt UI, Bits UI (Svelte)
-  - **`Tailwind CSS`**: has pro/cons, yet from v3 (mostly 4) I confirm general use-case to be valid  
-  - **`Minimal Libs`**: Melt UI(basics), Pico CSS(default styled), BeerCSS, DaisyUI(pure CSS lib)  
-  - **`CSS toolkit`**:  Tailwind or UnoCSS - build available CSS presets/syntax into standard CSS  
-  - **`UI-Kits`**: Daisy UI(CSS) .... `functional components`:  Skeleton, flowbite, ShadCN
-  - **`Icon-sets`**: `unplugin-icons` : best way of using icons, no deps, vite plugin tooling
-  - **`3D (WebGL/GPU)`**:  Spline, Babylone.js(FW), Three.js(lib), Threlte(Svelte+three), Unity Tiny  
+### [UI categories](#ui-categories)
+
+- **`CSS utility frameworks`**
+  -`UnoCSS`: use presets of tailwind, DaisyUI, etc... it compiles to to standard CSS.  
+  -`Lightening CSS`: tool for short codes, presets, functions, optimizing, speed, minifier.  
+- **`Headless/Structure`** (you do custom style): headless ui, Melt UI, Bits UI (Svelte)
+- **`Tailwind`**: short-code classes, has pro/cons, yet from v3.4 is good to use in right way.  
+- **`Minimal Libs`**: Melt UI(basics), Pico CSS(default styles), BeerCSS, DaisyUI(pure CSS lib)  
+- **`CSS toolkit`**:  Tailwind or UnoCSS - build available CSS presets/syntax into standard CSS  
+- **`UI-Kits`**: CSS components: `Daisy UI` - functional components: `Skeleton`, `flowbite`, `ShadCN`  
+- **`Icon-sets`**: `unplugin-icons`: best to import various icons, no deps, vite plugin tooling  
+- **`3D`**:  Spline, Babylone.js(FW), Three.js(lib), Threlte(Svelte+three), Unity Tiny  
   
   
  ### [UI Recommendations](#ui-recommendations--reason) + `reason`:
  - `UnoCSS`  - best toolkit and  presets. (code in other Lib, compiled into standard CSS)  
  - `picoCSS` - best for predefined styling of standard HTML Tags.  
- - `DaisyUI` - best CSS UI lib you can get where JS is optional (pre UI kit).  
+ - `DaisyUI` - best pure CSS UI components lib you can get while JS is optional.  
  - `BeerCSS` - better option in case you're into material design concept.
  - `Shadcn`  - best customizable components kit (mostly in Shadcn-Svelte).
  - `Skeleton UI`- best UI components kit for Svelte framework.
