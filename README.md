@@ -182,28 +182,32 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - `Cloudflare`: most professional option, reliable, advanced network system and services.  
 - `Hosting clouds`: used to host site/app, but now offer many cloud functions/solutions Ex: Vercel or Netlify  
 - `Enterprise`: (more features+scale - extra cloud functions/services)  
-> 1. Amazon AWS .... 2. Google/Firebase  .... 3. Azure (Microsoft)  
+> 1. Amazon AWS .... 2. Azure (Microsoft) .... 3. Google/Firebase  
 
 - #### [`Alternatives`](#alternatives): 
   - `Cloud`: Vercel, Supabase - `CMS`: Prismic, Builder.io
   - `Self-host`: [Cloud](): Coolify - [CMS](): Sveltia - [Server](): `PocketBase`  
   - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
-  - `Self hosted`: PocketBase ... `Basic/Dapp` -> Gun.js => free, encrypted, distributed(web torrent).  
+  - `Self hosted lib`: Gun.js => free, encrypted, distributed(web torrent).  
   - `Fullstack servers` + `default options`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)
 
 [_^_](#shortcuts-)  
 <br>
 
 ### [Database](#database):
-- `Next-Gen`: Nostr, AT protocol, GunDB - decentrlized, secure, extra features(DB+SN/COMM).  
+- `Next-Gen: (decentralized/p2p privacy, security, extras): Nostr, AT protocol, GunDB.  
 - `Performance`: cloud edge DBs `->` Turso(libSQL), Cloudflare/DenoDeploy(KV). `multi-model`: Redis + modules.  
-- `Innovative `: Drizzle + Turso - EdgeDB - SurrealDB - Dgraph (graphQL+DX) - Vector DBs (AI use-cases).  
-- `Open Source`: `libSQL` (fastest SQL on edge), `Arango DB` (multi-model) both can self host or cloud.    
+- `Innovative`: Drizzle + Turso - EdgeDB - SurrealDB - Dgraph(graphQL+DX)  - Vector DBs (AI use-cases).  
+- `Open Source`:  
+  - `libSQL`: a fork of SQLite but both local, remote and server.  
+  - `Arango DB` (multi-model) to self host or cloud.  
+
 - `Recommendations`:  
   > **` Nostr`** : decentralized communication protocol. user ownership of data, privacy and sharing.  
-  > **` Turso`** : libSQL DB on cloud/edge networks, libSQL is a fork of SQLite but both local, remote and server.  
-  > **` Drizzle`**: the only ORM worth using, **`Reason`**: work with various DB formats without knowing them.  
-  > **` EdgeDB`**: simple + you prefer EdgeQL + includes ORM/graphQL-ish model (no need for seperate ORM).  
+  > **` Turso`** : libSQL DB on cloud/edge. (fastest SQL on edge)  
+  > **` libSQL`** : best SQLite fork for local DB (server/mobile app)  
+  > **` Drizzle`**: ORM worth using, **`Reason`**: work with various DB formats without knowing them.  
+  > **` EdgeDB`**: simple + you prefer: EdgeQL + native ORM/graphQL-ish model (no need seperate ORM).  
   > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.
 
 [_^_](#shortcuts-)  
@@ -211,8 +215,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 
 ### [API / Communication patterns](#api):
 
-- `REST `... a client request data/information... from a server, which responds with state+data.  
-- `GraphQL`. similar to rest but query a specific set of data, only effective if correctly queried(not less, not more).  
+- `REST `: a client request data/information... from a server, which responds with state+data.  
+- `GraphQL`. similar to rest but query a specific set of data, by relation/s, only effective if correctly queried(not less, not more).  
 - `gRPC / tRPC` . binary data, prioritise performance, volume, and security. next generation of protobuffers.  
 - `WebSocket` For real time, low latency applications.  
 - `WebRTC / WebTorrent`  applications of distributed net, shared, p2p, serverless, save cost, user privacy/annonymity.  
