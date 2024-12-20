@@ -39,7 +39,7 @@
 [Pros/Cons - Review Comparison]() - [Requirements]()- [Best fit / Integration](),  
 [Problem solves]() - [Feasable / Accessible]() - [High Rated]() - [Popularity](),  
 [Focus / Goals]() - [Priority / Importance]() - [Stable Eco-system]()  
-and finalize your decision considering: 
+and finalize your decision considering:  
 - `Main Priority` - `Best fitting` - `Feasable? Can be done? (adopt / implement / execute)`  
 - `Work type`: startup/job/personal - `State`: start / scale / remake / migrate / available.  
 - `Impact`: team, users, cost, dev-cycle, integration, stablity, milestone, completion.  
@@ -85,17 +85,19 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 ## [AI](#ai)
 
 ### General  
-- [Chat/Prompt](): Online: `Groq` - `ChatGPT` - Local: `chat with RTX` - `Jan`.  
-- [Platform / API](): `Nvidia NIM`, `OpenAI`, `Clarifi(api)`, `Google`, `Microsoft`, `x.ai`  
-- [Inference Providers](): `Fireworks (best value)` - `Together.Ai` - `Repliccate` - `OctoAI`  
+- [Chat/Prompt](): Online: `Groq` - `ChatGPT` - `Gemini` - Local Apps: `chat with RTX` - `Jan`.  
+- [Platform / API](): `Nvidia NIM`, `Copilot(api/free/hybrid)`, `OpenAI api`, `Google`, `x.ai`  
+- [Inference Providers](): `Fireworks (best value)` - `Together.Ai` - `Replicate` - `OctoAI`  
 - [Browser/Runtime (client/local)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Jan/Nitro`
-- [AI Strategy](): `first local`, `Specific`, `in-context learning > fine-tuning EiF to usecase > RAG`  
+- [AI Strategy Model HL](): `First local` `Specialization` `Agents Orchestration` > `Unify/Re-iterate cycles`
+- [AI Strategy Process LL](): `in-context learning` > `fine-tuning EiF` > `Map categories` > `Rag cycle` > `objective structure` `solution/Output`  
 <br>
 
-### AGI - LLM models
-- [Top Ranked](): `Llama-3.1-405B+ instruct`, `Claude-3-Opus`, `GPT4-o-next`, `Grok`.  
-- [Full Opensource](): `Phi3` _ `Mixtral MoE` _ `Command R+` _ `DBRX`.  
-- [Run Locally](): Mobile: `Phi3-mini-3.8B` _ Desktop: `Phi-3-small` - `Llama-3.1-8B instruct`.
+### LLM models
+- [Top Ranked](): , `Gemini-exp`, `Llama-3.x-instruct`, `Claude-3.5-Opus`, `GPT4-o-next`, `Grok`  
+- [Full Opensource](): `Phi4` _ `Mixtral MoE` _ `Command R+` _ `DBRX`.  
+- [Run Locally](): Free+Local+Server: `Github Copilot` _ Mobile: `Phi4-mini - Qwen 2.5 (sm)`  
+- [Run Locally](): Desktop: `Qwen new` - Phi-4-medium` - `Llama-3.2-8B instruct`.  
 - [Vision/LM](): `PaliGemma` combined visual+text LLM + can fine-tune well for specific use-case.  
 
 <sub> * `AGI`(Artificial General Intelligence) .... `MoE`(Mixture of Experts) </sub>  
@@ -103,11 +105,12 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 
 ### Tools, Audio, Video...
 - [Autonomous Agents]() _ `long-term mem`: [MemGPT]() - [CrewAI]() _ `+toolchain`: [Langchain]() - `AutoGPT`  
-- [Audio](): text to music: `Udio` _ TTS: `Parler TTS` `PlayHT` `ElevenLabs` _ speech to text: `Deepgram`  
+- [Audio](): text to music: `Udio` _ TTS: `Parler TTS` `PlayHT` `ElevenLabs` -- speech to text: `Deepgram`  
 - [Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP-(user): `MidJourney`, `FreePik`, `Adobe Firefly`  
-- [Visual input](): `Grok vision` - [Video creation](): `Sora ` most realistic videos bythe mean time.
-- [Code assist](): `Github Copilot` - `GPT-4 Chat/API` - [open-source](): `Open Devin` - `Devika`.
-- [Dev Assist](): - Local AI Hub: `Ollama UI` `LM-studio` `Jan` - interact with a website: `GPT Crawler`  
+- [Video creation](): `Veo2` - `Sora` - `Mochi(local)` --  [Visual input](): `Grok vision`  
+- [Code assist](): `Github Copilot (free)` - `Qwen 2.5 (local model)` -- `Claude Chat/API (paid)`  
+- [Code assist](): open-source: `Open Devin` - `Devika` -- interact on websites: `GPT Crawler`  
+- [Dev Assist](): - `Github Copilot (free)` - Local AI Hub: `Ollama UI` `LM-studio` `Jan`  
 <br>
 
 Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai Jason](https://www.youtube.com/@AIJasonZ/videos) - [Matthew Berman](https://www.youtube.com/@matthew_berman/featured) 
