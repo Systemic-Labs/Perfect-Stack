@@ -15,21 +15,22 @@
 
 [To Contribute]() >> `add links` to items, `reason/prove` an obvious better option, `improve doc`.  
 ><sub>* target users - keywords: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
-<br> 
-
+<br>  
+  
+<br>
   
 # `Shortcuts `  
-
->  ### [ Starter intro ](#starter-intro)  
->  ### [ Awesome list ](#awesome-list)  
->  ### [ Programming Languages ](#programming-languages)  
->  ### [ Frameworks - more info/details ](#frameworks-information)  
->  ### [ Extra information and discussion ](#extra-information)  
+>
+> ### [ Intro ](#starter-intro)  
+> ### [ Awesome list ](#awesome-list)  
+> ### [ Programming Languages ](#programming-languages)  
+> ### [ Frameworks - more info/details ](#frameworks-information)  
+> ### [ Extra information and discussion ](#extra-information)  
 
 ***
 <br>  
 
-##  Starter intro  
+## Intro  
 
 ### [`To beginners and startups`](#to-beginners-and-startups)  
 
@@ -77,7 +78,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
   
 > ` Go to beginner guideline details `-> [Web-Dev guideline](#web-development-guideline)  
 ***
-<br>  
+<br> <br>  
 
 # Awesome list  
 <br>
@@ -113,7 +114,11 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - [Dev Assist](): - `Github Copilot (free)` - Local AI Hub: `Ollama UI` `LM-studio` `Jan`  
 <br>
 
-Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai Jason](https://www.youtube.com/@AIJasonZ/videos) - [Matthew Berman](https://www.youtube.com/@matthew_berman/featured) 
+Best youtube AI Channels - <sub> *`links to YT`* </sub>  
+` Concept ` - [bycloud](https://www.youtube.com/@bycloudAI)  
+` Tutorial/Practical ` - [Ai Jason](https://www.youtube.com/@AIJasonZ/videos)  
+`News/Info: ` [Matthew Berman](https://www.youtube.com/@matthew_berman/featured)  
+` Research/Scientific ` 
 <br>  
 
 ![InkedAI-Srvc11](https://github.com/user-attachments/assets/32b1a202-f94a-4eab-bdd7-5462ea415e27)
@@ -127,7 +132,8 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 ---
 <br>
 
-## [Frameworks](#frameworks--)  >>
+## [Frameworks](#frameworks--) >>  
+
  - **`Mobile`**: [Web based:]() (multi-platform) Tauri, Socket - Capacitor [Native:]() device SDK(only if required)  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
  - **`Front-end`**: Svelte(best overall, best DX) - Vue(past populary, jobs) - Solid(React replacement).  
@@ -226,24 +232,29 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 - `ORM (DB interaction model)` custom SQL/nonSQL query access method. custom relational behavior, code to DB interfacing.  
 <br>
   
-### [Programming Languages](#programming-languages):  
+## [Programming Languages](#programming-languages)  
 
-#### Low level  
+### Low level  
 - **`Rust`**: WebASM std / Safe / Precise / System / Performance / Resources / Community.  
 - **`Zig`** - **`Carbon`**: C++ alternatives - **`Julia`**: low-level Performance, high-level syntax.  
 - **`Go`**: (Low/Med level): simple good syntax, well developed/maturity, good for backend.  
 - **`Nim`**(+fast, semi python syntax). **`Mojo`**: (+python-like, resources, AI, Devs like it).  
     
-#### High level
+### High level
 - **platform based**: `All: Web/JS`, `AI: Python, JS (APIs)`, `Mac/IOS: Swift`.  
 - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.  
 - **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal...)
   
-**(Type Safety / Typescript)**:
+### Type Safety
   - `Typescript`: Not a language, a superset over JS - a type system for JS - compiles to JS.  
   - `Valibot`: schema library for validating structural data. also on runtime and integration point.  
-  - `...note`: type safety feature is effective for specific use-case and not universal usage.  <details> <summary>`...more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. For product is only effective if is implemented at runtime and integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as immutable restricted and custom defined data structures. `Ex`: database schemas, configuration, authentication...  
-`more usecases`: large teams - random/changing developers. different developers encounter type restrictions and potential issues/errors, they are forced to resolve type and other restrictions before merging or deliver to other devs. This ensures all follow same guidelines and patterns, getting defined results... yet codebase becomes more complex, takes time and cost. It's simpler and more efficient to use a validation system, such as `Valibot`, can use it in JS too, and in runtime.  
+  - `...note`: type safety feature is effective in specific points/use-case, not in general usage.  <details> <summary>`...more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. For product is only effective if is implemented at runtime and integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as immutable restricted and custom defined data structures. `Ex`: database schemas, configuration, authentication...  
+`Practical usage`: In large teams - random/changing/careless developers drop into codebase.  
+When type restrictions is thrown at different developers, they pre-encounter potential issues/errors, which forces them to follow type integrity on IO, and other careless mistakes (in algorithms, process...) before merging or deliver their work. This ensures all follow same guidelines and patterns, getting defined results even if they're unable to visualise/understand the App structure or intentions.  
+
+The Cons: Only runs in dev time, and is removed in production. A solo dev or small team of pros don't need this... a codebase becomes more complex to read/visualize... Only good TS devs can understand whats happening, for others is more confusing, they just follow...  
+
+Therefore it cost more time, resources and efficiency. It's simpler and more efficient to use a validation system such as `Valibot`, at critical or specific points, can use it in JS too, and in runtime.  
 </details>
   
 [_^_](#shortcuts-)  
@@ -264,9 +275,11 @@ Best youtube AI Channels:  [bycloud](https://www.youtube.com/@bycloudAI) - [Ai J
 [_^_](#shortcuts-)  
 ***
 <br>  
-
   
+<br>  
+
 ## [Frameworks information](#frameworks-information)  
+
 <br>  
 
 ### [Frameworks Architecture](#frameworks-architecture)  
