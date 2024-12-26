@@ -120,7 +120,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 
 ### Tools, Audio, Video  
 
-[Autonomous Agents](): long-term mem`: [MemGPT]() - [CrewAI]() -- `toolchain`: [Langchain]() - `AutoGPT`  
+[Autonomous Agents](): `long-term mem`: [MemGPT]() - [CrewAI]() -- `toolchain`: [Langchain]() - `AutoGPT`  
 [Science/Research]() _ use `NotebookLM` + `Gemini 2.x exp` + speciality tools/models  
 [Audio](): text to music: `Udio` _ TTS: `Parler TTS` `PlayHT` `ElevenLabs` -- speech to text: `Deepgram`  
 [Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP-(user): `MidJourney`, `FreePik`, `Adobe Firefly`  
