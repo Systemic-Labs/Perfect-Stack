@@ -69,13 +69,13 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 
 ## Target Platforms  
 
-[Native SDK]() `Android, iOS, embeded runtimes... if targeting specific device abilities or inclusive native functions of an embeded device, phones or a VR headset.`
+[Native SDK]() `Android, iOS, embeded runtimes.. if targeting specific device abilities or inclusive native functions of an embeded device, phones or a VR headset.`
 
 [Web]() `if the development target is general, multi-platform, web/communication based, and not limited by vendor lock-in, then use the web platform, which has most use cases, most open and is cross-platform. It covers all platforms client, server, browser, mobile devices, cloud and desktop.`
   
-[System]() `in case lower level control/privacy/system access is required, or direct Hardware/OS access and high performance at scale, then a server/workstation system/s plus a custom software stack (low/mid level programming languages, SDK, runtimes...) is more suitable.`
+[System]() `in case lower level control/privacy/system access is required, or direct Hardware/OS access and high performance at scale, then a server/workstation system/s plus a custom software stack (low/mid level programming languages, SDK, runtimes..) is more suitable.`
 
-[Cloud]() `A complete or custom system solution on web/network. You subscribe to a managed virtual system, in different levels from VPS, API, Host... much features, managed/maintained. All pros, only cons: no physical control/access/privacy(unless self hosted)`  
+[Cloud]() `A complete or custom system solution on web/network. You subscribe to a managed virtual system, in different levels from VPS, API, Host.. much features, managed/maintained. All pros, only cons: no physical control/access/privacy(unless self hosted)`  
   
 ### `Learning tips`
 - Being a Dev is not easy, takes time, effort, practice and experience to gain practical skills, much to cover.  
@@ -93,46 +93,56 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 ## [AI](#ai)
 
 ### General  
-- [Chat/Prompt](): Online: `Groq` - `ChatGPT` - `Gemini` - Local Apps: `chat with RTX` - `Jan`.  
-- [Platform / API](): `Nvidia NIM`, `Copilot(api/free/hybrid)`, `OpenAI api`, `Google`, `x.ai`  
+- [Prompt/Cloud](): `Open AI chatGPT` - `Google Gemini` - `Groq`  
+- [Prompt/Local](): `native device` - `chat with RTX` - `Jan` `Ollama`  
+- [Platform / API](): `Nvidia NIM`, `Claude`, `OpenAI`, `Google`, `x.ai`  
 - [Inference Providers](): `Fireworks (best value)` - `Together.Ai` - `Replicate` - `OctoAI`  
-- [Browser/Runtime (client/local)]():  `Web LLM` _ `Web-AI` _ `MLC-LLM` _ `Jan/Nitro`
-- [AI Strategy Model HL](): `First local` `Specialization` `Agents Orchestration` > `Unify/Re-iterate cycles`
+- [Browser/Runtime (client/local)]():  `Ollama` - `Web LLM` - `Web-AI` - `MLC-LLM` - `Jan/Nitro`  
+- [Docs / Github Repo / Research](https://github.com/codefuse-ai/Awesome-Code-LLM) (<-open link) codefuse-ai/Awesome-Code-LLM  
+- [AI Strategy Model HL](): `Local First` `Specializing` `Agents Orchestration` > `Unify/Re-iterate cycles`  
 - [AI Strategy Process LL](): `in-context learning` > `fine-tuning EiF` > `Map categories` > `Rag cycle` > `objective structure` `solution/Output`  
 <br>
 
-### LLM models
-- [Top Ranked](): , `Gemini-exp`, `Llama-3.x-instruct`, `Claude-3.5-Opus`, `GPT4-o-next`, `Grok`  
-- [Full Opensource](): `Phi4` _ `Mixtral MoE` _ `Command R+` _ `DBRX`.  
-- [Run Locally](): Free+Local+Server: `Github Copilot` _ Mobile: `Phi4-mini - Qwen 2.5 (sm)`  
-- [Run Locally](): Desktop: `Qwen new` - Phi-4-medium` - `Llama-3.2-8B instruct`.  
-- [Vision/LM](): `PaliGemma` combined visual+text LLM + can fine-tune well for specific use-case.  
+### LLM - AI models
+- [Top Rank](): `Gemini-2.x/exp`, `GPT4-o4-x`, `Claude-3.5-Opus`, `Llama-3.2-instruct`  
+- [Full Opensource](): `Phi4` -- `Mixtral MoE` -- `Command R+` -- `DBRX`  
+- [Local Run](): Desktop: `Qwen 2.5(md/lg)` - `Phi-4(md)` - `Llama-3.2-8B instruct`  
+- [Local Run](): Mobile: `Phi-4 (sm)` - `Qwen 2.5 (xs,sm)`  
+- [Vision/LM](): `PaliGemma`  combined visual & text LLM - fine-tunes well in specific use-cases  
 
-<sub> * `AGI`(Artificial General Intelligence) .... `MoE`(Mixture of Experts) </sub>  
+### Dev Environments
+[Hybrid Local](): VS-Code + `Github Copilot` - Pros: `Free` + `Local` + `Cloud`  
+[Cloud Environment](): `Gitpod` - `stackblitz` - dev > build > deploy/container/integration  
+[AI Hybrid IDE](): Cursor: `extras` - `better results` -- Windsurf: `Simpler defaults`  
+
+<sub> * `AGI`(Artificial General Intelligence) -- `MoE`(Mixture of Experts) </sub>  
 <br>
 
-### Tools, Audio, Video...
-- [Autonomous Agents]() _ `long-term mem`: [MemGPT]() - [CrewAI]() _ `+toolchain`: [Langchain]() - `AutoGPT`  
-- [Audio](): text to music: `Udio` _ TTS: `Parler TTS` `PlayHT` `ElevenLabs` -- speech to text: `Deepgram`  
-- [Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP-(user): `MidJourney`, `FreePik`, `Adobe Firefly`  
-- [Video creation](): `Veo2` - `Sora` - `Mochi(local)` --  [Visual input](): `Grok vision`  
-- [Code assist](): `Github Copilot (free)` - `Qwen 2.5 (local model)` -- `Claude Chat/API (paid)`  
-- [Code assist](): open-source: `Open Devin` - `Devika` -- interact on websites: `GPT Crawler`  
-- [Dev Assist](): - `Github Copilot (free)` - Local AI Hub: `Ollama UI` `LM-studio` `Jan`  
+### Tools, Audio, Video  
+
+[Autonomous Agents](): long-term mem`: [MemGPT]() - [CrewAI]() -- `toolchain`: [Langchain]() - `AutoGPT`  
+[Science/Research]() _ use `NotebookLM` + `Gemini 2.x exp` + speciality tools/models  
+[Audio](): text to music: `Udio` _ TTS: `Parler TTS` `PlayHT` `ElevenLabs` -- speech to text: `Deepgram`  
+[Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP-(user): `MidJourney`, `FreePik`, `Adobe Firefly`  
+[Video creation](): `Veo2` - `Sora` - `Mochi(local)`  
+[Visual input](): `Grok vision`  -- `Amazon Rekognition`  
+[Code assist](): `AI IDEs` - `Github Copilot` - `Ollama` + `Qwen2.x LLM`  
+[Dev assist](): Ready/Custom made `Agents` workflow - `Open Devin` - `Devika`  
+[Dev Tools](): Local Hub: `Ollama UI` `LM-studio` `Jan` - interact with websites: `GPT Crawler`
 <br>
 
-Best youtube AI Channels - <sub> *`links to YT`* </sub>  
-` Concept ` - [bycloud](https://www.youtube.com/@bycloudAI)  
-` Tutorial/Practical ` - [Ai Jason](https://www.youtube.com/@AIJasonZ/videos)  
-`News/Info: ` [Matthew Berman](https://www.youtube.com/@matthew_berman/featured)  
-` Research/Scientific ` 
+### Best youtube AI Channels - <sub> *`links to Youtube`* </sub>  
+` Concept/Reserch` - [bycloud](https://www.youtube.com/@bycloudAI)  
+` Tutorial/Practical ` -- [Ai Jason](https://www.youtube.com/@AIJasonZ/videos)  
+` News/Info/General` -- [Matthew Berman](https://www.youtube.com/@matthew_berman/featured)  
+` Research/Scientific` -- [Code your own AI](https://www.youtube.com/@code4AI/videos)
 <br>  
 
 ![InkedAI-Srvc11](https://github.com/user-attachments/assets/32b1a202-f94a-4eab-bdd7-5462ea415e27)
 
 
 ##### `About ` [Different AI generations](#about-ai---generations) >>  
-##### *[Check AI Awesome list for more AI info/tools/applications, more details.](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  (...needs update)
+##### *[AI Awesome list Gist - more info/tools/applications](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  (Archived/Out-dated)
 
 [_^_](#shortcuts-)
 
@@ -144,7 +154,7 @@ Best youtube AI Channels - <sub> *`links to YT`* </sub>
  - **`Mobile`**: [Web based:]() (multi-platform) Tauri, Socket - Capacitor [Native:]() device SDK(only if required)  
  - **`Desktop`**:  Tauri (Web App),  Deno executable(Web/CLI).  
  - **`Front-end`**: Svelte(best overall, best DX) - Vue(past populary, jobs) - Solid(React replacement).  
- - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages...  
+ - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages..  
  - **`Full-stack`**: Svelte-kit (true fullstack) - Astro(many frameworks) - Next/Nuxt (popular backends)  
  - **`Crossplatform`**: Tauri(desktop, mobile, Rust functions) - Socket runtime (desktop, mobile, P2P data)  
  - **`Programming Languages`**:  JS, Zig, Rust, Go, Elixir, Mojo, all based on use-case: client/server, AI, Mobile. [(..more)>>]()
@@ -165,12 +175,12 @@ Best youtube AI Channels - <sub> *`links to YT`* </sub>
  - reduced text instructions (+readability)  
  - more uniform design model in teams. (mostly for junior devs)  
  - faster development and prototyping.  (mostly on abstract components)  
- - tooling automation, pre/post processing...  
+ - tooling automation, pre/post processing..  
  
 ### [UI categories](#ui-categories)
 
 - **`CSS utility frameworks`**
-  -`UnoCSS`: use presets of tailwind, DaisyUI, etc... it compiles to to standard CSS.  
+  -`UnoCSS`: use presets of tailwind, DaisyUI, etc.. it compiles to to standard CSS.  
   -`Lightening CSS`: tool for short codes, presets, functions, optimizing, speed, minifier.  
 - **`Headless/Structure`** (you do custom style): headless ui, Melt UI, Bits UI (Svelte)
 - **`Tailwind`**: short-code classes, has pro/cons, yet from v3.4 is good to use in right way.  
@@ -198,7 +208,7 @@ Best youtube AI Channels - <sub> *`links to YT`* </sub>
 - `Cloudflare`: most professional option, reliable, advanced network system and services.  
 - `Hosting clouds`: used to host site/app, but now offer many cloud functions/solutions Ex: Vercel or Netlify  
 - `Enterprise`: (more features+scale - extra cloud functions/services)  
-> 1. Amazon AWS .... 2. Azure (Microsoft) .... 3. Google/Firebase  
+> 1. Amazon AWS -- 2. Azure (Microsoft) -- 3. Google/Firebase  
 
 - #### [`Alternatives`](#alternatives): 
   - `Cloud`: Vercel, Supabase - `CMS`: Prismic, Builder.io
@@ -231,7 +241,7 @@ Best youtube AI Channels - <sub> *`links to YT`* </sub>
 
 ### [API / Communication patterns](#api):
 
-- `REST `: a client request data/information... from a server, which responds with state+data.  
+- `REST `: a client request data/information.. from a server, which responds with state+data.  
 - `GraphQL`. similar to rest but query a specific set of data, by relation/s, only effective if correctly queried(not less, not more).  
 - `gRPC / tRPC` . binary data, prioritise performance, volume, and security. next generation of protobuffers.  
 - `WebSocket` For real time, low latency applications.  
@@ -250,16 +260,16 @@ Best youtube AI Channels - <sub> *`links to YT`* </sub>
 ### High level
 - **platform based**: `All: Web/JS`, `AI: Python, JS (APIs)`, `Mac/IOS: Swift`.  
 - **other good langs**: `Elixir`, `Haskel`, `C++`, `C#`, `Bend`.  
-- **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal...)
+- **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal..)
   
 ### Type Safety
   - `Typescript`: Not a language, a superset over JS - a type system for JS - compiles to JS.  
   - `Valibot`: schema library for validating structural data. also on runtime and integration point.  
-  - `...note`: type safety feature is effective in specific points/use-case, not in general usage.  <details> <summary>`...more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. For product is only effective if is implemented at runtime and integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as immutable restricted and custom defined data structures. `Ex`: database schemas, configuration, authentication...  
+  - `..note`: type safety feature is effective in specific points/use-case, not in general usage.  <details> <summary>`..more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. For product is only effective if is implemented at runtime and integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as immutable restricted and custom defined data structures. `Ex`: database schemas, configuration, authentication..  
 `Practical usage`: In large teams - random/changing/careless developers drop into codebase.  
-When type restrictions is thrown at different developers, they pre-encounter potential issues/errors, which forces them to follow type integrity on IO, and other careless mistakes (in algorithms, process...) before merging or deliver their work. This ensures all follow same guidelines and patterns, getting defined results even if they're unable to visualise/understand the App structure or intentions.  
+When type restrictions is thrown at different developers, they pre-encounter potential issues/errors, which forces them to follow type integrity on IO, and other careless mistakes (in algorithms, process..) before merging or deliver their work. This ensures all follow same guidelines and patterns, getting defined results even if they're unable to visualise/understand the App structure or intentions.  
 
-The Cons: Only runs in dev time, and is removed in production. A solo dev or small team of pros don't need this... a codebase becomes more complex to read/visualize... Only good TS devs can understand whats happening, for others is more confusing, they just follow...  
+The Cons: Only runs in dev time, and is removed in production. A solo dev or small team of pros don't need this.. a codebase becomes more complex to read/visualize.. Only good TS devs can understand whats happening, for others is more confusing, they just follow..  
 
 Therefore it cost more time, resources and efficiency. It's simpler and more efficient to use a validation system such as `Valibot`, at critical or specific points, can use it in JS too, and in runtime.  
 </details>
@@ -273,11 +283,11 @@ Therefore it cost more time, resources and efficiency. It's simpler and more eff
 - **`Static Site Generator`**:  Astro(all), Hugo(go), Hexo(js), Next(react), Nuxt(vue), MkDocs(py)  
 - **`Content Management System`**:  Primo(svelte), Strapi, Ghost, Netlify CMS, Apostrophe, Factor(vue).
 - **`Audio API`**: Tone.JS(free, all round audio API),  Twilio(Call communication, speech).  
-- **`Dev/Repo` Platforms**: Github, Gitlab, Gitea (self-host), Stackblitz, Notion, Collab...  
-- **`Dev tools`**:  CLI tools(GIT, bash, npm...), vite(bundler), vs-code + extensions, emmet...
+- **`Dev/Repo` Platforms**: Github, Gitlab, Gitea (self-host), Stackblitz, Notion, Collab..  
+- **`Dev tools`**:  CLI tools(GIT, bash, pnpm), vite(bundler), vs-code + extensions, emmet..
 - **`Kubernetes`**: Fault Taulerant application containers to manage scale, monitor, resources.
 - **Photo/Image**: format -> `Avif`, compress/encode-> `Avif encoder (best from: AOM, lovell, rav1)`  
-  - Libs: `Sharp`, `lib-vips`, `lib-heif`, `ImageMagic (good as online tool/ or cloud usage...)`  
+  - Libs: `Sharp`, `lib-vips`, `lib-heif`, `ImageMagic (good as online tool/ or cloud usage..)`  
 
 [_^_](#shortcuts-)  
 ***
@@ -345,25 +355,25 @@ Therefore it cost more time, resources and efficiency. It's simpler and more eff
 <br>  
 
 ## **Web Development - about definitions**   
-- `Front-end`: Dev/Design of client side web app/site, dev/Design. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly...  
+- `Front-end`: Dev/Design of client side web app/site, dev/Design. HTML5, CSS, JavaScript, PWA, frameworks, Web assembly..  
 - `Back-end`: processing/data on server network, host/cloud, centralized or distributed. SSR(Server Side Rendering). 
 - `DevOps`: manage and process dev/product ecosystem. analytics, control, automation on Local, remote, distributed systems  
 - `Cloud`: online server platforms, you can subscribe to services: process, storage, resources, ready made functions.  
-- `Cloud services`:  when you don't have a scalable server/resources. 2- require API/Apps/services from amazon, google,... 
+- `Cloud services`:  when you don't have a scalable server/resources. 2- require API/Apps/services from amazon, google..  
 - `Developer Experience`: (DX) satisfaction rate of developer, plus how empowering, practical, direct, and unambiguous it be.  
 - `Correct development method` ⇒ simplify, reuse, secure, update, avoid complex dependencies/overhead.  
 - `Software Engineering`:  use engineering principles and process-methods to approach the issue/task.  
 - `Solution Architect`: a senior lead/engineer that evalutes an idea/goal/issue, then design, document and execute a structured plan while making many considerations.  
-> A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics,... design-pattern-process-methodology and some research experience.  
+> A solution architect has some business insight/strategy and various technical knowledge/experience, using engineering principles, analytics.. design-pattern-process-methodology and some research experience.  
 
 [_^_](#shortcuts-)  
+  
 ***
-
 
 ## **[Web development guideline](web-development-guideline):**  
  **1. Learn the base web standards** -> (HTML, CSS, Javascript) follow/practice tutorials. Make few apps.(ex: Todo)  
- **2. New web standards** -> ES6/next, new HTML, new CSS (grid,...)  practice/try what you learn.  
- **3. Update the previous apps you made**, using new things you learned. make a game and a blog site.  
+ **2. New web dev** -> latest updates in JS/ES, HTML, CSS  practice well.  
+ **3. Update previous apps you made**, using new things you learned. make a game and a blog site.  
  **4. Deploy**: learn how to host/deploy your site.  Host on cloudflare pages, deno deploy, begin, netlify, github pages,...  
  **5. Learning decision**: learn extra stuff once is required(predict it). (Ex: DB, AI, specific tools/libs...)  
  **6. Learn a Framework**: better Dev-eXp & scoping. composable, reusable components, structure and configuration.  
