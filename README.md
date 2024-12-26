@@ -44,8 +44,8 @@ Therefore:
 #### Technical Decisions
 
 Don't make technical decisions just based on what majority follow, market hype, and main trends.., instead, decide based on multiple factors, such as:  
-[Pros/Cons - Review Comparison]() - [Requirements]()- [Best fit / Integration](),  
-[Problem solves]() - [Feasable / Accessible]() - [High Rated]() - [Popularity](),  
+[Pros/Cons - Review Comparison]() - [Requirements]()- [Best fit / Integration](), 
+[Problem solves]() - [Feasable / Accessible]() - [High Rated]() - [Popularity](), 
 [Focus / Goals]() - [Priority / Importance]() - [Stable Eco-system]()  
 and finalize your decision considering:  
 - `Main Priority` - `Best fitting` - `Feasable? Can be done? (adopt / implement / execute)`  
@@ -93,22 +93,22 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 ## [AI](#ai)
 
 ### General  
-- [Prompt/Cloud](): `Open AI chatGPT` - `Google Gemini` - `Groq`  
-- [Prompt/Local](): `native device` - `chat with RTX` - `Jan` `Ollama`  
-- [Platform / API](): `Nvidia NIM`, `Claude`, `OpenAI`, `Google`, `x.ai`  
-- [Inference Providers](): `Fireworks (best value)` - `Together.Ai` - `Replicate` - `OctoAI`  
-- [Browser/Runtime (client/local)]():  `Ollama` - `Web LLM` - `Web-AI` - `MLC-LLM` - `Jan/Nitro`  
-- [Docs / Github Repo / Research](https://github.com/codefuse-ai/Awesome-Code-LLM) (<-open link) codefuse-ai/Awesome-Code-LLM  
-- [AI Strategy Model HL](): `Local First` `Specializing` `Agents Orchestration` > `Unify/Re-iterate cycles`  
-- [AI Strategy Process LL](): `in-context learning` > `fine-tuning EiF` > `Map categories` > `Rag cycle` > `objective structure` `solution/Output`  
+[Prompt/Cloud](): `Open AI chatGPT` - `Google Gemini` - `Groq`  
+[Prompt/Local](): `native device` - `chat with RTX` - `Jan` `Ollama`  
+[Platform / API](): `Nvidia NIM`, `Claude`, `OpenAI`, `Google`, `x.ai`  
+[Inference Providers](): `Fireworks (best value)` - `Together.Ai` - `Replicate` - `OctoAI`  
+[Browser/Runtime (client/local)]():  `Ollama` - `Web LLM` - `Web-AI` - `MLC-LLM` - `Jan/Nitro`  
+[Docs / Github Repo / Research](https://github.com/codefuse-ai/Awesome-Code-LLM) (<-open link) codefuse-ai/Awesome-Code-LLM  
+[AI Strategy Model HL](): `Local First` `Specializing` `Agents Orchestration` > `Unify/Re-iterate cycles`  
+[AI Strategy Process LL](): `in-context learning` > `fine-tuning EiF` > `Map categories` > `Rag cycle` > `objective structure` `solution/Output`  
 <br>
 
 ### LLM - AI models
-- [Top Rank](): `Gemini-2.x/exp`, `GPT4-o4-x`, `Claude-3.5-Opus`, `Llama-3.2-instruct`  
-- [Full Opensource](): `Phi4` -- `Mixtral MoE` -- `Command R+` -- `DBRX`  
-- [Local Run](): Desktop: `Qwen 2.5(md/lg)` - `Phi-4(md)` - `Llama-3.2-8B instruct`  
-- [Local Run](): Mobile: `Phi-4 (sm)` - `Qwen 2.5 (xs,sm)`  
-- [Vision/LM](): `PaliGemma`  combined visual & text LLM - fine-tunes well in specific use-cases  
+[Top Rank](): `Gemini-2.x/exp`, `GPT4-o4-x`, `Claude-3.5-Opus`, `Llama-3.2-instruct`  
+[Full Opensource](): `Phi4` -- `Mixtral MoE` -- `Command R+` -- `DBRX`  
+[Local Run](): Desktop: `Qwen 2.5(md/lg)` - `Phi-4(md)` - `Llama-3.2-8B instruct`  
+[Local Run](): Mobile: `Phi-4 (sm)` - `Qwen 2.5 (xs,sm)`  
+[Vision/LM](): `PaliGemma`  combined visual & text LLM - fine-tunes well in specific use-cases  
 
 ### Dev Environments
 [Hybrid Local](): VS-Code + `Github Copilot` - Pros: `Free` + `Local` + `Cloud`  
@@ -120,8 +120,8 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 
 ### Tools, Audio, Video  
 
-[Autonomous Agents](): `long-term mem`: [MemGPT]() - [CrewAI]() -- `toolchain`: [Langchain]() - `AutoGPT`  
-[Science/Research]() _ use `NotebookLM` + `Gemini 2.x exp` + speciality tools/models  
+[Autonomous Agents](): long-term mem: `MemGPT` - `CrewAI` -- toolchain: `Langchain` - `AutoGPT`  
+[Science/Research](): `NotebookLM` + `Gemini 2.x exp` + speciality tools/models  
 [Audio](): text to music: `Udio` _ TTS: `Parler TTS` `PlayHT` `ElevenLabs` -- speech to text: `Deepgram`  
 [Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP-(user): `MidJourney`, `FreePik`, `Adobe Firefly`  
 [Video creation](): `Veo2` - `Sora` - `Mochi(local)`  
@@ -131,9 +131,9 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 [Dev Tools](): Local Hub: `Ollama UI` `LM-studio` `Jan` - interact with websites: `GPT Crawler`
 <br>
 
-### Best youtube AI Channels - <sub> *`links to Youtube`* </sub>  
+### Best youtube AI Channels - <sub> *`links open Youtube channel`* </sub>  
 ` Concept/Reserch` - [bycloud](https://www.youtube.com/@bycloudAI)  
-` Tutorial/Practical ` -- [Ai Jason](https://www.youtube.com/@AIJasonZ/videos)  
+` Tutorial/Practical` -- [Ai Jason](https://www.youtube.com/@AIJasonZ/videos)  
 ` News/Info/General` -- [Matthew Berman](https://www.youtube.com/@matthew_berman/featured)  
 ` Research/Scientific` -- [Code your own AI](https://www.youtube.com/@code4AI/videos)
 <br>  
