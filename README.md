@@ -3,14 +3,14 @@
 ### A developer's info-guide on: `tech` - `tools` - `Libs` - `Frameworks`  
 <br>
 
-- [Article is about](): `best practices` + `guide` + `awesome list` of tech-stack(libs,tools...), platforms, workflow.  
+- [Article is about](): `best practices` + `guide` + `awesome list` of tech-stack(libs,tools..), platforms, workflow.  
 - [Multiple options](): are for you to decide based on your goals.(compare X vs Y, pros/cons, use-case..)  
 - [Recommendations](): given based on summary of various factors: test or compared reviews of experts on the field.
 <br>
 
 > [*Decisions*](): have long-term impact. Dev-stack/toolchain + working method/strategy impacts your progress.  
 > [*Making right choices*](): early on, increase success and progress chances, self-respecting your skills.  
-> [*Nothing's perfect*, yet...]() better options/methods improves DX, workflow, structure, progress, efficiency.  
+> [*Nothing's perfect*, yet..]() better options/methods improves DX, workflow, structure, progress, efficiency.  
 <br>
 
 [To Contribute]() >> `add links` to items, `reason/prove` an obvious better option, `improve doc`.  
@@ -34,18 +34,25 @@
 
 ### [`To beginners and startups`](#to-beginners-and-startups)  
 
-> Don't make technical decisions just based on what others do, market hype, popular trends...  
-...instead, decide based on multiple factors, such as:
+First of all, don't choose software development, in hope to make money! (this advice might include any non-essential support and services jobs/products that's not actively in demand).  
+With recent Ai advancement, and a over-saturated matured non-essential market, job demands are quite low, many unemployed workforce.  
+Therefore:  
+> Have 2nd source of income, job or support, while becoming a pro in your field.  
+> You must have strong goals, motives, reasons, plans, being persistent until success.  
+> You must gain high experience and achievements, be top competitive in your field.  
 
+#### Technical Decisions
+
+Don't make technical decisions just based on what majority follow, market hype, and main trends.., instead, decide based on multiple factors, such as:  
 [Pros/Cons - Review Comparison]() - [Requirements]()- [Best fit / Integration](),  
 [Problem solves]() - [Feasable / Accessible]() - [High Rated]() - [Popularity](),  
 [Focus / Goals]() - [Priority / Importance]() - [Stable Eco-system]()  
 and finalize your decision considering:  
 - `Main Priority` - `Best fitting` - `Feasable? Can be done? (adopt / implement / execute)`  
-- `Work type`: startup/job/personal - `State`: start / scale / remake / migrate / available.  
-- `Impact`: team, users, cost, dev-cycle, integration, stablity, milestone, completion.  
+- `Work type`: startup/job/personal - `State`: start / scale / remake / migrate / extend.  
+- `Impact`: team, users, cost, deadline, dev-cycle, integration, stablity, milestone, completion.  
   
-<details> <summary>...Why? >> press to expand this topic ↴ </summary>  
+<details> <summary>..more on this topic.. >> press to expand ↴ </summary>  
   
 Majority of developers adopted older popular tech/methods by the circumstances in past, by workplace/education requirements job offers, senior advice, or the 1st option encountered, or just due to common hype, in the past, but not the best choice now.  
 This cycle repeats and non optimal tech get stuck in social, market, and job/edu systems, then if you adopt it, by the time you build your work on it, the tech might be near end of life, or bad/slow pace, as it holds to legacy patterns, and compatibility patches to make it work with ongoing needs of the users.  
@@ -53,7 +60,7 @@ This cycle repeats and non optimal tech get stuck in social, market, and job/edu
 Therefore instead of market hype, make decisions based on facts, use whatever is best for the job, mostly if you're doing your own business or planning a `startup`, deciding better tech/methods, results in productivity, efficiency and saves time/cost.  
 
 Therefore If you're not forced or bound by a legacy eco-system or specific rules/conditions, do your research, compare options, and make decisions you benefit.  
-[*...extra pointers on this topic...>>*](#new-developer-or-decision-maker)  
+[*..extra pointers on this topic..>>*](#new-developer-or-decision-maker)  
 </details>  
 
 ` Wish you good luck! `  
