@@ -266,11 +266,11 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - **`Bend`**: Parallel processing computation. Use CPU/GPU cores **WITHOUT** specific/low-level methods (Cuda, Metal..)
   
 ### Type Safety
-  - `Typescript`: Not a language, a superset over JS - a type system for JS - compiles to JS.  
-  - `Valibot`: schema library for validating structural data. also on runtime and integration point.  
-  - `..note`: type safety feature is effective in specific points/use-case, not in general usage.  <details> <summary>`..more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. For product is only effective if is implemented at runtime and integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as immutable restricted and custom defined data structures. `Ex`: database schemas, configuration, authentication..  
-`Practical usage`: In large teams - random/changing/careless developers drop into codebase.  
-When type restrictions is thrown at different developers, they pre-encounter potential issues/errors, which forces them to follow type integrity on IO, and other careless mistakes (in algorithms, process..) before merging or deliver their work. This ensures all follow same guidelines and patterns, getting defined results even if they're unable to visualise/understand the App structure or intentions.  
+[Typescript](): Not a language, a superset over JS - a type system for JS - compiles to JS.  
+[Valibot](): schema library for validating structural data. also on runtime and integration point.  
+`..note`: type safety feature is effective in specific scenarios/points, and is not required in general.  <details> <summary>`..more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. In production is only effective if implemented for runtime on integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as IO, restricted or custom defined data structures. `Ex`: database schemas, configuration, components I/O authentication..  
+`Practical usage`: In large teams - random/outsourced/careless developers drop into codebase.  
+When type restrictions is forced on developers, they pre-encounter potential issues/errors, before conflict is reached, which forces them to solve it and follow type integrity on code import/export, and prevent careless mistakes (in algorithms, process..) before delivering their work. This ensures all follow same guidelines and defined boundries to get expected results even if they don't access/visualize/understand the code structure and intentions.  
 
 The Cons: Only runs in dev time, and is removed in production. A solo dev or small team of pros don't need this.. a codebase becomes more complex to read/visualize.. Only good TS devs can understand whats happening, for others is more confusing, they just follow..  
 
