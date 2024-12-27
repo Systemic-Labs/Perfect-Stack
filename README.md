@@ -104,10 +104,10 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 <br>
 
 ### LLM - AI models
-[Top Rank](): `Gemini-2.x/exp`, `GPT4-o4-x`, `Claude-3.5-Opus`, `Llama-3.2-instruct`  
-[Full Opensource](): `Phi4` -- `Mixtral MoE` -- `Command R+` -- `DBRX`  
-[Local Run](): Desktop: `Qwen 2.5(md/lg)` - `Phi-4(md)` - `Llama-3.2-8B instruct`  
-[Local Run](): Mobile: `Phi-4 (sm)` - `Qwen 2.5 (xs,sm)`  
+[Top Rank](): `DeepSeek-V3`, `Gemini-2.x/exp`, `GPT4-ox`, `Claude-3.5-Opus`  
+[Full Opensource](): `DeepSeek-V3` -- `Phi4` -- `Mixtral MoE`  
+[Local Run](): Desktop: `Qwen2.5-Inst(md)` - `Phi-4(md)` Server: `DeepSeek-V3`  
+[Local Run](): Mobile: `Phi-4(sm)` - `Qwen2.5-Inst(sm/xs)`  
 [Vision/LM](): `PaliGemma`  combined visual & text LLM - fine-tunes well in specific use-cases  
 
 ### Dev Environments
@@ -118,17 +118,20 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 <sub> * `AGI`(Artificial General Intelligence) -- `MoE`(Mixture of Experts) </sub>  
 <br>
 
-### Tools, Audio, Video  
+### AI Concepts, Tools, Audio, Video, etc...  
 
 [Autonomous Agents](): long-term mem: `MemGPT` - `CrewAI` -- toolchain: `Langchain` - `AutoGPT`  
-[Science/Research](): `NotebookLM` + `Gemini 2.x exp` + speciality tools/models  
-[Audio](): text to music: `Udio` _ TTS: `Parler TTS` `PlayHT` `ElevenLabs` -- speech to text: `Deepgram`  
-[Image](): `DALL-E`, `Stable Diffusion`, `Imagen` - APP-(user): `MidJourney`, `FreePik`, `Adobe Firefly`  
-[Video creation](): `Veo2` - `Sora` - `Mochi(local)`  
-[Visual input](): `Grok vision`  -- `Amazon Rekognition`  
+[Science/Research](): `NotebookLM (Gemini 2.x exp)` + Specific tools/models/libs  
+[Audio LL](): text to music: `Udio` -- TTS: `Parler TTS` - `PlayHT`  
+[Audio HL](): `Replika` - `ElevenLabs` -- speech to text: `Deepgram`  
+[Image](): Dev/API: `DALL-E`, `Stable Diffusion`, `Imagen`  
+[Image - User/App](): `MidJourney`, `FreePik`, `Adobe Firefly`  
+[Physics Engine](): `Genesis` -- [Image to 3D world](): `Odyssey `  
+[Video creation](): `Veo2` - `Kling-v1.6` - `Sora` - `Mochi(local)`  
+[Visual input](): `Grok vision` - `Amazon Rekognition` - `Imagen`  
 [Code assist](): `AI IDEs` - `Github Copilot` - `Ollama` + `Qwen2.x LLM`  
-[Dev assist](): Ready/Custom made `Agents` workflow - `Open Devin` - `Devika`  
-[Dev Tools](): Local Hub: `Ollama UI` `LM-studio` `Jan` - interact with websites: `GPT Crawler`
+[Dev assist](): Ready/Custom `Agents` workflow - `Open Devin` - `Devika`  
+[Dev Tools](): Local Hub: `Ollama UI` `LM-studio` `Jan` - interact with websites: `GPT Crawler`  
 <br>
 
 ### Best youtube AI Channels - <sub> *`links open Youtube channel`* </sub>  
