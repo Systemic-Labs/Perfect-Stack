@@ -13,14 +13,16 @@
 > [*Nothing's perfect*, yet..]() better options/methods improves DX, workflow, structure, progress, efficiency.  
 <br>
 
+[GitHub Repo >> https://github.com/Systemic-Labs/Perfect-Stack](https://github.com/Systemic-Labs/Perfect-Stack)  
+
 [To Contribute]() >> `add links` to items, `reason/prove` an obvious better option, `improve doc`.  
 ><sub>* target users - keywords: <i> `developers`, `designers`, `researchers`, `students`, `startups`, `decision makers` </i> </sub>
 <br>  
   
 <br>
-  
+
 # `Shortcuts `  
->
+
 > ### [ Intro ](#starter-intro)  
 > ### [ Awesome list ](#awesome-list)  
 > ### [ Programming Languages ](#programming-languages)  
@@ -87,7 +89,10 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 ***
 <br> <br>  
 
-# Awesome list  
+# Awesome list
+
+***
+
 <br>
 
 ## [AI](#ai)
@@ -98,7 +103,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 [Platform / API](): `Nvidia NIM`, `Claude`, `OpenAI`, `Google`, `x.ai`  
 [Inference Providers](): `Fireworks (best value)` - `Together.Ai` - `Replicate` - `OctoAI`  
 [Browser/Runtime (client/local)]():  `Ollama` - `Web LLM` - `Web-AI` - `MLC-LLM` - `Jan/Nitro`  
-[Docs / Github Repo / Research](https://github.com/codefuse-ai/Awesome-Code-LLM) (<-open link) codefuse-ai/Awesome-Code-LLM  
+[Docs-Info-Research](https://github.com/codefuse-ai/Awesome-Code-LLM) codefuse-ai/Awesome-Code-LLM  
 [AI Strategy Model HL](): `Local First` `Specializing` `Agents Orchestration` > `Unify/Re-iterate cycles`  
 [AI Strategy Process LL](): `in-context learning` > `fine-tuning EiF` > `Map categories` > `Rag cycle` > `objective structure` `solution/Output`  
 <br>
@@ -118,13 +123,13 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 <sub> * `AGI`(Artificial General Intelligence) -- `MoE`(Mixture of Experts) </sub>  
 <br>
 
-### AI Concepts, Tools, Audio, Video, etc...  
+### AI Tools, Audio, Video  
 
 [Autonomous Agents](): long-term mem: `MemGPT` - `CrewAI` -- toolchain: `Langchain` - `AutoGPT`  
 [Science/Research](): `NotebookLM (Gemini 2.x exp)` + Specific tools/models/libs  
 [Audio LL](): text to music: `Udio` -- TTS: `Parler TTS` - `PlayHT`  
 [Audio HL](): `Replika` - `ElevenLabs` -- speech to text: `Deepgram`  
-[Image](): Dev/API: `DALL-E`, `Stable Diffusion`, `Imagen`  
+[Image Dev/API](): `DALL-E`, `Stable Diffusion`, `Imagen`  
 [Image - User/App](): `MidJourney`, `FreePik`, `Adobe Firefly`  
 [Physics Engine](): `Genesis` -- [Image to 3D world](): `Odyssey `  
 [Video creation](): `Veo2` - `Kling-v1.6` - `Sora` - `Mochi(local)`  
@@ -134,22 +139,19 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 [Dev Tools](): Local Hub: `Ollama UI` `LM-studio` `Jan` - interact with websites: `GPT Crawler`  
 <br>
 
-### Best youtube AI Channels - <sub> *`links open Youtube channel`* </sub>  
-` Concept/Reserch` - [bycloud](https://www.youtube.com/@bycloudAI)  
-` Tutorial/Practical` -- [Ai Jason](https://www.youtube.com/@AIJasonZ/videos)  
-` News/Info/General` -- [Matthew Berman](https://www.youtube.com/@matthew_berman/featured)  
-` Research/Scientific` -- [Code your own AI](https://www.youtube.com/@code4AI/videos)
-<br>  
-
-![InkedAI-Srvc11](https://github.com/user-attachments/assets/32b1a202-f94a-4eab-bdd7-5462ea415e27)
-
+### Best youtube AI Channels - <sub> *`links open's Youtube channel`* </sub>  
+`Concept` -- [bycloud](https://www.youtube.com/@bycloudAI)  
+`Tutorial/Practical` -- [Ai Jason](https://www.youtube.com/@AIJasonZ/videos)  
+`News/Info/General` -- [Matthew Berman](https://www.youtube.com/@matthew_berman/featured)  
+`Research/Science` -- [Code your own AI](https://www.youtube.com/@code4AI/videos)
+<br>
 
 ##### `About ` [Different AI generations](#about-ai---generations) >>  
 ##### *[AI Awesome list Gist - more info/tools/applications](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  (Archived/Out-dated)
 
-[_^_](#shortcuts-)
+[_^_](#shortcuts)
 
----
+***
 <br>
 
 ## [Frameworks](#frameworks--) >>  
@@ -160,14 +162,14 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
  - **`Back-end`**: JS runtime-> Deno, Node.js/Bun - or specific platform, services, programming languages..  
  - **`Full-stack`**: Svelte-kit (true fullstack) - Astro(many frameworks) - Next/Nuxt (popular backends)  
  - **`Crossplatform`**: Tauri(desktop, mobile, Rust functions) - Socket runtime (desktop, mobile, P2P data)  
- - **`Programming Languages`**:  JS, Zig, Rust, Go, Elixir, Mojo, all based on use-case: client/server, AI, Mobile. [(..more)>>]()
+ - **`Programming Languages`**:  JS, Zig, Rust, Go, Elixir, Mojo, all based on use-case: client/server, AI, Mobile. [..more >>](#programming-languages)
 
 [_^_](#shortcuts-)  
 <br>  
 
 ### [UI](#ui-) >>  
 **`Standard CSS`**:
->
+
  - when more control, precision and customization or zero dependency is required.
  - Big-picture of system design is clear to a CSS specialist, just by looking at the code.  
  - new CSS standards solve much issuess developers had in the past.  
@@ -211,14 +213,14 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - `Cloudflare`: most professional option, reliable, advanced network system and services.  
 - `Hosting clouds`: used to host site/app, but now offer many cloud functions/solutions Ex: Vercel or Netlify  
 - `Enterprise`: (more features+scale - extra cloud functions/services)  
-> 1. Amazon AWS -- 2. Azure (Microsoft) -- 3. Google/Firebase  
+  1. Amazon AWS -- 2. Azure (Microsoft) -- 3. Google/Firebase  
 
-- #### [`Alternatives`](#alternatives): 
-  - `Cloud`: Vercel, Supabase - `CMS`: Prismic, Builder.io
-  - `Self-host`: [Cloud](): Coolify - [CMS](): Sveltia - [Server](): `PocketBase`  
-  - `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
-  - `Self hosted lib`: Gun.js => free, encrypted, distributed(web torrent).  
-  - `Fullstack servers` + `default options`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)
+#### [`Alternatives`](#alternatives): 
+- `Cloud`: Vercel, Supabase - `CMS`: Prismic, Builder.io  
+- `Self-host`: [Cloud](): Coolify - [CMS](): Sveltia - [Server](): `PocketBase`  
+- `Decentralised` -> Nostr, Bluesky/AT protocol. Social features, free, secure, anti-censorship.  
+- `Self hosted lib`: Gun.js => free, encrypted, distributed (web torrent)  
+- `Fullstack servers` + `default options`: cyclic.sh(full options +S3 +DynamoDB) - railway.app (+postgreSQL)  
 
 [_^_](#shortcuts-)  
 <br>
@@ -268,7 +270,9 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 ### Type Safety
 [Typescript](): Not a language, a superset over JS - a type system for JS - compiles to JS.  
 [Valibot](): schema library for validating structural data. also on runtime and integration point.  
-`..note`: type safety feature is effective in specific scenarios/points, and is not required in general.  <details> <summary>`..more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. In production is only effective if implemented for runtime on integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as IO, restricted or custom defined data structures. `Ex`: database schemas, configuration, components I/O authentication..  
+`..note`: type safety feature is effective in specific scenarios/points, and is not required in general.  
+
+<details> <summary> `..more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. In production is only effective if implemented for runtime on integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as IO, restricted or custom defined data structures. `Ex`: database schemas, configuration, components I/O authentication..  
 `Practical usage`: In large teams - random/outsourced/careless developers drop into codebase.  
 When type restrictions is forced on developers, they pre-encounter potential issues/errors, before conflict is reached, which forces them to solve it and follow type integrity on code import/export, and prevent careless mistakes (in algorithms, process..) before delivering their work. This ensures all follow same guidelines and defined boundries to get expected results even if they don't access/visualize/understand the code structure and intentions.  
 
@@ -443,21 +447,20 @@ Whenever learning something, learn latest stable standards and best practices, s
 <details>
 <summary> ...Details - Reasons and Pointers on choosing tech stack/methods... (press to expand)  
 </summary>
-- Avoid learning 6 ~ 10+ years old stuff if a better alternative is available.
- old tech was made for past era ecosystem, development model and HW/SW/issues.  
+Avoid learning 6 ~ 10+ years old stuff if a better alternative is available.
+old tech was made for past era ecosystem, development model and HW/SW/issues.  
 
-- Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, later new developers are forced to follow them. This process might repeat multiple times...   
+Is still popular due to seniors who learned it in past when it was a valid option and using it at work for years, later new developers are forced to follow them. This process might repeat multiple times..  
 
-- The old popular tech nature: ___ it works, is popular and has big community and resources, yet in time it becomes more complex, due to extensions, compatibility patches and conflict solving layers to make both the original and new syntax/tools/requirements work together...  Aside of that each time a new feature is added, this process might repeat, and the platform gets large, complex, multiple different revisions.(Ex: MS SDKs, .net framework,...)  
+The old popular tech nature: it works, is popular and has big community and resources, yet in time it becomes more complex, due to extensions, compatibility patches and conflict solving layers to make both the original and new syntax/tools/requirements work together...  Aside of that each time a new feature is added, this process might repeat, and the platform gets large, complex, multiple different revisions.(Ex: MS SDKs, .net framework..)  
 
-- Breaking changes and migration: ___ when a new feature that contradicts something in the system which can't be solved, the devs will decide to either give up on the feature, add extra flags/configs or make a breaking change, thus you must stay on old branch or learn + update your previous codes or totally migrate if is hopeless.  
-  - Each time a breaking change shows up, you might need to repeat this process. this makes multiple dev branches in a company if the team can't / won't follow.  
+Breaking changes and migration: when a new feature that contradicts something in the system which can't be solved, the devs will decide to either give up on the feature, add extra flags/configs or make a breaking change, thus you must stay on old branch or learn + update your previous codes or totally migrate if is hopeless.  
+Each time a breaking change shows up, you might need to repeat this process. this makes multiple dev branches in a company if the team can't / won't follow.  
 
-- Prevent Issues:  an old legacy target which depends on layers of other legacy tech, will encounter conflicts, compatibility, deprecated dependencies, which will cost time + resources + man power to solve them. 
+Prevent Issues:  an old legacy target which depends on layers of other legacy tech, will encounter conflicts, compatibility, deprecated dependencies, which will cost time + resources + man power to solve them.  
+Low level coding is not affected much by the mentioned issues. they rarely change, and if so, is about new features, compatibility and stability.  
 
-- Low level coding is not affected much by the mentioned issues. they rarely change, and if so, is about new features, compatibility and stability.  
-
-- Unnessecary overhead: as old devs retire,  new ones might add extra layers of abstraction instead of updating the original code, these issues cause: extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...
+Unnessecary overhead: as old devs retire,  new ones might add extra layers of abstraction instead of updating the original code, these issues cause: extra complexity, overhead, extra cost in long-term, Large number/size of files, large developer teams, or slow working pace,...
 </details>
 
 [_^_](#shortcuts-)  
