@@ -64,9 +64,11 @@ Therefore instead of market hype, make decisions based on facts, use whatever is
 Therefore If you're not forced or bound by a legacy eco-system or specific rules/conditions, do your research, compare options, and make decisions you benefit.  
 [*..extra pointers on this topic..>>*](#new-developer-or-decision-maker)  
 </details>  
+.  
+`Wish you good luck!`  
 
-` Wish you good luck! `  
  ***
+
 <br>
 
 ## Target Platforms  
@@ -85,9 +87,12 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - Learn the main skill from Docs, or best resources, search for recent materials with high views/stats on youtube.  
 - Group work, join friends, divide tasks/learning, share your findouts, practice as a team, is too much for one person.  
   
-> ` Go to beginner guideline details `-> [Web-Dev guideline](#web-development-guideline)  
+`More info: beginner guideline details` -> [Web-Dev guideline](#web-development-guideline)  
+
 ***
-<br> <br>  
+
+<br>  
+<br>  
 
 # Awesome list
 
@@ -98,22 +103,24 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 ## [AI](#ai)
 
 ### General  
-[Prompt/Cloud](): `Open AI chatGPT` - `Google Gemini` - `Groq`  
-[Prompt/Local](): `native device` - `chat with RTX` - `Jan` `Ollama`  
+[Prompt/Cloud](): `Deepseek` - `ChatGPT` - `Gemini` - `Groq`  
+[Prompt/Local](): `native device` - `chat with RTX` - `Jan` - `Ollama`  
 [Platform / API](): `Nvidia NIM`, `Claude`, `OpenAI`, `Google`, `x.ai`  
-[Inference Providers](): `Fireworks (best value)` - `Together.Ai` - `Replicate` - `OctoAI`  
+[Inference Providers](): `HF` - `Fireworks` - `Together.Ai` - `Replicate` - `OctoAI`  
 [Browser/Runtime (client/local)]():  `Ollama` - `Web LLM` - `Web-AI` - `MLC-LLM` - `Jan/Nitro`  
 [Docs-Info-Research](https://github.com/codefuse-ai/Awesome-Code-LLM) codefuse-ai/Awesome-Code-LLM  
-[AI Strategy Model HL](): `Local First` `Specializing` `Agents Orchestration` > `Unify/Re-iterate cycles`  
-[AI Strategy Process LL](): `in-context learning` > `fine-tuning EiF` > `Map categories` > `Rag cycle` > `objective structure` `solution/Output`  
+[AI Strategy Model HL](): `Local First` `prepare process` `intent tunning` `Specialized Agents` > `Orchestration` > `Solution` > `Story/Mission follow-up`  
+[AI Strategy Process ML](): `Re-iterate pipelines` > `deductive/inductive/integrate process` > `Build logical-conceptual solution stucture model` > `intent elements & rank` > `Result`  
+[AI Strategy Process LL](): `in-context learning` > `fine-tuning EiF` > `Map categories` > `Rag cycle` > `output pipelines` > `update/unify/integrate/testing` > `Output`  
+
 <br>
 
 ### LLM - AI models
-[Top Rank](): `DeepSeek-V3`, `Gemini-2.x/exp`, `GPT4-ox`, `Claude-3.5-Opus`  
-[Full Opensource](): `DeepSeek-V3` -- `Phi4` -- `Mixtral MoE`  
-[Local Run](): Desktop: `Qwen2.5-Inst(md)` - `Phi-4(md)` Server: `DeepSeek-V3`  
-[Local Run](): Mobile: `Phi-4(sm)` - `Qwen2.5-Inst(sm/xs)`  
-[Vision/LM](): `PaliGemma`  combined visual & text LLM - fine-tunes well in specific use-cases  
+[Top Rank](): `DeepSeek-R1`, `Gemini-2.x/exp`, `GPT-ox`, `Claude-3.x-Opus`  
+[Full Opensource](): `DeepSeek-V3/R1` -- `Phi4` -- `Mixtral MoE`  
+[Local Run](): Desktop: `Qwen2.5-Inst(md)` `Phi-4(md)` Server: `DeepSeek-R1`  
+[Local Run](): Mobile: `Phi-4(sm)` `Qwen2.x-(sm)` `SmolVLM`  
+[Vision/VLM](): `PaliGemma` `SmolVLM` - (visual & text LLM)  
 
 ### Dev Environments
 [Hybrid Local](): VS-Code + `Github Copilot` - Pros: `Free` + `Local` + `Cloud`  
@@ -127,7 +134,8 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 
 [Autonomous Agents](): long-term mem: `MemGPT` - `CrewAI` -- toolchain: `Langchain` - `AutoGPT`  
 [Science/Research](): `NotebookLM (Gemini 2.x exp)` + Specific tools/models/libs  
-[Audio LL](): text to music: `Udio` -- TTS: `Parler TTS` - `PlayHT`  
+[Audio LL](): text to music: `Udio`  
+[Audio TTS](): `LLASA TTS` - `Parler TTS` - `PlayHT`  
 [Audio HL](): `Replika` - `ElevenLabs` -- speech to text: `Deepgram`  
 [Image Dev/API](): `DALL-E`, `Stable Diffusion`, `Imagen`  
 [Image - User/App](): `MidJourney`, `FreePik`, `Adobe Firefly`  
@@ -135,8 +143,9 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 [Video creation](): `Veo2` - `Kling-v1.6` - `Sora` - `Mochi(local)`  
 [Visual input](): `Grok vision` - `Amazon Rekognition` - `Imagen`  
 [Code assist](): `AI IDEs` - `Github Copilot` - `Ollama` + `Qwen2.x LLM`  
-[Dev assist](): Ready/Custom `Agents` workflow - `Open Devin` - `Devika`  
+[Dev assist](): `ready-made Agents workflow` - `Open Devin` - `Devika`  
 [Dev Tools](): Local Hub: `Ollama UI` `LM-studio` `Jan` - interact with websites: `GPT Crawler`  
+
 <br>
 
 ### Best youtube AI Channels - <sub> *`links open's Youtube channel`* </sub>  
@@ -149,7 +158,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 ##### `About ` [Different AI generations](#about-ai---generations) >>  
 ##### *[AI Awesome list Gist - more info/tools/applications](https://gist.github.com/Peyman-Borhani/57c3dd9ec0754c68d1dda3698b00f760)* >>  (Archived/Out-dated)
 
-[_^_](#shortcuts)
+[_^_](#shortcuts-)
 
 ***
 <br>
