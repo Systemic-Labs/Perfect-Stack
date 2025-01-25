@@ -195,8 +195,8 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - **`Icon-sets`**: `unplugin-icons`: best to import various icons, no deps, vite plugin tooling  
 - **`3D`**:  Spline, Babylone.js(FW), Three.js(lib), Threlte(Svelte+three), Unity Tiny  
   
-  
- ### [UI Recommendations](#ui-recommendations--reason) + `reason`:
+### [UI Recommendations](#ui-recommendations--reason) + `reason`:  
+
  - `UnoCSS`  - best toolkit and  presets. (code in other Lib, compiled into standard CSS)  
  - `picoCSS` - best for predefined styling of standard HTML Tags.  
  - `DaisyUI` - best pure CSS UI components lib you can get while JS is optional.  
@@ -225,8 +225,9 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 [_^_](#shortcuts-)  
 <br>
 
-### [Database](#database):
-- `Next-Gen: (decentralized/p2p privacy, security, extras): Nostr, AT protocol, GunDB.  
+### [Database](#database):  
+
+- `Next-Gen`: (decentralized/p2p privacy, security, extras): Nostr, AT protocol, GunDB.  
 - `Performance`: cloud edge DBs `->` Turso(libSQL), Cloudflare/DenoDeploy(KV). `multi-model`: Redis + modules.  
 - `Innovative`: Drizzle + Turso - EdgeDB - SurrealDB - Dgraph(graphQL+DX)  - Vector DBs (AI use-cases).  
 - `Open Source`:  
@@ -234,6 +235,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
   - `Arango DB` (multi-model) to self host or cloud.  
 
 - `Recommendations`:  
+
   > **` Nostr`** : decentralized communication protocol. user ownership of data, privacy and sharing.  
   > **` Turso`** : libSQL DB on cloud/edge. (fastest SQL on edge)  
   > **` libSQL`** : best SQLite fork for local DB (server/mobile app)  
@@ -242,9 +244,11 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
   > **` SurrealDB`**: advanced, lots of DB models, features, customize and options.
 
 [_^_](#shortcuts-)  
+
 <br>  
 
-### [API / Communication patterns](#api):
+### [API / Communication patterns](#api):  
+
 
 - `REST `: a client request data/information.. from a server, which responds with state+data.  
 - `GraphQL`. similar to rest but query a specific set of data, by relation/s, only effective if correctly queried(not less, not more).  
@@ -275,10 +279,9 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 <details> <summary> `..more on type safety and typescript`: </summary> Majority misunderstand TS for safety, security and a language by itself, while it mostly impacts development cycle. In production is only effective if implemented for runtime on integration validation points. Therefore use Typescript/typesafety layer only when the usecase is valid, or required. such as IO, restricted or custom defined data structures. `Ex`: database schemas, configuration, components I/O authentication..  
 `Practical usage`: In large teams - random/outsourced/careless developers drop into codebase.  
 When type restrictions is forced on developers, they pre-encounter potential issues/errors, before conflict is reached, which forces them to solve it and follow type integrity on code import/export, and prevent careless mistakes (in algorithms, process..) before delivering their work. This ensures all follow same guidelines and defined boundries to get expected results even if they don't access/visualize/understand the code structure and intentions.  
+The Cons: Only runs at dev time, removed in production. A solo dev or small team owning codebase won't need it, unless proven otherwise or on integration and run-time.  a codebase becomes more complex to read/visualize.. Only good TS devs/teamlead can understand or reason the usage, for others is just a complexity addon.  
 
-The Cons: Only runs in dev time, and is removed in production. A solo dev or small team of pros don't need this.. a codebase becomes more complex to read/visualize.. Only good TS devs can understand whats happening, for others is more confusing, they just follow..  
-
-Therefore it cost more time, resources and efficiency. It's simpler and more efficient to use a validation system such as `Valibot`, at critical or specific points, can use it in JS too, and in runtime.  
+Therefore it cost more time, resources and efficiency. It's simpler and more efficient to use a validation system such as `Valibot`, at integration, critical or specific points, it works in JS too, and in runtime.  
 </details>
   
 [_^_](#shortcuts-)  
