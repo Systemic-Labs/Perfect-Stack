@@ -202,6 +202,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - **`CSS toolkit`**:  Tailwind or UnoCSS - build available CSS presets/syntax into standard CSS  
 - **`UI-Kits`**: CSS components: `Daisy UI` - functional components: `Skeleton`, `flowbite`, `ShadCN`  
 - **`Icon-sets`**: `unplugin-icons`: best to import various icons, no deps, vite plugin tooling  
+- **`Fonts`**: `Roboto` `Lato` `Open Sans` `Segoe-UI` `Oswald` `Slabo` `Commit-Mono`  
 - **`3D`**:  Spline, Babylone.js(FW), Three.js(lib), Threlte(Svelte+three), Unity Tiny  
   
 ### [UI Recommendations](#ui-recommendations--reason) + `reason`:  
