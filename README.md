@@ -202,7 +202,7 @@ Therefore If you're not forced or bound by a legacy eco-system or specific rules
 - **`CSS toolkit`**:  Tailwind or UnoCSS - build available CSS presets/syntax into standard CSS  
 - **`UI-Kits`**: CSS components: `Daisy UI` - functional components: `Skeleton`, `flowbite`, `ShadCN`  
 - **`Icon-sets`**: `unplugin-icons`: best to import various icons, no deps, vite plugin tooling  
-- **`Fonts`**: `Roboto` `Lato` `Open Sans` `Segoe-UI` `Oswald` `Slabo` `Commit-Mono`  
+- **`Fonts`**: `System font` `Roboto` `Segoe-UI` `Lucida` `Oswald` `Slabo` `Commit-Mono`  
 - **`3D`**:  Spline, Babylone.js(FW), Three.js(lib), Threlte(Svelte+three), Unity Tiny  
   
 ### [UI Recommendations](#ui-recommendations--reason) + `reason`:  
@@ -321,7 +321,7 @@ Therefore it cost more time, resources and efficiency. It's simpler and more eff
 
 ### [Frameworks Architecture](#frameworks-architecture)  
 
-- `Font-end`(client side) - `Backend`(server-side) - `Fullstack`(Front and back) - `Unified Fullstack`(integrated model).  
+- `Front-end`(client side) - `Backend`(server-side) - `Fullstack`(Front and back) - `Unified Fullstack`(integrated model).  
 - **SSG** `Static Site Generation` pre-built app/content > host-CDN > page/app delivered on user request > on client side.  
 - **CSR** `Client side rendering` both static and dynamic content on client side. Updates are based on app logic and UI design.  
 - **SSR** `Server Side Rendering` UI > client > user interaction > server > processed real-time on server > new renders > client.  
